@@ -1,0 +1,6792 @@
+[
+  {
+    "lessonId": 1,
+    "telugu": "నమస్తే",
+    "romanized": "Namaste",
+    "english": "Hello/Goodbye",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 1,
+    "telugu": "హలో",
+    "romanized": "Halo",
+    "english": "Hello",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 1,
+    "telugu": "ధన్యవాదాలు",
+    "romanized": "Dhanyavaadalu",
+    "english": "Thank you",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 1,
+    "telugu": "మంచి రోజు",
+    "romanized": "Manchi roju",
+    "english": "Good day",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 1,
+    "telugu": "మంచి మినహా",
+    "romanized": "Manchi mana",
+    "english": "Good morning",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 1,
+    "telugu": "మంచి సాయంత్రం",
+    "romanized": "Manchi saayam",
+    "english": "Good evening",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 1,
+    "telugu": "మంచి రాత్రి",
+    "romanized": "Manchi raatri",
+    "english": "Good night",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 1,
+    "telugu": "అవును",
+    "romanized": "Avunu",
+    "english": "Yes",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 1,
+    "telugu": "కాదు",
+    "romanized": "Kaadhu",
+    "english": "No",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 1,
+    "telugu": "చూడండి",
+    "romanized": "Choodandi",
+    "english": "Please look",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "ధన్యవాదాలు",
+    "romanized": "Dhanyavaadalu",
+    "english": "Thank you",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "మంచి రోజు",
+    "romanized": "Manchi roju",
+    "english": "Good day",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "మంచి మినహా",
+    "romanized": "Manchi mana",
+    "english": "Good morning",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "మంచి సాయంత్రం",
+    "romanized": "Manchi saayam",
+    "english": "Good evening",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "మంచి రాత్రి",
+    "romanized": "Manchi raatri",
+    "english": "Good night",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "అవును",
+    "romanized": "Avunu",
+    "english": "Yes",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "కాదు",
+    "romanized": "Kaadhu",
+    "english": "No",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "చూడండి",
+    "romanized": "Choodandi",
+    "english": "Please look",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "క్షమించండి",
+    "romanized": "Kshaminchandi",
+    "english": "Sorry",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "ఎలా ఉన్నారు?",
+    "romanized": "Ela unnaaru?",
+    "english": "How are you?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "మంచి మినహా",
+    "romanized": "Manchi mana",
+    "english": "Good morning",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "మంచి సాయంత్రం",
+    "romanized": "Manchi saayam",
+    "english": "Good evening",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "మంచి రాత్రి",
+    "romanized": "Manchi raatri",
+    "english": "Good night",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "అవును",
+    "romanized": "Avunu",
+    "english": "Yes",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "కాదు",
+    "romanized": "Kaadhu",
+    "english": "No",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "చూడండి",
+    "romanized": "Choodandi",
+    "english": "Please look",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "క్షమించండి",
+    "romanized": "Kshaminchandi",
+    "english": "Sorry",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "ఎలా ఉన్నారు?",
+    "romanized": "Ela unnaaru?",
+    "english": "How are you?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "నేను బాగా ఉన్నాను",
+    "romanized": "Nenu baaga unnaanu",
+    "english": "I am fine",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "మీరు ఎవరు?",
+    "romanized": "Meeru evaru?",
+    "english": "Who are you?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "మంచి రాత్రి",
+    "romanized": "Manchi raatri",
+    "english": "Good night",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "అవును",
+    "romanized": "Avunu",
+    "english": "Yes",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "కాదు",
+    "romanized": "Kaadhu",
+    "english": "No",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "చూడండి",
+    "romanized": "Choodandi",
+    "english": "Please look",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "క్షమించండి",
+    "romanized": "Kshaminchandi",
+    "english": "Sorry",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "ఎలా ఉన్నారు?",
+    "romanized": "Ela unnaaru?",
+    "english": "How are you?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "నేను బాగా ఉన్నాను",
+    "romanized": "Nenu baaga unnaanu",
+    "english": "I am fine",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "మీరు ఎవరు?",
+    "romanized": "Meeru evaru?",
+    "english": "Who are you?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "నేను",
+    "romanized": "Nenu",
+    "english": "I",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "నీవు",
+    "romanized": "Neevu",
+    "english": "You",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "కాదు",
+    "romanized": "Kaadhu",
+    "english": "No",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "చూడండి",
+    "romanized": "Choodandi",
+    "english": "Please look",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "క్షమించండి",
+    "romanized": "Kshaminchandi",
+    "english": "Sorry",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "ఎలా ఉన్నారు?",
+    "romanized": "Ela unnaaru?",
+    "english": "How are you?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "నేను బాగా ఉన్నాను",
+    "romanized": "Nenu baaga unnaanu",
+    "english": "I am fine",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "మీరు ఎవరు?",
+    "romanized": "Meeru evaru?",
+    "english": "Who are you?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "నేను",
+    "romanized": "Nenu",
+    "english": "I",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "నీవు",
+    "romanized": "Neevu",
+    "english": "You",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "అతను",
+    "romanized": "Athanu",
+    "english": "He",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "ఆమె",
+    "romanized": "Aame",
+    "english": "She",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "క్షమించండి",
+    "romanized": "Kshaminchandi",
+    "english": "Sorry",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "ఎలా ఉన్నారు?",
+    "romanized": "Ela unnaaru?",
+    "english": "How are you?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "నేను బాగా ఉన్నాను",
+    "romanized": "Nenu baaga unnaanu",
+    "english": "I am fine",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "మీరు ఎవరు?",
+    "romanized": "Meeru evaru?",
+    "english": "Who are you?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "నేను",
+    "romanized": "Nenu",
+    "english": "I",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "నీవు",
+    "romanized": "Neevu",
+    "english": "You",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "అతను",
+    "romanized": "Athanu",
+    "english": "He",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "ఆమె",
+    "romanized": "Aame",
+    "english": "She",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "మేము",
+    "romanized": "Memu",
+    "english": "We",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "వారు",
+    "romanized": "Vaaru",
+    "english": "They",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "నేను బాగా ఉన్నాను",
+    "romanized": "Nenu baaga unnaanu",
+    "english": "I am fine",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "మీరు ఎవరు?",
+    "romanized": "Meeru evaru?",
+    "english": "Who are you?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "నేను",
+    "romanized": "Nenu",
+    "english": "I",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "నీవు",
+    "romanized": "Neevu",
+    "english": "You",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "అతను",
+    "romanized": "Athanu",
+    "english": "He",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "ఆమె",
+    "romanized": "Aame",
+    "english": "She",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "మేము",
+    "romanized": "Memu",
+    "english": "We",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "వారు",
+    "romanized": "Vaaru",
+    "english": "They",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "ఎంత?",
+    "romanized": "Entha?",
+    "english": "How much?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "ఎక్కడ?",
+    "romanized": "Ekkada?",
+    "english": "Where?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 8,
+    "telugu": "నేను",
+    "romanized": "Nenu",
+    "english": "I",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 8,
+    "telugu": "నీవు",
+    "romanized": "Neevu",
+    "english": "You",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 8,
+    "telugu": "అతను",
+    "romanized": "Athanu",
+    "english": "He",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 8,
+    "telugu": "ఆమె",
+    "romanized": "Aame",
+    "english": "She",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 8,
+    "telugu": "మేము",
+    "romanized": "Memu",
+    "english": "We",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 8,
+    "telugu": "వారు",
+    "romanized": "Vaaru",
+    "english": "They",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 8,
+    "telugu": "ఎంత?",
+    "romanized": "Entha?",
+    "english": "How much?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 8,
+    "telugu": "ఎక్కడ?",
+    "romanized": "Ekkada?",
+    "english": "Where?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 8,
+    "telugu": "ఏమి?",
+    "romanized": "Emi?",
+    "english": "What?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 8,
+    "telugu": "ఎవరు?",
+    "romanized": "Evaru?",
+    "english": "Who?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 9,
+    "telugu": "అతను",
+    "romanized": "Athanu",
+    "english": "He",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 9,
+    "telugu": "ఆమె",
+    "romanized": "Aame",
+    "english": "She",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 9,
+    "telugu": "మేము",
+    "romanized": "Memu",
+    "english": "We",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 9,
+    "telugu": "వారు",
+    "romanized": "Vaaru",
+    "english": "They",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 9,
+    "telugu": "ఎంత?",
+    "romanized": "Entha?",
+    "english": "How much?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 9,
+    "telugu": "ఎక్కడ?",
+    "romanized": "Ekkada?",
+    "english": "Where?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 9,
+    "telugu": "ఏమి?",
+    "romanized": "Emi?",
+    "english": "What?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 9,
+    "telugu": "ఎవరు?",
+    "romanized": "Evaru?",
+    "english": "Who?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 9,
+    "telugu": "ఎందుకు?",
+    "romanized": "Endhuku?",
+    "english": "Why?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 9,
+    "telugu": "ఎలా?",
+    "romanized": "Ela?",
+    "english": "How?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "మేము",
+    "romanized": "Memu",
+    "english": "We",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "వారు",
+    "romanized": "Vaaru",
+    "english": "They",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "ఎంత?",
+    "romanized": "Entha?",
+    "english": "How much?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "ఎక్కడ?",
+    "romanized": "Ekkada?",
+    "english": "Where?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "ఏమి?",
+    "romanized": "Emi?",
+    "english": "What?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "ఎవరు?",
+    "romanized": "Evaru?",
+    "english": "Who?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "ఎందుకు?",
+    "romanized": "Endhuku?",
+    "english": "Why?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "ఎలా?",
+    "romanized": "Ela?",
+    "english": "How?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "బాగుంది",
+    "romanized": "Baagundi",
+    "english": "It's good",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "చాలా",
+    "romanized": "Chaala",
+    "english": "Very/Many",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "ఒకటి",
+    "romanized": "Okati",
+    "english": "One",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "రెండు",
+    "romanized": "Rendu",
+    "english": "Two",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "మూడు",
+    "romanized": "Moodu",
+    "english": "Three",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "నాలుగు",
+    "romanized": "Naalugu",
+    "english": "Four",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "అయిదు",
+    "romanized": "Ayidu",
+    "english": "Five",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "ఆరు",
+    "romanized": "Aaru",
+    "english": "Six",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "ఏడు",
+    "romanized": "Yedu",
+    "english": "Seven",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "ఎనిమిది",
+    "romanized": "Enimidi",
+    "english": "Eight",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "తొమ్మిది",
+    "romanized": "Thomidhi",
+    "english": "Nine",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "పది",
+    "romanized": "Padi",
+    "english": "Ten",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "రెండు",
+    "romanized": "Rendu",
+    "english": "Two",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "మూడు",
+    "romanized": "Moodu",
+    "english": "Three",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "నాలుగు",
+    "romanized": "Naalugu",
+    "english": "Four",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "అయిదు",
+    "romanized": "Ayidu",
+    "english": "Five",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "ఆరు",
+    "romanized": "Aaru",
+    "english": "Six",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "ఏడు",
+    "romanized": "Yedu",
+    "english": "Seven",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "ఎనిమిది",
+    "romanized": "Enimidi",
+    "english": "Eight",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "తొమ్మిది",
+    "romanized": "Thomidhi",
+    "english": "Nine",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "పది",
+    "romanized": "Padi",
+    "english": "Ten",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "పదిహేను",
+    "romanized": "Padihen",
+    "english": "Fifteen",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 13,
+    "telugu": "మూడు",
+    "romanized": "Moodu",
+    "english": "Three",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 13,
+    "telugu": "నాలుగు",
+    "romanized": "Naalugu",
+    "english": "Four",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 13,
+    "telugu": "అయిదు",
+    "romanized": "Ayidu",
+    "english": "Five",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 13,
+    "telugu": "ఆరు",
+    "romanized": "Aaru",
+    "english": "Six",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 13,
+    "telugu": "ఏడు",
+    "romanized": "Yedu",
+    "english": "Seven",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 13,
+    "telugu": "ఎనిమిది",
+    "romanized": "Enimidi",
+    "english": "Eight",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 13,
+    "telugu": "తొమ్మిది",
+    "romanized": "Thomidhi",
+    "english": "Nine",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 13,
+    "telugu": "పది",
+    "romanized": "Padi",
+    "english": "Ten",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 13,
+    "telugu": "పదిహేను",
+    "romanized": "Padihen",
+    "english": "Fifteen",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 13,
+    "telugu": "ఇరవై",
+    "romanized": "Iravai",
+    "english": "Twenty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 14,
+    "telugu": "అయిదు",
+    "romanized": "Ayidu",
+    "english": "Five",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 14,
+    "telugu": "ఆరు",
+    "romanized": "Aaru",
+    "english": "Six",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 14,
+    "telugu": "ఏడు",
+    "romanized": "Yedu",
+    "english": "Seven",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 14,
+    "telugu": "ఎనిమిది",
+    "romanized": "Enimidi",
+    "english": "Eight",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 14,
+    "telugu": "తొమ్మిది",
+    "romanized": "Thomidhi",
+    "english": "Nine",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 14,
+    "telugu": "పది",
+    "romanized": "Padi",
+    "english": "Ten",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 14,
+    "telugu": "పదిహేను",
+    "romanized": "Padihen",
+    "english": "Fifteen",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 14,
+    "telugu": "ఇరవై",
+    "romanized": "Iravai",
+    "english": "Twenty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 14,
+    "telugu": "ముప్పై",
+    "romanized": "Muppaai",
+    "english": "Thirty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 14,
+    "telugu": "నలభై",
+    "romanized": "Nalabai",
+    "english": "Forty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "ఆరు",
+    "romanized": "Aaru",
+    "english": "Six",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "ఏడు",
+    "romanized": "Yedu",
+    "english": "Seven",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "ఎనిమిది",
+    "romanized": "Enimidi",
+    "english": "Eight",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "తొమ్మిది",
+    "romanized": "Thomidhi",
+    "english": "Nine",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "పది",
+    "romanized": "Padi",
+    "english": "Ten",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "పదిహేను",
+    "romanized": "Padihen",
+    "english": "Fifteen",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "ఇరవై",
+    "romanized": "Iravai",
+    "english": "Twenty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "ముప్పై",
+    "romanized": "Muppaai",
+    "english": "Thirty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "నలభై",
+    "romanized": "Nalabai",
+    "english": "Forty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "యాభై",
+    "romanized": "Yaabai",
+    "english": "Fifty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "ఏడు",
+    "romanized": "Yedu",
+    "english": "Seven",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "ఎనిమిది",
+    "romanized": "Enimidi",
+    "english": "Eight",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "తొమ్మిది",
+    "romanized": "Thomidhi",
+    "english": "Nine",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "పది",
+    "romanized": "Padi",
+    "english": "Ten",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "పదిహేను",
+    "romanized": "Padihen",
+    "english": "Fifteen",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "ఇరవై",
+    "romanized": "Iravai",
+    "english": "Twenty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "ముప్పై",
+    "romanized": "Muppaai",
+    "english": "Thirty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "నలభై",
+    "romanized": "Nalabai",
+    "english": "Forty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "యాభై",
+    "romanized": "Yaabai",
+    "english": "Fifty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "అరవై",
+    "romanized": "Aravai",
+    "english": "Sixty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "ఎనిమిది",
+    "romanized": "Enimidi",
+    "english": "Eight",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "తొమ్మిది",
+    "romanized": "Thomidhi",
+    "english": "Nine",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "పది",
+    "romanized": "Padi",
+    "english": "Ten",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "పదిహేను",
+    "romanized": "Padihen",
+    "english": "Fifteen",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "ఇరవై",
+    "romanized": "Iravai",
+    "english": "Twenty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "ముప్పై",
+    "romanized": "Muppaai",
+    "english": "Thirty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "నలభై",
+    "romanized": "Nalabai",
+    "english": "Forty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "యాభై",
+    "romanized": "Yaabai",
+    "english": "Fifty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "అరవై",
+    "romanized": "Aravai",
+    "english": "Sixty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "డెబ్బై",
+    "romanized": "Debbai",
+    "english": "Seventy",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 18,
+    "telugu": "పది",
+    "romanized": "Padi",
+    "english": "Ten",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 18,
+    "telugu": "పదిహేను",
+    "romanized": "Padihen",
+    "english": "Fifteen",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 18,
+    "telugu": "ఇరవై",
+    "romanized": "Iravai",
+    "english": "Twenty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 18,
+    "telugu": "ముప్పై",
+    "romanized": "Muppaai",
+    "english": "Thirty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 18,
+    "telugu": "నలభై",
+    "romanized": "Nalabai",
+    "english": "Forty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 18,
+    "telugu": "యాభై",
+    "romanized": "Yaabai",
+    "english": "Fifty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 18,
+    "telugu": "అరవై",
+    "romanized": "Aravai",
+    "english": "Sixty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 18,
+    "telugu": "డెబ్బై",
+    "romanized": "Debbai",
+    "english": "Seventy",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 18,
+    "telugu": "ఎనభై",
+    "romanized": "Enabai",
+    "english": "Eighty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 18,
+    "telugu": "తొంభై",
+    "romanized": "Thomabai",
+    "english": "Ninety",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 19,
+    "telugu": "పదిహేను",
+    "romanized": "Padihen",
+    "english": "Fifteen",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 19,
+    "telugu": "ఇరవై",
+    "romanized": "Iravai",
+    "english": "Twenty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 19,
+    "telugu": "ముప్పై",
+    "romanized": "Muppaai",
+    "english": "Thirty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 19,
+    "telugu": "నలభై",
+    "romanized": "Nalabai",
+    "english": "Forty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 19,
+    "telugu": "యాభై",
+    "romanized": "Yaabai",
+    "english": "Fifty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 19,
+    "telugu": "అరవై",
+    "romanized": "Aravai",
+    "english": "Sixty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 19,
+    "telugu": "డెబ్బై",
+    "romanized": "Debbai",
+    "english": "Seventy",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 19,
+    "telugu": "ఎనభై",
+    "romanized": "Enabai",
+    "english": "Eighty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 19,
+    "telugu": "తొంభై",
+    "romanized": "Thomabai",
+    "english": "Ninety",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 19,
+    "telugu": "వంద",
+    "romanized": "Vanda",
+    "english": "Hundred",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "ఇరవై",
+    "romanized": "Iravai",
+    "english": "Twenty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "ముప్పై",
+    "romanized": "Muppaai",
+    "english": "Thirty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "నలభై",
+    "romanized": "Nalabai",
+    "english": "Forty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "యాభై",
+    "romanized": "Yaabai",
+    "english": "Fifty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "అరవై",
+    "romanized": "Aravai",
+    "english": "Sixty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "డెబ్బై",
+    "romanized": "Debbai",
+    "english": "Seventy",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "ఎనభై",
+    "romanized": "Enabai",
+    "english": "Eighty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "తొంభై",
+    "romanized": "Thomabai",
+    "english": "Ninety",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "వంద",
+    "romanized": "Vanda",
+    "english": "Hundred",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "ఇలవు",
+    "romanized": "Ilavu",
+    "english": "Thousand",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "తండ్రి",
+    "romanized": "Thandri",
+    "english": "Father",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "తల్లి",
+    "romanized": "Thalli",
+    "english": "Mother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "అన్నయ్య",
+    "romanized": "Annayya",
+    "english": "Elder Brother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "తమ్ముడు",
+    "romanized": "Thammudu",
+    "english": "Younger Brother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "అక్క",
+    "romanized": "Akka",
+    "english": "Elder Sister",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "అమ్మా",
+    "romanized": "Ammaa",
+    "english": "Younger Sister",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "మామ",
+    "romanized": "Maama",
+    "english": "Maternal Uncle",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "మేనకోడలు",
+    "romanized": "Menakodalu",
+    "english": "Niece",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "మేనల్లుడు",
+    "romanized": "Menalludu",
+    "english": "Nephew",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "అత్త",
+    "romanized": "Attha",
+    "english": "Mother-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "తల్లి",
+    "romanized": "Thalli",
+    "english": "Mother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "అన్నయ్య",
+    "romanized": "Annayya",
+    "english": "Elder Brother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "తమ్ముడు",
+    "romanized": "Thammudu",
+    "english": "Younger Brother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "అక్క",
+    "romanized": "Akka",
+    "english": "Elder Sister",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "అమ్మా",
+    "romanized": "Ammaa",
+    "english": "Younger Sister",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "మామ",
+    "romanized": "Maama",
+    "english": "Maternal Uncle",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "మేనకోడలు",
+    "romanized": "Menakodalu",
+    "english": "Niece",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "మేనల్లుడు",
+    "romanized": "Menalludu",
+    "english": "Nephew",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "అత్త",
+    "romanized": "Attha",
+    "english": "Mother-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "అల్లుడు",
+    "romanized": "Alludu",
+    "english": "Son-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "అన్నయ్య",
+    "romanized": "Annayya",
+    "english": "Elder Brother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "తమ్ముడు",
+    "romanized": "Thammudu",
+    "english": "Younger Brother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "అక్క",
+    "romanized": "Akka",
+    "english": "Elder Sister",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "అమ్మా",
+    "romanized": "Ammaa",
+    "english": "Younger Sister",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "మామ",
+    "romanized": "Maama",
+    "english": "Maternal Uncle",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "మేనకోడలు",
+    "romanized": "Menakodalu",
+    "english": "Niece",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "మేనల్లుడు",
+    "romanized": "Menalludu",
+    "english": "Nephew",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "అత్త",
+    "romanized": "Attha",
+    "english": "Mother-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "అల్లుడు",
+    "romanized": "Alludu",
+    "english": "Son-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "కోడలు",
+    "romanized": "Kodalu",
+    "english": "Daughter-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "తమ్ముడు",
+    "romanized": "Thammudu",
+    "english": "Younger Brother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "అక్క",
+    "romanized": "Akka",
+    "english": "Elder Sister",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "అమ్మా",
+    "romanized": "Ammaa",
+    "english": "Younger Sister",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "మామ",
+    "romanized": "Maama",
+    "english": "Maternal Uncle",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "మేనకోడలు",
+    "romanized": "Menakodalu",
+    "english": "Niece",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "మేనల్లుడు",
+    "romanized": "Menalludu",
+    "english": "Nephew",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "అత్త",
+    "romanized": "Attha",
+    "english": "Mother-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "అల్లుడు",
+    "romanized": "Alludu",
+    "english": "Son-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "కోడలు",
+    "romanized": "Kodalu",
+    "english": "Daughter-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "అమ్మాయి",
+    "romanized": "Ammayi",
+    "english": "Baby Girl",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "అక్క",
+    "romanized": "Akka",
+    "english": "Elder Sister",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "అమ్మా",
+    "romanized": "Ammaa",
+    "english": "Younger Sister",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "మామ",
+    "romanized": "Maama",
+    "english": "Maternal Uncle",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "మేనకోడలు",
+    "romanized": "Menakodalu",
+    "english": "Niece",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "మేనల్లుడు",
+    "romanized": "Menalludu",
+    "english": "Nephew",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "అత్త",
+    "romanized": "Attha",
+    "english": "Mother-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "అల్లుడు",
+    "romanized": "Alludu",
+    "english": "Son-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "కోడలు",
+    "romanized": "Kodalu",
+    "english": "Daughter-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "అమ్మాయి",
+    "romanized": "Ammayi",
+    "english": "Baby Girl",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "అబ్బాయి",
+    "romanized": "Abbaayi",
+    "english": "Baby Boy",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "మామ",
+    "romanized": "Maama",
+    "english": "Maternal Uncle",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "మేనకోడలు",
+    "romanized": "Menakodalu",
+    "english": "Niece",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "మేనల్లుడు",
+    "romanized": "Menalludu",
+    "english": "Nephew",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "అత్త",
+    "romanized": "Attha",
+    "english": "Mother-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "అల్లుడు",
+    "romanized": "Alludu",
+    "english": "Son-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "కోడలు",
+    "romanized": "Kodalu",
+    "english": "Daughter-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "అమ్మాయి",
+    "romanized": "Ammayi",
+    "english": "Baby Girl",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "అబ్బాయి",
+    "romanized": "Abbaayi",
+    "english": "Baby Boy",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "పిల్లలు",
+    "romanized": "Pillalu",
+    "english": "Children",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "తాత",
+    "romanized": "Thaata",
+    "english": "Grandfather",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "మేనకోడలు",
+    "romanized": "Menakodalu",
+    "english": "Niece",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "మేనల్లుడు",
+    "romanized": "Menalludu",
+    "english": "Nephew",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "అత్త",
+    "romanized": "Attha",
+    "english": "Mother-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "అల్లుడు",
+    "romanized": "Alludu",
+    "english": "Son-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "కోడలు",
+    "romanized": "Kodalu",
+    "english": "Daughter-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "అమ్మాయి",
+    "romanized": "Ammayi",
+    "english": "Baby Girl",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "అబ్బాయి",
+    "romanized": "Abbaayi",
+    "english": "Baby Boy",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "పిల్లలు",
+    "romanized": "Pillalu",
+    "english": "Children",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "తాత",
+    "romanized": "Thaata",
+    "english": "Grandfather",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "అవ్వ",
+    "romanized": "Avva",
+    "english": "Grandmother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 28,
+    "telugu": "మేనల్లుడు",
+    "romanized": "Menalludu",
+    "english": "Nephew",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 28,
+    "telugu": "అత్త",
+    "romanized": "Attha",
+    "english": "Mother-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 28,
+    "telugu": "అల్లుడు",
+    "romanized": "Alludu",
+    "english": "Son-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 28,
+    "telugu": "కోడలు",
+    "romanized": "Kodalu",
+    "english": "Daughter-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 28,
+    "telugu": "అమ్మాయి",
+    "romanized": "Ammayi",
+    "english": "Baby Girl",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 28,
+    "telugu": "అబ్బాయి",
+    "romanized": "Abbaayi",
+    "english": "Baby Boy",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 28,
+    "telugu": "పిల్లలు",
+    "romanized": "Pillalu",
+    "english": "Children",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 28,
+    "telugu": "తాత",
+    "romanized": "Thaata",
+    "english": "Grandfather",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 28,
+    "telugu": "అవ్వ",
+    "romanized": "Avva",
+    "english": "Grandmother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 28,
+    "telugu": "భర్త",
+    "romanized": "Bharthu",
+    "english": "Husband",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 29,
+    "telugu": "అత్త",
+    "romanized": "Attha",
+    "english": "Mother-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 29,
+    "telugu": "అల్లుడు",
+    "romanized": "Alludu",
+    "english": "Son-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 29,
+    "telugu": "కోడలు",
+    "romanized": "Kodalu",
+    "english": "Daughter-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 29,
+    "telugu": "అమ్మాయి",
+    "romanized": "Ammayi",
+    "english": "Baby Girl",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 29,
+    "telugu": "అబ్బాయి",
+    "romanized": "Abbaayi",
+    "english": "Baby Boy",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 29,
+    "telugu": "పిల్లలు",
+    "romanized": "Pillalu",
+    "english": "Children",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 29,
+    "telugu": "తాత",
+    "romanized": "Thaata",
+    "english": "Grandfather",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 29,
+    "telugu": "అవ్వ",
+    "romanized": "Avva",
+    "english": "Grandmother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 29,
+    "telugu": "భర్త",
+    "romanized": "Bharthu",
+    "english": "Husband",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 29,
+    "telugu": "భార్య",
+    "romanized": "Bhaarya",
+    "english": "Wife",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "అల్లుడు",
+    "romanized": "Alludu",
+    "english": "Son-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "కోడలు",
+    "romanized": "Kodalu",
+    "english": "Daughter-in-law",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "అమ్మాయి",
+    "romanized": "Ammayi",
+    "english": "Baby Girl",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "అబ్బాయి",
+    "romanized": "Abbaayi",
+    "english": "Baby Boy",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "పిల్లలు",
+    "romanized": "Pillalu",
+    "english": "Children",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "తాత",
+    "romanized": "Thaata",
+    "english": "Grandfather",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "అవ్వ",
+    "romanized": "Avva",
+    "english": "Grandmother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "భర్త",
+    "romanized": "Bharthu",
+    "english": "Husband",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "భార్య",
+    "romanized": "Bhaarya",
+    "english": "Wife",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "కుటుంబం",
+    "romanized": "Kutumbam",
+    "english": "Family",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 31,
+    "telugu": "వెళ్ళు",
+    "romanized": "Vellu",
+    "english": "Go",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 31,
+    "telugu": "రు",
+    "romanized": "Ruu",
+    "english": "Come",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 31,
+    "telugu": "చేయు",
+    "romanized": "Cheyyu",
+    "english": "Do",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 31,
+    "telugu": "చెప్పు",
+    "romanized": "Cheppu",
+    "english": "Tell/Say",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 31,
+    "telugu": "తిను",
+    "romanized": "Thinu",
+    "english": "Eat",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 31,
+    "telugu": "త్రాగు",
+    "romanized": "Thraagu",
+    "english": "Drink",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 31,
+    "telugu": "నిద్ర",
+    "romanized": "Nidra",
+    "english": "Sleep",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 31,
+    "telugu": "లేవ",
+    "romanized": "Leva",
+    "english": "Wake up",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 31,
+    "telugu": "కూర్చు",
+    "romanized": "Koorchu",
+    "english": "Sit",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 31,
+    "telugu": "నిలబడు",
+    "romanized": "Nilabadu",
+    "english": "Stand",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "రు",
+    "romanized": "Ruu",
+    "english": "Come",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "చేయు",
+    "romanized": "Cheyyu",
+    "english": "Do",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "చెప్పు",
+    "romanized": "Cheppu",
+    "english": "Tell/Say",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "తిను",
+    "romanized": "Thinu",
+    "english": "Eat",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "త్రాగు",
+    "romanized": "Thraagu",
+    "english": "Drink",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "నిద్ర",
+    "romanized": "Nidra",
+    "english": "Sleep",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "లేవ",
+    "romanized": "Leva",
+    "english": "Wake up",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "కూర్చు",
+    "romanized": "Koorchu",
+    "english": "Sit",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "నిలబడు",
+    "romanized": "Nilabadu",
+    "english": "Stand",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "మాట్లాడు",
+    "romanized": "Maatlaadu",
+    "english": "Talk",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "చేయు",
+    "romanized": "Cheyyu",
+    "english": "Do",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "చెప్పు",
+    "romanized": "Cheppu",
+    "english": "Tell/Say",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "తిను",
+    "romanized": "Thinu",
+    "english": "Eat",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "త్రాగు",
+    "romanized": "Thraagu",
+    "english": "Drink",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "నిద్ర",
+    "romanized": "Nidra",
+    "english": "Sleep",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "లేవ",
+    "romanized": "Leva",
+    "english": "Wake up",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "కూర్చు",
+    "romanized": "Koorchu",
+    "english": "Sit",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "నిలబడు",
+    "romanized": "Nilabadu",
+    "english": "Stand",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "మాట్లాడు",
+    "romanized": "Maatlaadu",
+    "english": "Talk",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "విను",
+    "romanized": "Vinu",
+    "english": "Listen/Hear",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "చెప్పు",
+    "romanized": "Cheppu",
+    "english": "Tell/Say",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "తిను",
+    "romanized": "Thinu",
+    "english": "Eat",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "త్రాగు",
+    "romanized": "Thraagu",
+    "english": "Drink",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "నిద్ర",
+    "romanized": "Nidra",
+    "english": "Sleep",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "లేవ",
+    "romanized": "Leva",
+    "english": "Wake up",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "కూర్చు",
+    "romanized": "Koorchu",
+    "english": "Sit",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "నిలబడు",
+    "romanized": "Nilabadu",
+    "english": "Stand",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "మాట్లాడు",
+    "romanized": "Maatlaadu",
+    "english": "Talk",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "విను",
+    "romanized": "Vinu",
+    "english": "Listen/Hear",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "చూడు",
+    "romanized": "Choodu",
+    "english": "See",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "తిను",
+    "romanized": "Thinu",
+    "english": "Eat",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "త్రాగు",
+    "romanized": "Thraagu",
+    "english": "Drink",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "నిద్ర",
+    "romanized": "Nidra",
+    "english": "Sleep",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "లేవ",
+    "romanized": "Leva",
+    "english": "Wake up",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "కూర్చు",
+    "romanized": "Koorchu",
+    "english": "Sit",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "నిలబడు",
+    "romanized": "Nilabadu",
+    "english": "Stand",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "మాట్లాడు",
+    "romanized": "Maatlaadu",
+    "english": "Talk",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "విను",
+    "romanized": "Vinu",
+    "english": "Listen/Hear",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "చూడు",
+    "romanized": "Choodu",
+    "english": "See",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "వ్రాయు",
+    "romanized": "Vraayu",
+    "english": "Write",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "నిద్ర",
+    "romanized": "Nidra",
+    "english": "Sleep",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "లేవ",
+    "romanized": "Leva",
+    "english": "Wake up",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "కూర్చు",
+    "romanized": "Koorchu",
+    "english": "Sit",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "నిలబడు",
+    "romanized": "Nilabadu",
+    "english": "Stand",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "మాట్లాడు",
+    "romanized": "Maatlaadu",
+    "english": "Talk",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "విను",
+    "romanized": "Vinu",
+    "english": "Listen/Hear",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "చూడు",
+    "romanized": "Choodu",
+    "english": "See",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "వ్రాయు",
+    "romanized": "Vraayu",
+    "english": "Write",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "చదువు",
+    "romanized": "Chaduvu",
+    "english": "Read",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "అర్థం",
+    "romanized": "Artham",
+    "english": "Understand",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "లేవ",
+    "romanized": "Leva",
+    "english": "Wake up",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "కూర్చు",
+    "romanized": "Koorchu",
+    "english": "Sit",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "నిలబడు",
+    "romanized": "Nilabadu",
+    "english": "Stand",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "మాట్లాడు",
+    "romanized": "Maatlaadu",
+    "english": "Talk",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "విను",
+    "romanized": "Vinu",
+    "english": "Listen/Hear",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "చూడు",
+    "romanized": "Choodu",
+    "english": "See",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "వ్రాయు",
+    "romanized": "Vraayu",
+    "english": "Write",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "చదువు",
+    "romanized": "Chaduvu",
+    "english": "Read",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "అర్థం",
+    "romanized": "Artham",
+    "english": "Understand",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "తెలుసు",
+    "romanized": "Thelusu",
+    "english": "Know",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 38,
+    "telugu": "కూర్చు",
+    "romanized": "Koorchu",
+    "english": "Sit",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 38,
+    "telugu": "నిలబడు",
+    "romanized": "Nilabadu",
+    "english": "Stand",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 38,
+    "telugu": "మాట్లాడు",
+    "romanized": "Maatlaadu",
+    "english": "Talk",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 38,
+    "telugu": "విను",
+    "romanized": "Vinu",
+    "english": "Listen/Hear",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 38,
+    "telugu": "చూడు",
+    "romanized": "Choodu",
+    "english": "See",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 38,
+    "telugu": "వ్రాయు",
+    "romanized": "Vraayu",
+    "english": "Write",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 38,
+    "telugu": "చదువు",
+    "romanized": "Chaduvu",
+    "english": "Read",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 38,
+    "telugu": "అర్థం",
+    "romanized": "Artham",
+    "english": "Understand",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 38,
+    "telugu": "తెలుసు",
+    "romanized": "Thelusu",
+    "english": "Know",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 38,
+    "telugu": "ఇవ్వు",
+    "romanized": "Ivvu",
+    "english": "Give",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 39,
+    "telugu": "నిలబడు",
+    "romanized": "Nilabadu",
+    "english": "Stand",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 39,
+    "telugu": "మాట్లాడు",
+    "romanized": "Maatlaadu",
+    "english": "Talk",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 39,
+    "telugu": "విను",
+    "romanized": "Vinu",
+    "english": "Listen/Hear",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 39,
+    "telugu": "చూడు",
+    "romanized": "Choodu",
+    "english": "See",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 39,
+    "telugu": "వ్రాయు",
+    "romanized": "Vraayu",
+    "english": "Write",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 39,
+    "telugu": "చదువు",
+    "romanized": "Chaduvu",
+    "english": "Read",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 39,
+    "telugu": "అర్థం",
+    "romanized": "Artham",
+    "english": "Understand",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 39,
+    "telugu": "తెలుసు",
+    "romanized": "Thelusu",
+    "english": "Know",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 39,
+    "telugu": "ఇవ్వు",
+    "romanized": "Ivvu",
+    "english": "Give",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 39,
+    "telugu": "తీసు",
+    "romanized": "Theesu",
+    "english": "Take",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "మాట్లాడు",
+    "romanized": "Maatlaadu",
+    "english": "Talk",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "విను",
+    "romanized": "Vinu",
+    "english": "Listen/Hear",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "చూడు",
+    "romanized": "Choodu",
+    "english": "See",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "వ్రాయు",
+    "romanized": "Vraayu",
+    "english": "Write",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "చదువు",
+    "romanized": "Chaduvu",
+    "english": "Read",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "అర్థం",
+    "romanized": "Artham",
+    "english": "Understand",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "తెలుసు",
+    "romanized": "Thelusu",
+    "english": "Know",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "ఇవ్వు",
+    "romanized": "Ivvu",
+    "english": "Give",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "తీసు",
+    "romanized": "Theesu",
+    "english": "Take",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "వచ్చు",
+    "romanized": "Vachchu",
+    "english": "Come (future)",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "అన్నం",
+    "romanized": "Annam",
+    "english": "Rice/Meals",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "జల్",
+    "romanized": "Jalam",
+    "english": "Water",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "పాలు",
+    "romanized": "Paalu",
+    "english": "Milk",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "కూర",
+    "romanized": "Kooru",
+    "english": "Curry",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "పిండి",
+    "romanized": "Pindi",
+    "english": "Flour/Bread",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "బియ్యం",
+    "romanized": "Biyyam",
+    "english": "Rice (raw)",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "పండు",
+    "romanized": "Pandhu",
+    "english": "Fruit",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "కూరగాయలు",
+    "romanized": "Koorgaaayalu",
+    "english": "Vegetables",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "ఉల్లి",
+    "romanized": "Ulli",
+    "english": "Onion",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "తమలపాకు",
+    "romanized": "Thamalapaaku",
+    "english": "Betel leaf",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "జల్",
+    "romanized": "Jalam",
+    "english": "Water",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "పాలు",
+    "romanized": "Paalu",
+    "english": "Milk",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "కూర",
+    "romanized": "Kooru",
+    "english": "Curry",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "పిండి",
+    "romanized": "Pindi",
+    "english": "Flour/Bread",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "బియ్యం",
+    "romanized": "Biyyam",
+    "english": "Rice (raw)",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "పండు",
+    "romanized": "Pandhu",
+    "english": "Fruit",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "కూరగాయలు",
+    "romanized": "Koorgaaayalu",
+    "english": "Vegetables",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "ఉల్లి",
+    "romanized": "Ulli",
+    "english": "Onion",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "తమలపాకు",
+    "romanized": "Thamalapaaku",
+    "english": "Betel leaf",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "టీ",
+    "romanized": "Tee",
+    "english": "Tea",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "పాలు",
+    "romanized": "Paalu",
+    "english": "Milk",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "కూర",
+    "romanized": "Kooru",
+    "english": "Curry",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "పిండి",
+    "romanized": "Pindi",
+    "english": "Flour/Bread",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "బియ్యం",
+    "romanized": "Biyyam",
+    "english": "Rice (raw)",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "పండు",
+    "romanized": "Pandhu",
+    "english": "Fruit",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "కూరగాయలు",
+    "romanized": "Koorgaaayalu",
+    "english": "Vegetables",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "ఉల్లి",
+    "romanized": "Ulli",
+    "english": "Onion",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "తమలపాకు",
+    "romanized": "Thamalapaaku",
+    "english": "Betel leaf",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "టీ",
+    "romanized": "Tee",
+    "english": "Tea",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "కాఫీ",
+    "romanized": "Coffee",
+    "english": "Coffee",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "కూర",
+    "romanized": "Kooru",
+    "english": "Curry",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "పిండి",
+    "romanized": "Pindi",
+    "english": "Flour/Bread",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "బియ్యం",
+    "romanized": "Biyyam",
+    "english": "Rice (raw)",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "పండు",
+    "romanized": "Pandhu",
+    "english": "Fruit",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "కూరగాయలు",
+    "romanized": "Koorgaaayalu",
+    "english": "Vegetables",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "ఉల్లి",
+    "romanized": "Ulli",
+    "english": "Onion",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "తమలపాకు",
+    "romanized": "Thamalapaaku",
+    "english": "Betel leaf",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "టీ",
+    "romanized": "Tee",
+    "english": "Tea",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "కాఫీ",
+    "romanized": "Coffee",
+    "english": "Coffee",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "బియ్యం",
+    "romanized": "Biyyam",
+    "english": "Rice",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "పిండి",
+    "romanized": "Pindi",
+    "english": "Flour/Bread",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "బియ్యం",
+    "romanized": "Biyyam",
+    "english": "Rice (raw)",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "పండు",
+    "romanized": "Pandhu",
+    "english": "Fruit",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "కూరగాయలు",
+    "romanized": "Koorgaaayalu",
+    "english": "Vegetables",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "ఉల్లి",
+    "romanized": "Ulli",
+    "english": "Onion",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "తమలపాకు",
+    "romanized": "Thamalapaaku",
+    "english": "Betel leaf",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "టీ",
+    "romanized": "Tee",
+    "english": "Tea",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "కాఫీ",
+    "romanized": "Coffee",
+    "english": "Coffee",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "బియ్యం",
+    "romanized": "Biyyam",
+    "english": "Rice",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "ఆహారం",
+    "romanized": "Ahaaram",
+    "english": "Food",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "పండు",
+    "romanized": "Pandhu",
+    "english": "Fruit",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "కూరగాయలు",
+    "romanized": "Koorgaaayalu",
+    "english": "Vegetables",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "ఉల్లి",
+    "romanized": "Ulli",
+    "english": "Onion",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "తమలపాకు",
+    "romanized": "Thamalapaaku",
+    "english": "Betel leaf",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "టీ",
+    "romanized": "Tee",
+    "english": "Tea",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "కాఫీ",
+    "romanized": "Coffee",
+    "english": "Coffee",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "బియ్యం",
+    "romanized": "Biyyam",
+    "english": "Rice",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "ఆహారం",
+    "romanized": "Ahaaram",
+    "english": "Food",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "రుచి",
+    "romanized": "Ruchi",
+    "english": "Taste",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "ఆకు",
+    "romanized": "Aaku",
+    "english": "Leaf/Spinach",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 47,
+    "telugu": "కూరగాయలు",
+    "romanized": "Koorgaaayalu",
+    "english": "Vegetables",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 47,
+    "telugu": "ఉల్లి",
+    "romanized": "Ulli",
+    "english": "Onion",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 47,
+    "telugu": "తమలపాకు",
+    "romanized": "Thamalapaaku",
+    "english": "Betel leaf",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 47,
+    "telugu": "టీ",
+    "romanized": "Tee",
+    "english": "Tea",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 47,
+    "telugu": "కాఫీ",
+    "romanized": "Coffee",
+    "english": "Coffee",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 47,
+    "telugu": "బియ్యం",
+    "romanized": "Biyyam",
+    "english": "Rice",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 47,
+    "telugu": "ఆహారం",
+    "romanized": "Ahaaram",
+    "english": "Food",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 47,
+    "telugu": "రుచి",
+    "romanized": "Ruchi",
+    "english": "Taste",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 47,
+    "telugu": "ఆకు",
+    "romanized": "Aaku",
+    "english": "Leaf/Spinach",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 47,
+    "telugu": "మిరపకాయ",
+    "romanized": "Mirapaakai",
+    "english": "Chili",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 48,
+    "telugu": "ఉల్లి",
+    "romanized": "Ulli",
+    "english": "Onion",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 48,
+    "telugu": "తమలపాకు",
+    "romanized": "Thamalapaaku",
+    "english": "Betel leaf",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 48,
+    "telugu": "టీ",
+    "romanized": "Tee",
+    "english": "Tea",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 48,
+    "telugu": "కాఫీ",
+    "romanized": "Coffee",
+    "english": "Coffee",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 48,
+    "telugu": "బియ్యం",
+    "romanized": "Biyyam",
+    "english": "Rice",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 48,
+    "telugu": "ఆహారం",
+    "romanized": "Ahaaram",
+    "english": "Food",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 48,
+    "telugu": "రుచి",
+    "romanized": "Ruchi",
+    "english": "Taste",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 48,
+    "telugu": "ఆకు",
+    "romanized": "Aaku",
+    "english": "Leaf/Spinach",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 48,
+    "telugu": "మిరపకాయ",
+    "romanized": "Mirapaakai",
+    "english": "Chili",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 48,
+    "telugu": "ఉప్పు",
+    "romanized": "Uppu",
+    "english": "Salt",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "తమలపాకు",
+    "romanized": "Thamalapaaku",
+    "english": "Betel leaf",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "టీ",
+    "romanized": "Tee",
+    "english": "Tea",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "కాఫీ",
+    "romanized": "Coffee",
+    "english": "Coffee",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "బియ్యం",
+    "romanized": "Biyyam",
+    "english": "Rice",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "ఆహారం",
+    "romanized": "Ahaaram",
+    "english": "Food",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "రుచి",
+    "romanized": "Ruchi",
+    "english": "Taste",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "ఆకు",
+    "romanized": "Aaku",
+    "english": "Leaf/Spinach",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "మిరపకాయ",
+    "romanized": "Mirapaakai",
+    "english": "Chili",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "ఉప్పు",
+    "romanized": "Uppu",
+    "english": "Salt",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "కారు",
+    "romanized": "Kaaru",
+    "english": "Spicy",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "టీ",
+    "romanized": "Tee",
+    "english": "Tea",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "కాఫీ",
+    "romanized": "Coffee",
+    "english": "Coffee",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "బియ్యం",
+    "romanized": "Biyyam",
+    "english": "Rice",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "ఆహారం",
+    "romanized": "Ahaaram",
+    "english": "Food",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "రుచి",
+    "romanized": "Ruchi",
+    "english": "Taste",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "ఆకు",
+    "romanized": "Aaku",
+    "english": "Leaf/Spinach",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "మిరపకాయ",
+    "romanized": "Mirapaakai",
+    "english": "Chili",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "ఉప్పు",
+    "romanized": "Uppu",
+    "english": "Salt",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "కారు",
+    "romanized": "Kaaru",
+    "english": "Spicy",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "తీపి",
+    "romanized": "Theepi",
+    "english": "Sweet",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 51,
+    "telugu": "ఇప్పుడు",
+    "romanized": "Ipputha",
+    "english": "Now",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 51,
+    "telugu": "తర్వాత",
+    "romanized": "Tharvaatha",
+    "english": "Later/After",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 51,
+    "telugu": "ముందు",
+    "romanized": "Moondu",
+    "english": "Before",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 51,
+    "telugu": "ఉదయం",
+    "romanized": "Udayam",
+    "english": "Morning",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 51,
+    "telugu": "మధ్యాహ్నం",
+    "romanized": "Madhyahnnam",
+    "english": "Afternoon",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 51,
+    "telugu": "సాయంత్రం",
+    "romanized": "Saayantram",
+    "english": "Evening",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 51,
+    "telugu": "రాత్రి",
+    "romanized": "Raathri",
+    "english": "Night",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 51,
+    "telugu": "ఈ రోజు",
+    "romanized": "Ee roju",
+    "english": "Today",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 52,
+    "telugu": "తర్వాత",
+    "romanized": "Tharvaatha",
+    "english": "Later/After",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 52,
+    "telugu": "ముందు",
+    "romanized": "Moondu",
+    "english": "Before",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 52,
+    "telugu": "ఉదయం",
+    "romanized": "Udayam",
+    "english": "Morning",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 52,
+    "telugu": "మధ్యాహ్నం",
+    "romanized": "Madhyahnnam",
+    "english": "Afternoon",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 52,
+    "telugu": "సాయంత్రం",
+    "romanized": "Saayantram",
+    "english": "Evening",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 52,
+    "telugu": "రాత్రి",
+    "romanized": "Raathri",
+    "english": "Night",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 52,
+    "telugu": "ఈ రోజు",
+    "romanized": "Ee roju",
+    "english": "Today",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 52,
+    "telugu": "నిన్న",
+    "romanized": "Ninna",
+    "english": "Yesterday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 53,
+    "telugu": "ముందు",
+    "romanized": "Moondu",
+    "english": "Before",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 53,
+    "telugu": "ఉదయం",
+    "romanized": "Udayam",
+    "english": "Morning",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 53,
+    "telugu": "మధ్యాహ్నం",
+    "romanized": "Madhyahnnam",
+    "english": "Afternoon",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 53,
+    "telugu": "సాయంత్రం",
+    "romanized": "Saayantram",
+    "english": "Evening",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 53,
+    "telugu": "రాత్రి",
+    "romanized": "Raathri",
+    "english": "Night",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 53,
+    "telugu": "ఈ రోజు",
+    "romanized": "Ee roju",
+    "english": "Today",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 53,
+    "telugu": "నిన్న",
+    "romanized": "Ninna",
+    "english": "Yesterday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 53,
+    "telugu": "రేపు",
+    "romanized": "Repu",
+    "english": "Tomorrow",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 54,
+    "telugu": "ఉదయం",
+    "romanized": "Udayam",
+    "english": "Morning",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 54,
+    "telugu": "మధ్యాహ్నం",
+    "romanized": "Madhyahnnam",
+    "english": "Afternoon",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 54,
+    "telugu": "సాయంత్రం",
+    "romanized": "Saayantram",
+    "english": "Evening",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 54,
+    "telugu": "రాత్రి",
+    "romanized": "Raathri",
+    "english": "Night",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 54,
+    "telugu": "ఈ రోజు",
+    "romanized": "Ee roju",
+    "english": "Today",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 54,
+    "telugu": "నిన్న",
+    "romanized": "Ninna",
+    "english": "Yesterday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 54,
+    "telugu": "రేపు",
+    "romanized": "Repu",
+    "english": "Tomorrow",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 54,
+    "telugu": "ఎప్పుడు",
+    "romanized": "Epputha",
+    "english": "When",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 55,
+    "telugu": "మధ్యాహ్నం",
+    "romanized": "Madhyahnnam",
+    "english": "Afternoon",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 55,
+    "telugu": "సాయంత్రం",
+    "romanized": "Saayantram",
+    "english": "Evening",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 55,
+    "telugu": "రాత్రి",
+    "romanized": "Raathri",
+    "english": "Night",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 55,
+    "telugu": "ఈ రోజు",
+    "romanized": "Ee roju",
+    "english": "Today",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 55,
+    "telugu": "నిన్న",
+    "romanized": "Ninna",
+    "english": "Yesterday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 55,
+    "telugu": "రేపు",
+    "romanized": "Repu",
+    "english": "Tomorrow",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 55,
+    "telugu": "ఎప్పుడు",
+    "romanized": "Epputha",
+    "english": "When",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 55,
+    "telugu": "ఎంతసేపు",
+    "romanized": "Enthasepu",
+    "english": "How long",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 56,
+    "telugu": "సాయంత్రం",
+    "romanized": "Saayantram",
+    "english": "Evening",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 56,
+    "telugu": "రాత్రి",
+    "romanized": "Raathri",
+    "english": "Night",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 56,
+    "telugu": "ఈ రోజు",
+    "romanized": "Ee roju",
+    "english": "Today",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 56,
+    "telugu": "నిన్న",
+    "romanized": "Ninna",
+    "english": "Yesterday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 56,
+    "telugu": "రేపు",
+    "romanized": "Repu",
+    "english": "Tomorrow",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 56,
+    "telugu": "ఎప్పుడు",
+    "romanized": "Epputha",
+    "english": "When",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 56,
+    "telugu": "ఎంతసేపు",
+    "romanized": "Enthasepu",
+    "english": "How long",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 56,
+    "telugu": "ఓరు",
+    "romanized": "Oru",
+    "english": "Moment",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 57,
+    "telugu": "రాత్రి",
+    "romanized": "Raathri",
+    "english": "Night",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 57,
+    "telugu": "ఈ రోజు",
+    "romanized": "Ee roju",
+    "english": "Today",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 57,
+    "telugu": "నిన్న",
+    "romanized": "Ninna",
+    "english": "Yesterday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 57,
+    "telugu": "రేపు",
+    "romanized": "Repu",
+    "english": "Tomorrow",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 57,
+    "telugu": "ఎప్పుడు",
+    "romanized": "Epputha",
+    "english": "When",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 57,
+    "telugu": "ఎంతసేపు",
+    "romanized": "Enthasepu",
+    "english": "How long",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 57,
+    "telugu": "ఓరు",
+    "romanized": "Oru",
+    "english": "Moment",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 57,
+    "telugu": "ఒక్కరోజు",
+    "romanized": "Okkarroju",
+    "english": "One day",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 58,
+    "telugu": "ఈ రోజు",
+    "romanized": "Ee roju",
+    "english": "Today",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 58,
+    "telugu": "నిన్న",
+    "romanized": "Ninna",
+    "english": "Yesterday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 58,
+    "telugu": "రేపు",
+    "romanized": "Repu",
+    "english": "Tomorrow",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 58,
+    "telugu": "ఎప్పుడు",
+    "romanized": "Epputha",
+    "english": "When",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 58,
+    "telugu": "ఎంతసేపు",
+    "romanized": "Enthasepu",
+    "english": "How long",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 58,
+    "telugu": "ఓరు",
+    "romanized": "Oru",
+    "english": "Moment",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 58,
+    "telugu": "ఒక్కరోజు",
+    "romanized": "Okkarroju",
+    "english": "One day",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 58,
+    "telugu": "వారం",
+    "romanized": "Vaaram",
+    "english": "Week",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 59,
+    "telugu": "నిన్న",
+    "romanized": "Ninna",
+    "english": "Yesterday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 59,
+    "telugu": "రేపు",
+    "romanized": "Repu",
+    "english": "Tomorrow",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 59,
+    "telugu": "ఎప్పుడు",
+    "romanized": "Epputha",
+    "english": "When",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 59,
+    "telugu": "ఎంతసేపు",
+    "romanized": "Enthasepu",
+    "english": "How long",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 59,
+    "telugu": "ఓరు",
+    "romanized": "Oru",
+    "english": "Moment",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 59,
+    "telugu": "ఒక్కరోజు",
+    "romanized": "Okkarroju",
+    "english": "One day",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 59,
+    "telugu": "వారం",
+    "romanized": "Vaaram",
+    "english": "Week",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 59,
+    "telugu": "నెల",
+    "romanized": "Nela",
+    "english": "Month",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 60,
+    "telugu": "రేపు",
+    "romanized": "Repu",
+    "english": "Tomorrow",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 60,
+    "telugu": "ఎప్పుడు",
+    "romanized": "Epputha",
+    "english": "When",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 60,
+    "telugu": "ఎంతసేపు",
+    "romanized": "Enthasepu",
+    "english": "How long",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 60,
+    "telugu": "ఓరు",
+    "romanized": "Oru",
+    "english": "Moment",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 60,
+    "telugu": "ఒక్కరోజు",
+    "romanized": "Okkarroju",
+    "english": "One day",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 60,
+    "telugu": "వారం",
+    "romanized": "Vaaram",
+    "english": "Week",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 60,
+    "telugu": "నెల",
+    "romanized": "Nela",
+    "english": "Month",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 60,
+    "telugu": "సంవత్సరం",
+    "romanized": "Sannvathsaram",
+    "english": "Year",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 61,
+    "telugu": "తూర్పు",
+    "romanized": "Thoorupu",
+    "english": "East",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 61,
+    "telugu": "పడమర",
+    "romanized": "Padamara",
+    "english": "West",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 61,
+    "telugu": "ఉత్తర",
+    "romanized": "Uttara",
+    "english": "North",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 61,
+    "telugu": "దక్షిణ",
+    "romanized": "Dakshina",
+    "english": "South",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 61,
+    "telugu": "ఎడమ",
+    "romanized": "Edama",
+    "english": "Left",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 61,
+    "telugu": "కుడి",
+    "romanized": "Kudi",
+    "english": "Right",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 62,
+    "telugu": "పడమర",
+    "romanized": "Padamara",
+    "english": "West",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 62,
+    "telugu": "ఉత్తర",
+    "romanized": "Uttara",
+    "english": "North",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 62,
+    "telugu": "దక్షిణ",
+    "romanized": "Dakshina",
+    "english": "South",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 62,
+    "telugu": "ఎడమ",
+    "romanized": "Edama",
+    "english": "Left",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 62,
+    "telugu": "కుడి",
+    "romanized": "Kudi",
+    "english": "Right",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 62,
+    "telugu": "ముందు",
+    "romanized": "Moondu",
+    "english": "Front",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 63,
+    "telugu": "ఉత్తర",
+    "romanized": "Uttara",
+    "english": "North",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 63,
+    "telugu": "దక్షిణ",
+    "romanized": "Dakshina",
+    "english": "South",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 63,
+    "telugu": "ఎడమ",
+    "romanized": "Edama",
+    "english": "Left",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 63,
+    "telugu": "కుడి",
+    "romanized": "Kudi",
+    "english": "Right",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 63,
+    "telugu": "ముందు",
+    "romanized": "Moondu",
+    "english": "Front",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 63,
+    "telugu": "వెనుక",
+    "romanized": "Venuka",
+    "english": "Back/Behind",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 64,
+    "telugu": "దక్షిణ",
+    "romanized": "Dakshina",
+    "english": "South",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 64,
+    "telugu": "ఎడమ",
+    "romanized": "Edama",
+    "english": "Left",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 64,
+    "telugu": "కుడి",
+    "romanized": "Kudi",
+    "english": "Right",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 64,
+    "telugu": "ముందు",
+    "romanized": "Moondu",
+    "english": "Front",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 64,
+    "telugu": "వెనుక",
+    "romanized": "Venuka",
+    "english": "Back/Behind",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 64,
+    "telugu": "పైన",
+    "romanized": "Paina",
+    "english": "Above/Up",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 65,
+    "telugu": "ఎడమ",
+    "romanized": "Edama",
+    "english": "Left",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 65,
+    "telugu": "కుడి",
+    "romanized": "Kudi",
+    "english": "Right",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 65,
+    "telugu": "ముందు",
+    "romanized": "Moondu",
+    "english": "Front",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 65,
+    "telugu": "వెనుక",
+    "romanized": "Venuka",
+    "english": "Back/Behind",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 65,
+    "telugu": "పైన",
+    "romanized": "Paina",
+    "english": "Above/Up",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 65,
+    "telugu": "కింద",
+    "romanized": "Kinda",
+    "english": "Below/Down",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 66,
+    "telugu": "కుడి",
+    "romanized": "Kudi",
+    "english": "Right",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 66,
+    "telugu": "ముందు",
+    "romanized": "Moondu",
+    "english": "Front",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 66,
+    "telugu": "వెనుక",
+    "romanized": "Venuka",
+    "english": "Back/Behind",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 66,
+    "telugu": "పైన",
+    "romanized": "Paina",
+    "english": "Above/Up",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 66,
+    "telugu": "కింద",
+    "romanized": "Kinda",
+    "english": "Below/Down",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 66,
+    "telugu": "దగ్గర",
+    "romanized": "Daggara",
+    "english": "Near",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 67,
+    "telugu": "ముందు",
+    "romanized": "Moondu",
+    "english": "Front",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 67,
+    "telugu": "వెనుక",
+    "romanized": "Venuka",
+    "english": "Back/Behind",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 67,
+    "telugu": "పైన",
+    "romanized": "Paina",
+    "english": "Above/Up",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 67,
+    "telugu": "కింద",
+    "romanized": "Kinda",
+    "english": "Below/Down",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 67,
+    "telugu": "దగ్గర",
+    "romanized": "Daggara",
+    "english": "Near",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 67,
+    "telugu": "దూరంగా",
+    "romanized": "Dooranga",
+    "english": "Far",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 68,
+    "telugu": "వెనుక",
+    "romanized": "Venuka",
+    "english": "Back/Behind",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 68,
+    "telugu": "పైన",
+    "romanized": "Paina",
+    "english": "Above/Up",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 68,
+    "telugu": "కింద",
+    "romanized": "Kinda",
+    "english": "Below/Down",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 68,
+    "telugu": "దగ్గర",
+    "romanized": "Daggara",
+    "english": "Near",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 68,
+    "telugu": "దూరంగా",
+    "romanized": "Dooranga",
+    "english": "Far",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 68,
+    "telugu": "ఎక్కడ",
+    "romanized": "Ekkada",
+    "english": "Where",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 69,
+    "telugu": "పైన",
+    "romanized": "Paina",
+    "english": "Above/Up",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 69,
+    "telugu": "కింద",
+    "romanized": "Kinda",
+    "english": "Below/Down",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 69,
+    "telugu": "దగ్గర",
+    "romanized": "Daggara",
+    "english": "Near",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 69,
+    "telugu": "దూరంగా",
+    "romanized": "Dooranga",
+    "english": "Far",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 69,
+    "telugu": "ఎక్కడ",
+    "romanized": "Ekkada",
+    "english": "Where",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 69,
+    "telugu": "ఇక్కడ",
+    "romanized": "Ikkaada",
+    "english": "Here",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 70,
+    "telugu": "కింద",
+    "romanized": "Kinda",
+    "english": "Below/Down",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 70,
+    "telugu": "దగ్గర",
+    "romanized": "Daggara",
+    "english": "Near",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 70,
+    "telugu": "దూరంగా",
+    "romanized": "Dooranga",
+    "english": "Far",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 70,
+    "telugu": "ఎక్కడ",
+    "romanized": "Ekkada",
+    "english": "Where",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 70,
+    "telugu": "ఇక్కడ",
+    "romanized": "Ikkaada",
+    "english": "Here",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 70,
+    "telugu": "అక్కడ",
+    "romanized": "Akkaada",
+    "english": "There",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 71,
+    "telugu": "పెద్ద",
+    "romanized": "Pedda",
+    "english": "Big",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 71,
+    "telugu": "చిన్న",
+    "romanized": "Chinna",
+    "english": "Small",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 71,
+    "telugu": "ఎత్తు",
+    "romanized": "Eththu",
+    "english": "Tall",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 71,
+    "telugu": "తక్కువ",
+    "romanized": "Thakkuva",
+    "english": "Short",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 71,
+    "telugu": "బలమైన",
+    "romanized": "Balamaina",
+    "english": "Strong",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 71,
+    "telugu": "బలహీన",
+    "romanized": "Balaheen",
+    "english": "Weak",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 72,
+    "telugu": "చిన్న",
+    "romanized": "Chinna",
+    "english": "Small",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 72,
+    "telugu": "ఎత్తు",
+    "romanized": "Eththu",
+    "english": "Tall",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 72,
+    "telugu": "తక్కువ",
+    "romanized": "Thakkuva",
+    "english": "Short",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 72,
+    "telugu": "బలమైన",
+    "romanized": "Balamaina",
+    "english": "Strong",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 72,
+    "telugu": "బలహీన",
+    "romanized": "Balaheen",
+    "english": "Weak",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 72,
+    "telugu": "కొత్త",
+    "romanized": "Kotha",
+    "english": "New",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 73,
+    "telugu": "ఎత్తు",
+    "romanized": "Eththu",
+    "english": "Tall",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 73,
+    "telugu": "తక్కువ",
+    "romanized": "Thakkuva",
+    "english": "Short",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 73,
+    "telugu": "బలమైన",
+    "romanized": "Balamaina",
+    "english": "Strong",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 73,
+    "telugu": "బలహీన",
+    "romanized": "Balaheen",
+    "english": "Weak",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 73,
+    "telugu": "కొత్త",
+    "romanized": "Kotha",
+    "english": "New",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 73,
+    "telugu": "పాత",
+    "romanized": "Paatha",
+    "english": "Old",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 74,
+    "telugu": "తక్కువ",
+    "romanized": "Thakkuva",
+    "english": "Short",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 74,
+    "telugu": "బలమైన",
+    "romanized": "Balamaina",
+    "english": "Strong",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 74,
+    "telugu": "బలహీన",
+    "romanized": "Balaheen",
+    "english": "Weak",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 74,
+    "telugu": "కొత్త",
+    "romanized": "Kotha",
+    "english": "New",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 74,
+    "telugu": "పాత",
+    "romanized": "Paatha",
+    "english": "Old",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 74,
+    "telugu": "మంచి",
+    "romanized": "Manchi",
+    "english": "Good",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 75,
+    "telugu": "బలమైన",
+    "romanized": "Balamaina",
+    "english": "Strong",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 75,
+    "telugu": "బలహీన",
+    "romanized": "Balaheen",
+    "english": "Weak",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 75,
+    "telugu": "కొత్త",
+    "romanized": "Kotha",
+    "english": "New",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 75,
+    "telugu": "పాత",
+    "romanized": "Paatha",
+    "english": "Old",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 75,
+    "telugu": "మంచి",
+    "romanized": "Manchi",
+    "english": "Good",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 75,
+    "telugu": "చెడ్డ",
+    "romanized": "Chedda",
+    "english": "Bad",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 76,
+    "telugu": "బలహీన",
+    "romanized": "Balaheen",
+    "english": "Weak",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 76,
+    "telugu": "కొత్త",
+    "romanized": "Kotha",
+    "english": "New",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 76,
+    "telugu": "పాత",
+    "romanized": "Paatha",
+    "english": "Old",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 76,
+    "telugu": "మంచి",
+    "romanized": "Manchi",
+    "english": "Good",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 76,
+    "telugu": "చెడ్డ",
+    "romanized": "Chedda",
+    "english": "Bad",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 76,
+    "telugu": "అందమైన",
+    "romanized": "Andamaina",
+    "english": "Beautiful",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 77,
+    "telugu": "కొత్త",
+    "romanized": "Kotha",
+    "english": "New",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 77,
+    "telugu": "పాత",
+    "romanized": "Paatha",
+    "english": "Old",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 77,
+    "telugu": "మంచి",
+    "romanized": "Manchi",
+    "english": "Good",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 77,
+    "telugu": "చెడ్డ",
+    "romanized": "Chedda",
+    "english": "Bad",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 77,
+    "telugu": "అందమైన",
+    "romanized": "Andamaina",
+    "english": "Beautiful",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 77,
+    "telugu": "అయ్యార",
+    "romanized": "Ayyara",
+    "english": "Old (age)",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 78,
+    "telugu": "పాత",
+    "romanized": "Paatha",
+    "english": "Old",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 78,
+    "telugu": "మంచి",
+    "romanized": "Manchi",
+    "english": "Good",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 78,
+    "telugu": "చెడ్డ",
+    "romanized": "Chedda",
+    "english": "Bad",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 78,
+    "telugu": "అందమైన",
+    "romanized": "Andamaina",
+    "english": "Beautiful",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 78,
+    "telugu": "అయ్యార",
+    "romanized": "Ayyara",
+    "english": "Old (age)",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 78,
+    "telugu": "యువ",
+    "romanized": "Yuva",
+    "english": "Young",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 79,
+    "telugu": "మంచి",
+    "romanized": "Manchi",
+    "english": "Good",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 79,
+    "telugu": "చెడ్డ",
+    "romanized": "Chedda",
+    "english": "Bad",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 79,
+    "telugu": "అందమైన",
+    "romanized": "Andamaina",
+    "english": "Beautiful",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 79,
+    "telugu": "అయ్యార",
+    "romanized": "Ayyara",
+    "english": "Old (age)",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 79,
+    "telugu": "యువ",
+    "romanized": "Yuva",
+    "english": "Young",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 79,
+    "telugu": "ఉన్నత",
+    "romanized": "Unnatha",
+    "english": "High/Superior",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 80,
+    "telugu": "చెడ్డ",
+    "romanized": "Chedda",
+    "english": "Bad",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 80,
+    "telugu": "అందమైన",
+    "romanized": "Andamaina",
+    "english": "Beautiful",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 80,
+    "telugu": "అయ్యార",
+    "romanized": "Ayyara",
+    "english": "Old (age)",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 80,
+    "telugu": "యువ",
+    "romanized": "Yuva",
+    "english": "Young",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 80,
+    "telugu": "ఉన్నత",
+    "romanized": "Unnatha",
+    "english": "High/Superior",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 80,
+    "telugu": "అల్ప",
+    "romanized": "Alpa",
+    "english": "Low/Inferior",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 81,
+    "telugu": "ఎరుపు",
+    "romanized": "Erupu",
+    "english": "Red",
+    "category": "COLOR"
+  },
+  {
+    "lessonId": 82,
+    "telugu": "నీలం",
+    "romanized": "Neelam",
+    "english": "Blue",
+    "category": "COLOR"
+  },
+  {
+    "lessonId": 83,
+    "telugu": "ఆకుపచ్చ",
+    "romanized": "Aakupachcha",
+    "english": "Green",
+    "category": "COLOR"
+  },
+  {
+    "lessonId": 84,
+    "telugu": "పసుపు",
+    "romanized": "Pasupu",
+    "english": "Yellow",
+    "category": "COLOR"
+  },
+  {
+    "lessonId": 85,
+    "telugu": "ఆరంజి",
+    "romanized": "Aaranji",
+    "english": "Orange",
+    "category": "COLOR"
+  },
+  {
+    "lessonId": 86,
+    "telugu": "బియ్యపు",
+    "romanized": "Biyyapu",
+    "english": "White",
+    "category": "COLOR"
+  },
+  {
+    "lessonId": 87,
+    "telugu": " నలుపు",
+    "romanized": "Nalupu",
+    "english": "Black",
+    "category": "COLOR"
+  },
+  {
+    "lessonId": 88,
+    "telugu": "తెలుపు",
+    "romanized": "Telupu",
+    "english": "White",
+    "category": "COLOR"
+  },
+  {
+    "lessonId": 89,
+    "telugu": "బూడిద",
+    "romanized": "Boodida",
+    "english": "Gray",
+    "category": "COLOR"
+  },
+  {
+    "lessonId": 90,
+    "telugu": "గోధుమ",
+    "romanized": "Godhuma",
+    "english": "Brown",
+    "category": "COLOR"
+  },
+  {
+    "lessonId": 91,
+    "telugu": "తల",
+    "romanized": "Thala",
+    "english": "Head",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 91,
+    "telugu": "కళ్ళు",
+    "romanized": "Kallu",
+    "english": "Eyes",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 91,
+    "telugu": "ముక్కు",
+    "romanized": "Mukku",
+    "english": "Nose",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 91,
+    "telugu": "చెవులు",
+    "romanized": "Chevulu",
+    "english": "Ears",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 91,
+    "telugu": "చేతులు",
+    "romanized": "Chethulu",
+    "english": "Hands",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 91,
+    "telugu": "కాళ్ళు",
+    "romanized": "Kaallu",
+    "english": "Legs",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 92,
+    "telugu": "కళ్ళు",
+    "romanized": "Kallu",
+    "english": "Eyes",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 92,
+    "telugu": "ముక్కు",
+    "romanized": "Mukku",
+    "english": "Nose",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 92,
+    "telugu": "చెవులు",
+    "romanized": "Chevulu",
+    "english": "Ears",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 92,
+    "telugu": "చేతులు",
+    "romanized": "Chethulu",
+    "english": "Hands",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 92,
+    "telugu": "కాళ్ళు",
+    "romanized": "Kaallu",
+    "english": "Legs",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 92,
+    "telugu": "నోరు",
+    "romanized": "Nooru",
+    "english": "Mouth",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 93,
+    "telugu": "ముక్కు",
+    "romanized": "Mukku",
+    "english": "Nose",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 93,
+    "telugu": "చెవులు",
+    "romanized": "Chevulu",
+    "english": "Ears",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 93,
+    "telugu": "చేతులు",
+    "romanized": "Chethulu",
+    "english": "Hands",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 93,
+    "telugu": "కాళ్ళు",
+    "romanized": "Kaallu",
+    "english": "Legs",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 93,
+    "telugu": "నోరు",
+    "romanized": "Nooru",
+    "english": "Mouth",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 93,
+    "telugu": "దంతాలు",
+    "romanized": "Dhanthaalu",
+    "english": "Teeth",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 94,
+    "telugu": "చెవులు",
+    "romanized": "Chevulu",
+    "english": "Ears",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 94,
+    "telugu": "చేతులు",
+    "romanized": "Chethulu",
+    "english": "Hands",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 94,
+    "telugu": "కాళ్ళు",
+    "romanized": "Kaallu",
+    "english": "Legs",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 94,
+    "telugu": "నోరు",
+    "romanized": "Nooru",
+    "english": "Mouth",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 94,
+    "telugu": "దంతాలు",
+    "romanized": "Dhanthaalu",
+    "english": "Teeth",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 94,
+    "telugu": "జుట్టు",
+    "romanized": "Juttu",
+    "english": "Hair",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 95,
+    "telugu": "చేతులు",
+    "romanized": "Chethulu",
+    "english": "Hands",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 95,
+    "telugu": "కాళ్ళు",
+    "romanized": "Kaallu",
+    "english": "Legs",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 95,
+    "telugu": "నోరు",
+    "romanized": "Nooru",
+    "english": "Mouth",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 95,
+    "telugu": "దంతాలు",
+    "romanized": "Dhanthaalu",
+    "english": "Teeth",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 95,
+    "telugu": "జుట్టు",
+    "romanized": "Juttu",
+    "english": "Hair",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 95,
+    "telugu": "మెడ",
+    "romanized": "Meda",
+    "english": "Neck",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 96,
+    "telugu": "కాళ్ళు",
+    "romanized": "Kaallu",
+    "english": "Legs",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 96,
+    "telugu": "నోరు",
+    "romanized": "Nooru",
+    "english": "Mouth",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 96,
+    "telugu": "దంతాలు",
+    "romanized": "Dhanthaalu",
+    "english": "Teeth",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 96,
+    "telugu": "జుట్టు",
+    "romanized": "Juttu",
+    "english": "Hair",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 96,
+    "telugu": "మెడ",
+    "romanized": "Meda",
+    "english": "Neck",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 96,
+    "telugu": "ఛాతి",
+    "romanized": "Chaathi",
+    "english": "Chest",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 97,
+    "telugu": "నోరు",
+    "romanized": "Nooru",
+    "english": "Mouth",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 97,
+    "telugu": "దంతాలు",
+    "romanized": "Dhanthaalu",
+    "english": "Teeth",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 97,
+    "telugu": "జుట్టు",
+    "romanized": "Juttu",
+    "english": "Hair",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 97,
+    "telugu": "మెడ",
+    "romanized": "Meda",
+    "english": "Neck",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 97,
+    "telugu": "ఛాతి",
+    "romanized": "Chaathi",
+    "english": "Chest",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 97,
+    "telugu": "వీపు",
+    "romanized": "Veepu",
+    "english": "Back",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 98,
+    "telugu": "దంతాలు",
+    "romanized": "Dhanthaalu",
+    "english": "Teeth",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 98,
+    "telugu": "జుట్టు",
+    "romanized": "Juttu",
+    "english": "Hair",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 98,
+    "telugu": "మెడ",
+    "romanized": "Meda",
+    "english": "Neck",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 98,
+    "telugu": "ఛాతి",
+    "romanized": "Chaathi",
+    "english": "Chest",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 98,
+    "telugu": "వీపు",
+    "romanized": "Veepu",
+    "english": "Back",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 98,
+    "telugu": "అడుగు",
+    "romanized": "Adugu",
+    "english": "Sole",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 99,
+    "telugu": "జుట్టు",
+    "romanized": "Juttu",
+    "english": "Hair",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 99,
+    "telugu": "మెడ",
+    "romanized": "Meda",
+    "english": "Neck",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 99,
+    "telugu": "ఛాతి",
+    "romanized": "Chaathi",
+    "english": "Chest",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 99,
+    "telugu": "వీపు",
+    "romanized": "Veepu",
+    "english": "Back",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 99,
+    "telugu": "అడుగు",
+    "romanized": "Adugu",
+    "english": "Sole",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 99,
+    "telugu": "చరన",
+    "romanized": "Charana",
+    "english": "Legs (formal)",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 100,
+    "telugu": "మెడ",
+    "romanized": "Meda",
+    "english": "Neck",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 100,
+    "telugu": "ఛాతి",
+    "romanized": "Chaathi",
+    "english": "Chest",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 100,
+    "telugu": "వీపు",
+    "romanized": "Veepu",
+    "english": "Back",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 100,
+    "telugu": "అడుగు",
+    "romanized": "Adugu",
+    "english": "Sole",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 100,
+    "telugu": "చరన",
+    "romanized": "Charana",
+    "english": "Legs (formal)",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 100,
+    "telugu": "హృదయ",
+    "romanized": "Hrudaya",
+    "english": "Heart",
+    "category": "BODY"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "ఎంత?",
+    "romanized": "Entha?",
+    "english": "How much?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "ఎక్కడ?",
+    "romanized": "Ekkada?",
+    "english": "Where?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "ఏమి?",
+    "romanized": "Emi?",
+    "english": "What?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "ఎవరు?",
+    "romanized": "Evaru?",
+    "english": "Who?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "ఎందుకు?",
+    "romanized": "Endhuku?",
+    "english": "Why?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "ఎలా?",
+    "romanized": "Ela?",
+    "english": "How?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "అవును",
+    "romanized": "Avunu",
+    "english": "Yes",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "కాదు",
+    "romanized": "Kaadhu",
+    "english": "No",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "బాగుంది",
+    "romanized": "Baagundi",
+    "english": "It's good",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "చాలా",
+    "romanized": "Chaala",
+    "english": "Very/Many",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "ఎక్కడ?",
+    "romanized": "Ekkada?",
+    "english": "Where?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "ఏమి?",
+    "romanized": "Emi?",
+    "english": "What?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "ఎవరు?",
+    "romanized": "Evaru?",
+    "english": "Who?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "ఎందుకు?",
+    "romanized": "Endhuku?",
+    "english": "Why?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "ఎలా?",
+    "romanized": "Ela?",
+    "english": "How?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "అవును",
+    "romanized": "Avunu",
+    "english": "Yes",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "కాదు",
+    "romanized": "Kaadhu",
+    "english": "No",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "బాగుంది",
+    "romanized": "Baagundi",
+    "english": "It's good",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "చాలా",
+    "romanized": "Chaala",
+    "english": "Very/Many",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "కొంచెం",
+    "romanized": "Konchem",
+    "english": "Little",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "ఏమి?",
+    "romanized": "Emi?",
+    "english": "What?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "ఎవరు?",
+    "romanized": "Evaru?",
+    "english": "Who?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "ఎందుకు?",
+    "romanized": "Endhuku?",
+    "english": "Why?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "ఎలా?",
+    "romanized": "Ela?",
+    "english": "How?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "అవును",
+    "romanized": "Avunu",
+    "english": "Yes",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "కాదు",
+    "romanized": "Kaadhu",
+    "english": "No",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "బాగుంది",
+    "romanized": "Baagundi",
+    "english": "It's good",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "చాలా",
+    "romanized": "Chaala",
+    "english": "Very/Many",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "కొంచెం",
+    "romanized": "Konchem",
+    "english": "Little",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "ఎక్కువ",
+    "romanized": "Ekkuvu",
+    "english": "More",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "ఎవరు?",
+    "romanized": "Evaru?",
+    "english": "Who?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "ఎందుకు?",
+    "romanized": "Endhuku?",
+    "english": "Why?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "ఎలా?",
+    "romanized": "Ela?",
+    "english": "How?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "అవును",
+    "romanized": "Avunu",
+    "english": "Yes",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "కాదు",
+    "romanized": "Kaadhu",
+    "english": "No",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "బాగుంది",
+    "romanized": "Baagundi",
+    "english": "It's good",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "చాలా",
+    "romanized": "Chaala",
+    "english": "Very/Many",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "కొంచెం",
+    "romanized": "Konchem",
+    "english": "Little",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "ఎక్కువ",
+    "romanized": "Ekkuvu",
+    "english": "More",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "కాస్త",
+    "romanized": "Kaasta",
+    "english": "Some",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "ఎందుకు?",
+    "romanized": "Endhuku?",
+    "english": "Why?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "ఎలా?",
+    "romanized": "Ela?",
+    "english": "How?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "అవును",
+    "romanized": "Avunu",
+    "english": "Yes",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "కాదు",
+    "romanized": "Kaadhu",
+    "english": "No",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "బాగుంది",
+    "romanized": "Baagundi",
+    "english": "It's good",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "చాలా",
+    "romanized": "Chaala",
+    "english": "Very/Many",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "కొంచెం",
+    "romanized": "Konchem",
+    "english": "Little",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "ఎక్కువ",
+    "romanized": "Ekkuvu",
+    "english": "More",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "కాస్త",
+    "romanized": "Kaasta",
+    "english": "Some",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "అందరూ",
+    "romanized": "Andaru",
+    "english": "Everyone",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "అవును",
+    "romanized": "Avunu",
+    "english": "Yes",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "కాదు",
+    "romanized": "Kaadhu",
+    "english": "No",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "బాగుంది",
+    "romanized": "Baagundi",
+    "english": "It's good",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "చాలా",
+    "romanized": "Chaala",
+    "english": "Very/Many",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "కొంచెం",
+    "romanized": "Konchem",
+    "english": "Little",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "ఎక్కువ",
+    "romanized": "Ekkuvu",
+    "english": "More",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "కాస్త",
+    "romanized": "Kaasta",
+    "english": "Some",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "అందరూ",
+    "romanized": "Andaru",
+    "english": "Everyone",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "ఎవరైనా",
+    "romanized": "Evaina",
+    "english": "Anyone",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "ఏమీ",
+    "romanized": "Emi",
+    "english": "Something",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 107,
+    "telugu": "కాదు",
+    "romanized": "Kaadhu",
+    "english": "No",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 107,
+    "telugu": "బాగుంది",
+    "romanized": "Baagundi",
+    "english": "It's good",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 107,
+    "telugu": "చాలా",
+    "romanized": "Chaala",
+    "english": "Very/Many",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 107,
+    "telugu": "కొంచెం",
+    "romanized": "Konchem",
+    "english": "Little",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 107,
+    "telugu": "ఎక్కువ",
+    "romanized": "Ekkuvu",
+    "english": "More",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 107,
+    "telugu": "కాస్త",
+    "romanized": "Kaasta",
+    "english": "Some",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 107,
+    "telugu": "అందరూ",
+    "romanized": "Andaru",
+    "english": "Everyone",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 107,
+    "telugu": "ఎవరైనా",
+    "romanized": "Evaina",
+    "english": "Anyone",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 107,
+    "telugu": "ఏమీ",
+    "romanized": "Emi",
+    "english": "Something",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 107,
+    "telugu": "� ничего",
+    "romanized": "Ila",
+    "english": "Like this",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 108,
+    "telugu": "బాగుంది",
+    "romanized": "Baagundi",
+    "english": "It's good",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 108,
+    "telugu": "చాలా",
+    "romanized": "Chaala",
+    "english": "Very/Many",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 108,
+    "telugu": "కొంచెం",
+    "romanized": "Konchem",
+    "english": "Little",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 108,
+    "telugu": "ఎక్కువ",
+    "romanized": "Ekkuvu",
+    "english": "More",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 108,
+    "telugu": "కాస్త",
+    "romanized": "Kaasta",
+    "english": "Some",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 108,
+    "telugu": "అందరూ",
+    "romanized": "Andaru",
+    "english": "Everyone",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 108,
+    "telugu": "ఎవరైనా",
+    "romanized": "Evaina",
+    "english": "Anyone",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 108,
+    "telugu": "ఏమీ",
+    "romanized": "Emi",
+    "english": "Something",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 108,
+    "telugu": "� ничего",
+    "romanized": "Ila",
+    "english": "Like this",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 108,
+    "telugu": "అలా",
+    "romanized": "Ala",
+    "english": "Like that",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "చాలా",
+    "romanized": "Chaala",
+    "english": "Very/Many",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "కొంచెం",
+    "romanized": "Konchem",
+    "english": "Little",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "ఎక్కువ",
+    "romanized": "Ekkuvu",
+    "english": "More",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "కాస్త",
+    "romanized": "Kaasta",
+    "english": "Some",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "అందరూ",
+    "romanized": "Andaru",
+    "english": "Everyone",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "ఎవరైనా",
+    "romanized": "Evaina",
+    "english": "Anyone",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "ఏమీ",
+    "romanized": "Emi",
+    "english": "Something",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "� ничего",
+    "romanized": "Ila",
+    "english": "Like this",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "అలా",
+    "romanized": "Ala",
+    "english": "Like that",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "ఇక",
+    "romanized": "Ika",
+    "english": "Now",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "కొంచెం",
+    "romanized": "Konchem",
+    "english": "Little",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "ఎక్కువ",
+    "romanized": "Ekkuvu",
+    "english": "More",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "కాస్త",
+    "romanized": "Kaasta",
+    "english": "Some",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "అందరూ",
+    "romanized": "Andaru",
+    "english": "Everyone",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "ఎవరైనా",
+    "romanized": "Evaina",
+    "english": "Anyone",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "ఏమీ",
+    "romanized": "Emi",
+    "english": "Something",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "� ничего",
+    "romanized": "Ila",
+    "english": "Like this",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "అలా",
+    "romanized": "Ala",
+    "english": "Like that",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "ఇక",
+    "romanized": "Ika",
+    "english": "Now",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "అక్కడ",
+    "romanized": "Akkaada",
+    "english": "There",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "నమస్తే",
+    "romanized": "Namaste",
+    "english": "Hello/Goodbye",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "హలో",
+    "romanized": "Halo",
+    "english": "Hello",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "ధన్యవాదాలు",
+    "romanized": "Dhanyavaadalu",
+    "english": "Thank you",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "మంచి రోజు",
+    "romanized": "Manchi roju",
+    "english": "Good day",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "మంచి మినహా",
+    "romanized": "Manchi mana",
+    "english": "Good morning",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "ఒకటి",
+    "romanized": "Okati",
+    "english": "One",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "రెండు",
+    "romanized": "Rendu",
+    "english": "Two",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "మూడు",
+    "romanized": "Moodu",
+    "english": "Three",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "నాలుగు",
+    "romanized": "Naalugu",
+    "english": "Four",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "అయిదు",
+    "romanized": "Ayidu",
+    "english": "Five",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "మంచి రోజు",
+    "romanized": "Manchi roju",
+    "english": "Good day",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "మంచి మినహా",
+    "romanized": "Manchi mana",
+    "english": "Good morning",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "ఒకటి",
+    "romanized": "Okati",
+    "english": "One",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "రెండు",
+    "romanized": "Rendu",
+    "english": "Two",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "మూడు",
+    "romanized": "Moodu",
+    "english": "Three",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "నాలుగు",
+    "romanized": "Naalugu",
+    "english": "Four",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "అయిదు",
+    "romanized": "Ayidu",
+    "english": "Five",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "తండ్రి",
+    "romanized": "Thandri",
+    "english": "Father",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "తల్లి",
+    "romanized": "Thalli",
+    "english": "Mother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "అన్నయ్య",
+    "romanized": "Annayya",
+    "english": "Elder Brother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "రెండు",
+    "romanized": "Rendu",
+    "english": "Two",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "మూడు",
+    "romanized": "Moodu",
+    "english": "Three",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "నాలుగు",
+    "romanized": "Naalugu",
+    "english": "Four",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "అయిదు",
+    "romanized": "Ayidu",
+    "english": "Five",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "తండ్రి",
+    "romanized": "Thandri",
+    "english": "Father",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "తల్లి",
+    "romanized": "Thalli",
+    "english": "Mother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "అన్నయ్య",
+    "romanized": "Annayya",
+    "english": "Elder Brother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "తమ్ముడు",
+    "romanized": "Thammudu",
+    "english": "Younger Brother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "అక్క",
+    "romanized": "Akka",
+    "english": "Elder Sister",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "వెళ్ళు",
+    "romanized": "Vellu",
+    "english": "Go",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "నాలుగు",
+    "romanized": "Naalugu",
+    "english": "Four",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "అయిదు",
+    "romanized": "Ayidu",
+    "english": "Five",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "తండ్రి",
+    "romanized": "Thandri",
+    "english": "Father",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "తల్లి",
+    "romanized": "Thalli",
+    "english": "Mother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "అన్నయ్య",
+    "romanized": "Annayya",
+    "english": "Elder Brother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "తమ్ముడు",
+    "romanized": "Thammudu",
+    "english": "Younger Brother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "అక్క",
+    "romanized": "Akka",
+    "english": "Elder Sister",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "వెళ్ళు",
+    "romanized": "Vellu",
+    "english": "Go",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "రు",
+    "romanized": "Ruu",
+    "english": "Come",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "చేయు",
+    "romanized": "Cheyyu",
+    "english": "Do",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "తల్లి",
+    "romanized": "Thalli",
+    "english": "Mother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "అన్నయ్య",
+    "romanized": "Annayya",
+    "english": "Elder Brother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "తమ్ముడు",
+    "romanized": "Thammudu",
+    "english": "Younger Brother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "అక్క",
+    "romanized": "Akka",
+    "english": "Elder Sister",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "వెళ్ళు",
+    "romanized": "Vellu",
+    "english": "Go",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "రు",
+    "romanized": "Ruu",
+    "english": "Come",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "చేయు",
+    "romanized": "Cheyyu",
+    "english": "Do",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "చెప్పు",
+    "romanized": "Cheppu",
+    "english": "Tell/Say",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "తిను",
+    "romanized": "Thinu",
+    "english": "Eat",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "అన్నం",
+    "romanized": "Annam",
+    "english": "Rice/Meals",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "అక్క",
+    "romanized": "Akka",
+    "english": "Elder Sister",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "వెళ్ళు",
+    "romanized": "Vellu",
+    "english": "Go",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "రు",
+    "romanized": "Ruu",
+    "english": "Come",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "చేయు",
+    "romanized": "Cheyyu",
+    "english": "Do",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "చెప్పు",
+    "romanized": "Cheppu",
+    "english": "Tell/Say",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "తిను",
+    "romanized": "Thinu",
+    "english": "Eat",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "అన్నం",
+    "romanized": "Annam",
+    "english": "Rice/Meals",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "జల్",
+    "romanized": "Jalam",
+    "english": "Water",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "పాలు",
+    "romanized": "Paalu",
+    "english": "Milk",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "కూర",
+    "romanized": "Kooru",
+    "english": "Curry",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 117,
+    "telugu": "చేయు",
+    "romanized": "Cheyyu",
+    "english": "Do",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 117,
+    "telugu": "చెప్పు",
+    "romanized": "Cheppu",
+    "english": "Tell/Say",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 117,
+    "telugu": "తిను",
+    "romanized": "Thinu",
+    "english": "Eat",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 117,
+    "telugu": "అన్నం",
+    "romanized": "Annam",
+    "english": "Rice/Meals",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 117,
+    "telugu": "జల్",
+    "romanized": "Jalam",
+    "english": "Water",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 117,
+    "telugu": "పాలు",
+    "romanized": "Paalu",
+    "english": "Milk",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 117,
+    "telugu": "కూర",
+    "romanized": "Kooru",
+    "english": "Curry",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 117,
+    "telugu": "పిండి",
+    "romanized": "Pindi",
+    "english": "Flour/Bread",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 117,
+    "telugu": "ఇప్పుడు",
+    "romanized": "Ipputha",
+    "english": "Now",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 117,
+    "telugu": "తర్వాత",
+    "romanized": "Tharvaatha",
+    "english": "Later/After",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 118,
+    "telugu": "తిను",
+    "romanized": "Thinu",
+    "english": "Eat",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 118,
+    "telugu": "అన్నం",
+    "romanized": "Annam",
+    "english": "Rice/Meals",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 118,
+    "telugu": "జల్",
+    "romanized": "Jalam",
+    "english": "Water",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 118,
+    "telugu": "పాలు",
+    "romanized": "Paalu",
+    "english": "Milk",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 118,
+    "telugu": "కూర",
+    "romanized": "Kooru",
+    "english": "Curry",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 118,
+    "telugu": "పిండి",
+    "romanized": "Pindi",
+    "english": "Flour/Bread",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 118,
+    "telugu": "ఇప్పుడు",
+    "romanized": "Ipputha",
+    "english": "Now",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 118,
+    "telugu": "తర్వాత",
+    "romanized": "Tharvaatha",
+    "english": "Later/After",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 118,
+    "telugu": "ముందు",
+    "romanized": "Moondu",
+    "english": "Before",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 118,
+    "telugu": "తూర్పు",
+    "romanized": "Thoorupu",
+    "english": "East",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "పాలు",
+    "romanized": "Paalu",
+    "english": "Milk",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "కూర",
+    "romanized": "Kooru",
+    "english": "Curry",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "పిండి",
+    "romanized": "Pindi",
+    "english": "Flour/Bread",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "ఇప్పుడు",
+    "romanized": "Ipputha",
+    "english": "Now",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "తర్వాత",
+    "romanized": "Tharvaatha",
+    "english": "Later/After",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "ముందు",
+    "romanized": "Moondu",
+    "english": "Before",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "తూర్పు",
+    "romanized": "Thoorupu",
+    "english": "East",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "పడమర",
+    "romanized": "Padamara",
+    "english": "West",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "ఉత్తర",
+    "romanized": "Uttara",
+    "english": "North",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "పెద్ద",
+    "romanized": "Pedda",
+    "english": "Big",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "ఇప్పుడు",
+    "romanized": "Ipputha",
+    "english": "Now",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "తర్వాత",
+    "romanized": "Tharvaatha",
+    "english": "Later/After",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "ముందు",
+    "romanized": "Moondu",
+    "english": "Before",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "తూర్పు",
+    "romanized": "Thoorupu",
+    "english": "East",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "పడమర",
+    "romanized": "Padamara",
+    "english": "West",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "ఉత్తర",
+    "romanized": "Uttara",
+    "english": "North",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "పెద్ద",
+    "romanized": "Pedda",
+    "english": "Big",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "చిన్న",
+    "romanized": "Chinna",
+    "english": "Small",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "ఎత్తు",
+    "romanized": "Eththu",
+    "english": "Tall",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "తక్కువ",
+    "romanized": "Thakkuva",
+    "english": "Short",
+    "category": "ADJECTIVE"
+  }
+]

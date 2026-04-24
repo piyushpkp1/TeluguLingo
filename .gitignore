@@ -1,0 +1,27 @@
+# --- Project Specific ---
+local.properties
+.claude/
+dli.language.2300.pdf
+
+# --- Gradle ---
+.gradle/
+/build/
+/*/build/
+
+# --- Kotlin/Android ---
+*.iml
+.idea/
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# --- Secrets & Keystores ---
+*.jks
+*.keystore
+google-services.json
+
+# --- Linux/System ---
+.DS_Store
+*~
+*.swp
