@@ -3,6 +3,8 @@ package com.telugulingo.app.presentation.screen.lesson
 import androidx.lifecycle.SavedStateHandle
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.telugulingo.app.data.local.db.dao.ProgressDao
+import com.telugulingo.app.data.local.db.entity.LessonProgressEntity
 import com.telugulingo.app.domain.model.Lesson
 import com.telugulingo.app.domain.model.Vocabulary
 import com.telugulingo.app.domain.repository.LessonRepository
@@ -20,7 +22,8 @@ data class LessonUiState(
     val currentCardIndex: Int = 0,
     val isLoading: Boolean = true,
     val isSpeaking: Boolean = false,
-    val allCardsViewed: Boolean = false
+    val allCardsViewed: Boolean = false,
+    val isAlreadyCompleted: Boolean = false
 )
 
 @HiltViewModel
@@ -29,7 +32,8 @@ class LessonViewModel @Inject constructor(
     private val lessonRepository: LessonRepository,
     private val vocabularyRepository: VocabularyRepository,
     private val userRepository: UserRepository,
-    private val ttsService: TextToSpeechService
+    private val ttsService: TextToSpeechService,
+    private val progressDao: ProgressDao
 ) : ViewModel() {
 
     private val lessonId: Long = savedStateHandle.get<Long>("lessonId") ?: 1L
@@ -46,11 +50,13 @@ class LessonViewModel @Inject constructor(
         viewModelScope.launch {
             val lesson = lessonRepository.getLessonById(lessonId)
             val vocabulary = vocabularyRepository.getVocabularyForLessonOnce(lessonId)
+            val progress = progressDao.getProgressForLesson(lessonId)
 
             _uiState.update {
                 it.copy(
                     lesson = lesson,
                     vocabulary = vocabulary,
+                    isAlreadyCompleted = progress?.isCompleted == true,
                     isLoading = false
                 )
             }
@@ -91,6 +97,7 @@ class LessonViewModel @Inject constructor(
     }
 
     fun markCardViewed() {
+        if (_uiState.value.isAlreadyCompleted) return
         viewModelScope.launch {
             userRepository.addXP(5)
         }
@@ -99,13 +106,25 @@ class LessonViewModel @Inject constructor(
     fun completeLesson() {
         viewModelScope.launch {
             val lesson = _uiState.value.lesson ?: return@launch
-            userRepository.addXP(lesson.xpReward)
-            userRepository.updateStreak()
+            val alreadyCompleted = _uiState.value.isAlreadyCompleted
 
-            // Advance daily lesson index
-            val user = userRepository.getUserOnce()
-            user?.let {
-                userRepository.updateUser(it.copy(dailyLessonIndex = it.dailyLessonIndex + 1))
+            // Record completion (idempotent — only writes on first completion)
+            if (!alreadyCompleted) {
+                progressDao.insertProgress(
+                    LessonProgressEntity(
+                        lessonId = lessonId,
+                        isCompleted = true,
+                        completedAt = System.currentTimeMillis(),
+                        xpEarned = lesson.xpReward
+                    )
+                )
+                userRepository.addXP(lesson.xpReward)
+                userRepository.updateStreak()
+                val user = userRepository.getUserOnce()
+                user?.let {
+                    userRepository.updateUser(it.copy(dailyLessonIndex = it.dailyLessonIndex + 1))
+                }
+                _uiState.update { it.copy(isAlreadyCompleted = true) }
             }
         }
     }

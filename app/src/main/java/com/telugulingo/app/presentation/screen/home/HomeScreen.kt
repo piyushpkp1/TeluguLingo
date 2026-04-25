@@ -11,6 +11,7 @@ import androidx.compose.material.icons.automirrored.filled.MenuBook
 import androidx.compose.material.icons.automirrored.filled.ShowChart
 import androidx.compose.material.icons.filled.ArrowForward
 import androidx.compose.material.icons.filled.Check
+import androidx.compose.material.icons.filled.Lock
 import androidx.compose.material.icons.filled.PlayArrow
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material3.*
@@ -142,17 +143,20 @@ fun HomeScreen(
 
                 item { SectionLabel(text = "All Lessons") }
 
-                items(uiState.lessons) { lesson ->
-                    val currentIndex = uiState.user?.dailyLessonIndex ?: 0
+                items(uiState.lessons.size) { index ->
+                    val lesson = uiState.lessons[index]
+                    val completedCount = uiState.user?.dailyLessonIndex ?: 0
                     val state = when {
-                        lesson.dayNumber <= currentIndex -> LessonState.COMPLETED
-                        lesson.dayNumber == currentIndex + 1 -> LessonState.ACTIVE
+                        index < completedCount -> LessonState.COMPLETED
+                        index == completedCount -> LessonState.ACTIVE
                         else -> LessonState.LOCKED
                     }
                     LessonListItem(
                         lesson = lesson,
                         state = state,
-                        onClick = { onLessonClick(lesson.id) }
+                        onClick = if (state != LessonState.LOCKED) {
+                            { onLessonClick(lesson.id) }
+                        } else null
                     )
                 }
 
@@ -408,7 +412,7 @@ private enum class LessonState { LOCKED, ACTIVE, COMPLETED }
 private fun LessonListItem(
     lesson: com.telugulingo.app.domain.model.Lesson,
     state: LessonState,
-    onClick: () -> Unit,
+    onClick: (() -> Unit)?,
 ) {
     val (iconBg, iconTint) = when (state) {
         LessonState.COMPLETED -> SuccessGreen.copy(alpha = 0.15f) to SuccessGreen
@@ -419,9 +423,12 @@ private fun LessonListItem(
     Surface(
         modifier = Modifier.fillMaxWidth(),
         shape = RoundedCornerShape(20.dp),
-        color = MaterialTheme.colorScheme.surface,
-        tonalElevation = 1.dp,
-        onClick = onClick
+        color = if (state == LessonState.LOCKED)
+            MaterialTheme.colorScheme.surface.copy(alpha = 0.6f)
+        else
+            MaterialTheme.colorScheme.surface,
+        tonalElevation = if (state == LessonState.LOCKED) 0.dp else 1.dp,
+        onClick = onClick ?: {}
     ) {
         Row(
             modifier = Modifier
@@ -449,56 +456,66 @@ private fun LessonListItem(
                         tint = iconTint,
                         modifier = Modifier.size(22.dp)
                     )
-                    LessonState.LOCKED -> Text(
-                        text = "${lesson.dayNumber}",
-                        style = MaterialTheme.typography.labelLarge,
-                        fontWeight = FontWeight.Bold,
-                        color = iconTint
+                    LessonState.LOCKED -> Icon(
+                        Icons.Default.Lock,
+                        contentDescription = "Locked",
+                        tint = iconTint,
+                        modifier = Modifier.size(20.dp)
                     )
                 }
             }
             Spacer(modifier = Modifier.width(14.dp))
             Column(modifier = Modifier.weight(1f)) {
                 Text(
-                    text = "Day ${lesson.dayNumber}",
-                    style = MaterialTheme.typography.labelSmall,
-                    color = MaterialTheme.colorScheme.primary,
-                    fontWeight = FontWeight.SemiBold
-                )
-                Text(
                     text = lesson.title,
                     style = MaterialTheme.typography.bodyLarge,
                     fontWeight = FontWeight.SemiBold,
-                    color = MaterialTheme.colorScheme.onSurface,
+                    color = if (state == LessonState.LOCKED)
+                        MaterialTheme.colorScheme.onSurface.copy(alpha = 0.4f)
+                    else
+                        MaterialTheme.colorScheme.onSurface,
                     maxLines = 1
                 )
                 Text(
                     text = lesson.titleRomanized,
                     style = MaterialTheme.typography.bodySmall,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                    color = MaterialTheme.colorScheme.onSurfaceVariant.copy(
+                        alpha = if (state == LessonState.LOCKED) 0.4f else 1f
+                    )
                 )
             }
             Spacer(modifier = Modifier.width(8.dp))
-            Row(verticalAlignment = Alignment.CenterVertically) {
-                Text(
-                    text = "+${lesson.xpReward}",
-                    style = MaterialTheme.typography.labelMedium,
-                    color = XPGold,
-                    fontWeight = FontWeight.Bold
-                )
-                Spacer(modifier = Modifier.width(2.dp))
-                Text(
-                    text = "XP",
-                    style = MaterialTheme.typography.labelSmall,
-                    color = XPGold
-                )
-                Spacer(modifier = Modifier.width(6.dp))
-                Icon(
-                    Icons.Default.ArrowForward,
-                    contentDescription = null,
-                    tint = MaterialTheme.colorScheme.onSurfaceVariant,
-                    modifier = Modifier.size(18.dp)
-                )
+            if (state != LessonState.LOCKED) {
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    Text(
+                        text = "+${lesson.xpReward}",
+                        style = MaterialTheme.typography.labelMedium,
+                        color = if (state == LessonState.COMPLETED)
+                            MaterialTheme.colorScheme.onSurfaceVariant
+                        else
+                            XPGold,
+                        fontWeight = FontWeight.Bold
+                    )
+                    Spacer(modifier = Modifier.width(2.dp))
+                    Text(
+                        text = "XP",
+                        style = MaterialTheme.typography.labelSmall,
+                        color = if (state == LessonState.COMPLETED)
+                            MaterialTheme.colorScheme.onSurfaceVariant
+                        else
+                            XPGold
+                    )
+                    Spacer(modifier = Modifier.width(6.dp))
+                    Icon(
+                        if (state == LessonState.COMPLETED) Icons.Default.Check else Icons.Default.ArrowForward,
+                        contentDescription = null,
+                        tint = if (state == LessonState.COMPLETED)
+                            SuccessGreen
+                        else
+                            MaterialTheme.colorScheme.onSurfaceVariant,
+                        modifier = Modifier.size(18.dp)
+                    )
+                }
             }
         }
     }

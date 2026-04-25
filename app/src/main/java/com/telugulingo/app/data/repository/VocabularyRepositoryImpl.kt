@@ -26,7 +26,7 @@ class VocabularyRepositoryImpl @Inject constructor(
         vocabularyDao.getVocabularyForLessonOnce(lessonId).map { it.toDomain() }
 
     override suspend fun initializeVocabulary() {
-        val existing = vocabularyDao.getVocabularyForLessonOnce(120)
+        val existing = vocabularyDao.getVocabularyForLessonOnce(1)
         if (existing.isNotEmpty()) return
 
         val json = loadVocabularyJson() ?: return

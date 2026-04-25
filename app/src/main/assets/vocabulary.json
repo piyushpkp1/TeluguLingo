@@ -70,6 +70,62 @@
     "category": "COMMON_PHRASE"
   },
   {
+    "lessonId": 1,
+    "telugu": "శుభోదయం",
+    "romanized": "Shubhodayam",
+    "english": "Good morning",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 1,
+    "telugu": "స్వాగతం",
+    "romanized": "Swagatam",
+    "english": "Welcome",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 1,
+    "telugu": "వీడ్కోలు",
+    "romanized": "Veedkolu",
+    "english": "Farewell",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 1,
+    "telugu": "మళ్ళీ కలుద్దాం",
+    "romanized": "Malli kaluddaam",
+    "english": "See you again",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 1,
+    "telugu": "రేపు కలుద్దాం",
+    "romanized": "Raepu kaluddaam",
+    "english": "See you tomorrow",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 1,
+    "telugu": "నమస్కారం చేస్తున్నాను",
+    "romanized": "Namaskaram chestu nnaanu",
+    "english": "I am greeting you",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 1,
+    "telugu": "మీరు ఎక్కడ ఉన్నారు?",
+    "romanized": "Meeru ekkada unnaaru?",
+    "english": "Where are you?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 1,
+    "telugu": "దయచేసి రండి",
+    "romanized": "Dayachesi randi",
+    "english": "Please come in",
+    "category": "COMMON_PHRASE"
+  },
+  {
     "lessonId": 2,
     "telugu": "ధన్యవాదాలు",
     "romanized": "Dhanyavaadalu",
@@ -140,6 +196,62 @@
     "category": "GREETING"
   },
   {
+    "lessonId": 2,
+    "telugu": "దయచేసి",
+    "romanized": "Dayachesi",
+    "english": "Please",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "నెనర్లు",
+    "romanized": "Nenarllu",
+    "english": "Thanks (informal)",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "ఫర్వాలేదు",
+    "romanized": "Pharvaledu",
+    "english": "No problem / It's okay",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "కృతజ్ఞతలు",
+    "romanized": "Kruthagnathalu",
+    "english": "Gratitude / Thanks",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "మీరు చాలా దయగలవారు",
+    "romanized": "Meeru chaala dayagalavarru",
+    "english": "You are very kind",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "సహాయం చేసినందుకు ధన్యవాదాలు",
+    "romanized": "Sahaayam chesinanduku dhanyavaadalu",
+    "english": "Thank you for the help",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "అర్థమైందా?",
+    "romanized": "Arthamayindaa?",
+    "english": "Do you understand?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 2,
+    "telugu": "మళ్ళీ చెప్పండి",
+    "romanized": "Malli cheppandi",
+    "english": "Please say again",
+    "category": "COMMON_PHRASE"
+  },
+  {
     "lessonId": 3,
     "telugu": "మంచి మినహా",
     "romanized": "Manchi mana",
@@ -210,6 +322,62 @@
     "category": "GREETING"
   },
   {
+    "lessonId": 3,
+    "telugu": "సరే",
+    "romanized": "Sare",
+    "english": "Okay / Alright",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "తప్పకుండా",
+    "romanized": "Thappakunda",
+    "english": "Definitely / Of course",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "బహుశా",
+    "romanized": "Bahushaa",
+    "english": "Maybe / Perhaps",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "వద్దు",
+    "romanized": "Vaddhu",
+    "english": "No / Don't want",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "నాకు తెలియదు",
+    "romanized": "Naaku teliyadu",
+    "english": "I don't know",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "ముమ్మాటికీ అవును",
+    "romanized": "Mummataakee avunu",
+    "english": "Absolutely yes",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "అది నిజమే",
+    "romanized": "Adhi nijame",
+    "english": "That is true",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 3,
+    "telugu": "అది నిజం కాదు",
+    "romanized": "Adhi nijam kaadhu",
+    "english": "That is not true",
+    "category": "COMMON_PHRASE"
+  },
+  {
     "lessonId": 4,
     "telugu": "మంచి రాత్రి",
     "romanized": "Manchi raatri",
@@ -280,6 +448,62 @@
     "category": "PRONOUN"
   },
   {
+    "lessonId": 4,
+    "telugu": "పరిచయం",
+    "romanized": "Parichayam",
+    "english": "Introduction",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "నా పేరు రాజు",
+    "romanized": "Naa peru Raju",
+    "english": "My name is Raju",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "నేను హైదరాబాద్ నుండి వచ్చాను",
+    "romanized": "Naenu Hyderabad nundi vacchaanu",
+    "english": "I am from Hyderabad",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "మీ పేరు ఏమిటి?",
+    "romanized": "Mee peru emiti?",
+    "english": "What is your name?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "నాకు తెలుగు వస్తుంది",
+    "romanized": "Naaku telugu vasthundi",
+    "english": "I know Telugu",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "నేను విద్యార్థిని",
+    "romanized": "Naenu vidyaarthi ni",
+    "english": "I am a student",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "మీరు ఏం చేస్తారు?",
+    "romanized": "Meeru em chesthaarru?",
+    "english": "What do you do?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 4,
+    "telugu": "నేను ఉపాధ్యాయుడిని",
+    "romanized": "Naenu upaadhy aayudini",
+    "english": "I am a teacher",
+    "category": "COMMON_PHRASE"
+  },
+  {
     "lessonId": 5,
     "telugu": "కాదు",
     "romanized": "Kaadhu",
@@ -350,6 +574,62 @@
     "category": "PRONOUN"
   },
   {
+    "lessonId": 5,
+    "telugu": "బాగున్నారా?",
+    "romanized": "Baagunnaaraa?",
+    "english": "Are you well?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "చాలా బాగున్నాను",
+    "romanized": "Chaala baagunnaa nu",
+    "english": "I am very well",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "అంత బాగా లేదు",
+    "romanized": "Anth a baaga ledu",
+    "english": "Not that great",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "మీకు ఎలా ఉంది?",
+    "romanized": "Meeku elaa undi?",
+    "english": "How are you feeling?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "సంతోషంగా ఉన్నాను",
+    "romanized": "Santoshamgaa unnaanu",
+    "english": "I am happy",
+    "category": "EMOTION"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "అలసిపోయాను",
+    "romanized": "Alasipoyaanu",
+    "english": "I am tired",
+    "category": "EMOTION"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "మీరు ఏం చేస్తున్నారు?",
+    "romanized": "Meeru em chesth unnaaru?",
+    "english": "What are you doing?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 5,
+    "telugu": "నేను పని చేస్తున్నాను",
+    "romanized": "Naenu pani chesth unnaanu",
+    "english": "I am working",
+    "category": "VERB"
+  },
+  {
     "lessonId": 6,
     "telugu": "క్షమించండి",
     "romanized": "Kshaminchandi",
@@ -420,6 +700,62 @@
     "category": "PRONOUN"
   },
   {
+    "lessonId": 6,
+    "telugu": "మీతో కలవడం ఆనందంగా ఉంది",
+    "romanized": "Meeto kalavaDam aanandamgaa undi",
+    "english": "Nice to meet you",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "మీతో మాట్లాడటం ఆనందం",
+    "romanized": "Meeto maaTlaaDaTam aanandam",
+    "english": "It's a pleasure talking with you",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "మీ గురించి చెప్పండి",
+    "romanized": "Mee gurinchi cheppandi",
+    "english": "Tell me about yourself",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "మీరు ఎక్కడ నుండి?",
+    "romanized": "Meeru ekkaDa nundi?",
+    "english": "Where are you from?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "మనం మళ్ళీ కలుద్దాం",
+    "romanized": "Manam malli kaluddaam",
+    "english": "Let's meet again",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "ఇది చాలా ఆనందంగా ఉంది",
+    "romanized": "Idhi chaala aanandamgaa undi",
+    "english": "This is very pleasant",
+    "category": "EMOTION"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "మీరు చాలా మంచివారు",
+    "romanized": "Meeru chaala manchivaarru",
+    "english": "You are very good",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 6,
+    "telugu": "నేను మీకు ఒక స్నేహితుడిని",
+    "romanized": "Naenu meeku oka snehituDini",
+    "english": "I am a friend to you",
+    "category": "COMMON_PHRASE"
+  },
+  {
     "lessonId": 7,
     "telugu": "నేను బాగా ఉన్నాను",
     "romanized": "Nenu baaga unnaanu",
@@ -490,6 +826,62 @@
     "category": "COMMON_PHRASE"
   },
   {
+    "lessonId": 7,
+    "telugu": "ఉదయం పూట",
+    "romanized": "Udayam poota",
+    "english": "In the morning time",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "ఏమైనా విషయం?",
+    "romanized": "Emainaa vishayam?",
+    "english": "Anything new?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "చాలా రోజులైంది",
+    "romanized": "Chaala rojulayindi",
+    "english": "It's been a long time",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "ఇటీవల ఎలా ఉన్నారు?",
+    "romanized": "Iteevala elaa unnaaru?",
+    "english": "How have you been lately?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "మళ్ళీ కలవడం సంతోషం",
+    "romanized": "Malli kalavaDam santosham",
+    "english": "Happy to meet again",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "మీ కుటుంబం ఎలా ఉంది?",
+    "romanized": "Mee kutumbam elaa undi?",
+    "english": "How is your family?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "అందరూ బాగున్నారా?",
+    "romanized": "Andaruu baagunnaaraa?",
+    "english": "Is everyone well?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 7,
+    "telugu": "చాలా కాలం తర్వాత కలిసాం",
+    "romanized": "Chaala kaalam tarvaata kalisaam",
+    "english": "We met after a long time",
+    "category": "GREETING"
+  },
+  {
     "lessonId": 8,
     "telugu": "నేను",
     "romanized": "Nenu",
@@ -560,74 +952,60 @@
     "category": "COMMON_PHRASE"
   },
   {
-    "lessonId": 9,
-    "telugu": "అతను",
-    "romanized": "Athanu",
-    "english": "He",
-    "category": "PRONOUN"
+    "lessonId": 8,
+    "telugu": "జాగ్రత్తగా వెళ్ళండి",
+    "romanized": "Jaagratt agaa velLandi",
+    "english": "Go carefully / Take care",
+    "category": "GREETING"
   },
   {
-    "lessonId": 9,
-    "telugu": "ఆమె",
-    "romanized": "Aame",
-    "english": "She",
-    "category": "PRONOUN"
+    "lessonId": 8,
+    "telugu": "తొందరగా రండి",
+    "romanized": "Thondaragaa randi",
+    "english": "Come back soon",
+    "category": "GREETING"
   },
   {
-    "lessonId": 9,
-    "telugu": "మేము",
-    "romanized": "Memu",
-    "english": "We",
-    "category": "PRONOUN"
+    "lessonId": 8,
+    "telugu": "వెళ్ళొస్తాను",
+    "romanized": "VelLostaanu",
+    "english": "I'll be going and coming back",
+    "category": "GREETING"
   },
   {
-    "lessonId": 9,
-    "telugu": "వారు",
-    "romanized": "Vaaru",
-    "english": "They",
-    "category": "PRONOUN"
+    "lessonId": 8,
+    "telugu": "మళ్ళీ వస్తాను",
+    "romanized": "Malli vastaanu",
+    "english": "I will come again",
+    "category": "GREETING"
   },
   {
-    "lessonId": 9,
-    "telugu": "ఎంత?",
-    "romanized": "Entha?",
-    "english": "How much?",
-    "category": "COMMON_PHRASE"
+    "lessonId": 8,
+    "telugu": "శుభంగా వెళ్ళండి",
+    "romanized": "Shubhamgaa velLandi",
+    "english": "Go well / Goodbye",
+    "category": "GREETING"
   },
   {
-    "lessonId": 9,
-    "telugu": "ఎక్కడ?",
-    "romanized": "Ekkada?",
-    "english": "Where?",
-    "category": "COMMON_PHRASE"
+    "lessonId": 8,
+    "telugu": "మీరు ఇప్పుడు వెళ్తున్నారా?",
+    "romanized": "Meeru ippuDu velthu nnaaru?",
+    "english": "Are you leaving now?",
+    "category": "GREETING"
   },
   {
-    "lessonId": 9,
-    "telugu": "ఏమి?",
-    "romanized": "Emi?",
-    "english": "What?",
-    "category": "COMMON_PHRASE"
+    "lessonId": 8,
+    "telugu": "నేను ఇప్పుడు వెళ్తాను",
+    "romanized": "Naenu ippuDu velthaanu",
+    "english": "I am leaving now",
+    "category": "GREETING"
   },
   {
-    "lessonId": 9,
-    "telugu": "ఎవరు?",
-    "romanized": "Evaru?",
-    "english": "Who?",
-    "category": "COMMON_PHRASE"
-  },
-  {
-    "lessonId": 9,
-    "telugu": "ఎందుకు?",
-    "romanized": "Endhuku?",
-    "english": "Why?",
-    "category": "COMMON_PHRASE"
-  },
-  {
-    "lessonId": 9,
-    "telugu": "ఎలా?",
-    "romanized": "Ela?",
-    "english": "How?",
-    "category": "COMMON_PHRASE"
+    "lessonId": 8,
+    "telugu": "త్వరలో కలుద్దాం",
+    "romanized": "Tvaralaa kaluddaam",
+    "english": "Let's meet soon",
+    "category": "GREETING"
   },
   {
     "lessonId": 10,
@@ -697,6 +1075,62 @@
     "telugu": "చాలా",
     "romanized": "Chaala",
     "english": "Very/Many",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "నమస్తే అందరికీ",
+    "romanized": "Namaste andarikee",
+    "english": "Hello everyone",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "మీతో మాట్లాడటం చాలా ఆనందం",
+    "romanized": "Meeto maaTlaaDaTam chaala aanandam",
+    "english": "Very happy talking with you",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "ఒక్కసారి చెప్పండి",
+    "romanized": "Okkasaari cheppandi",
+    "english": "Please say once",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "మీకు అర్థమైందా?",
+    "romanized": "Meeku arthamayindaa?",
+    "english": "Did you understand?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "నేను అర్థం చేసుకున్నాను",
+    "romanized": "Naenu artham chesukunnaanu",
+    "english": "I understood",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "ఇంకా ఏమైనా ఉందా?",
+    "romanized": "Inkaa emainaa undaa?",
+    "english": "Is there anything else?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "చాలా మంచిగా నేర్చుకున్నారు",
+    "romanized": "Chaala manchigaa nerchukunnaaru",
+    "english": "You learned very well",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 10,
+    "telugu": "అభ్యాసం చాలా బాగుంది",
+    "romanized": "Abhyaasam chaala baagundi",
+    "english": "The practice was very good",
     "category": "COMMON_PHRASE"
   },
   {
@@ -770,6 +1204,62 @@
     "category": "NUMBER"
   },
   {
+    "lessonId": 11,
+    "telugu": "ఒకటి రెండు మూడు",
+    "romanized": "Okati rendu moodu",
+    "english": "One two three",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "నాలుగు అయిదు",
+    "romanized": "Naalugu ayidu",
+    "english": "Four five",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "ఒక్కటే ఒకటి",
+    "romanized": "Okkate okati",
+    "english": "Just one",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "రెండు కళ్ళు",
+    "romanized": "Rendu kalLu",
+    "english": "Two eyes",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "మూడు రోజులు",
+    "romanized": "Moodu rojulu",
+    "english": "Three days",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "నాకు అయిదు పుస్తకాలు ఉన్నాయి",
+    "romanized": "Naaku ayidu pustakaalu unnayi",
+    "english": "I have five books",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "ఒకటి నుండి అయిదు వరకు లెక్కించు",
+    "romanized": "Okati nundi ayidu varaku lekkimchu",
+    "english": "Count from one to five",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 11,
+    "telugu": "నాలుగు చేతులు",
+    "romanized": "Naalugu chethulu",
+    "english": "Four hands (idiom)",
+    "category": "NUMBER"
+  },
+  {
     "lessonId": 12,
     "telugu": "రెండు",
     "romanized": "Rendu",
@@ -840,6 +1330,62 @@
     "category": "NUMBER"
   },
   {
+    "lessonId": 12,
+    "telugu": "ఆరు ఏడు ఎనిమిది",
+    "romanized": "Aaru yedu enimidi",
+    "english": "Six seven eight",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "తొమ్మిది పది",
+    "romanized": "Thommidi padi",
+    "english": "Nine ten",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "పది రూపాయలు",
+    "romanized": "Padi ruupaayalu",
+    "english": "Ten rupees",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "ఏడు రోజులు ఒక వారం",
+    "romanized": "Yedu rojulu oka vaaram",
+    "english": "Seven days make a week",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "ఎనిమిది గంటలకు",
+    "romanized": "Enimidi gantalaku",
+    "english": "At eight o'clock",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "ఆరు నెలలు",
+    "romanized": "Aaru nelalu",
+    "english": "Six months",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "తొమ్మిది సంఖ్య",
+    "romanized": "Thommidi sankhya",
+    "english": "Number nine",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 12,
+    "telugu": "పది పైసలు లేదు",
+    "romanized": "Padi paisalu ledu",
+    "english": "Not even ten paise",
+    "category": "NUMBER"
+  },
+  {
     "lessonId": 13,
     "telugu": "మూడు",
     "romanized": "Moodu",
@@ -910,6 +1456,48 @@
     "category": "NUMBER"
   },
   {
+    "lessonId": 13,
+    "telugu": "పదకొండు",
+    "romanized": "Padakondu",
+    "english": "Eleven",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 13,
+    "telugu": "పన్నెండు",
+    "romanized": "Pannendu",
+    "english": "Twelve",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 13,
+    "telugu": "పదహారు",
+    "romanized": "Padahaaru",
+    "english": "Sixteen",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 13,
+    "telugu": "పద్దెనిమిది",
+    "romanized": "Paddenimidi",
+    "english": "Eighteen",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 13,
+    "telugu": "పందొమ్మిది",
+    "romanized": "Pandommidi",
+    "english": "Nineteen",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 13,
+    "telugu": "పదమూడు బస్సు",
+    "romanized": "Padamoodu bassu",
+    "english": "Bus number thirteen",
+    "category": "NUMBER"
+  },
+  {
     "lessonId": 14,
     "telugu": "అయిదు",
     "romanized": "Ayidu",
@@ -980,6 +1568,48 @@
     "category": "NUMBER"
   },
   {
+    "lessonId": 14,
+    "telugu": "ఇరవై ఒకటి",
+    "romanized": "Iravai okati",
+    "english": "Twenty-one",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 14,
+    "telugu": "యాభై",
+    "romanized": "Yaabhai",
+    "english": "Fifty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 14,
+    "telugu": "ఇరవై అయిదు రూపాయలు",
+    "romanized": "Iravai ayidu ruupaayalu",
+    "english": "Twenty-five rupees",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 14,
+    "telugu": "ముప్పై రోజులు ఒక నెల",
+    "romanized": "Muppai rojulu oka nela",
+    "english": "Thirty days make a month",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 14,
+    "telugu": "నలభై మంది",
+    "romanized": "Nalabhai mandi",
+    "english": "Forty people",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 14,
+    "telugu": "యాభై కిలోమీటర్లు",
+    "romanized": "Yaabhai kiloomiTarllu",
+    "english": "Fifty kilometres",
+    "category": "NUMBER"
+  },
+  {
     "lessonId": 15,
     "telugu": "ఆరు",
     "romanized": "Aaru",
@@ -1050,6 +1680,62 @@
     "category": "NUMBER"
   },
   {
+    "lessonId": 15,
+    "telugu": "అరవై",
+    "romanized": "Aravai",
+    "english": "Sixty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "డెభ్భై",
+    "romanized": "Debhbhai",
+    "english": "Seventy",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "ఎనభై",
+    "romanized": "Enabhai",
+    "english": "Eighty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "తొంభై",
+    "romanized": "Thombhai",
+    "english": "Ninety",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "వంద",
+    "romanized": "Vanda",
+    "english": "One hundred",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "యాభై ఒకటి",
+    "romanized": "Yaabhai okati",
+    "english": "Fifty-one",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "అరవై నాలుగు సంవత్సరాలు",
+    "romanized": "Aravai naalugu samvatsaraalu",
+    "english": "Sixty-four years",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 15,
+    "telugu": "వంద రూపాయల నోటు",
+    "romanized": "Vanda ruupaayala noTu",
+    "english": "A hundred-rupee note",
+    "category": "NUMBER"
+  },
+  {
     "lessonId": 16,
     "telugu": "ఏడు",
     "romanized": "Yedu",
@@ -1120,6 +1806,62 @@
     "category": "NUMBER"
   },
   {
+    "lessonId": 16,
+    "telugu": "మీకు ఎంత వయస్సు?",
+    "romanized": "Meeku enta vayassu?",
+    "english": "How old are you?",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "నాకు ఇరవై సంవత్సరాలు",
+    "romanized": "Naaku iravai samvatsaraalu",
+    "english": "I am twenty years old",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "వయస్సు",
+    "romanized": "Vayassu",
+    "english": "Age",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "పుట్టిన రోజు",
+    "romanized": "PuTTina roju",
+    "english": "Birthday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "అతనికి ముప్పై అయిదు సంవత్సరాలు",
+    "romanized": "Athaniki muppai ayidu samvatsaraalu",
+    "english": "He is thirty-five years old",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "మీరు ఎప్పుడు పుట్టారు?",
+    "romanized": "Meeru eppuDu puTTaaru?",
+    "english": "When were you born?",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "నా పుట్టిన రోజు జనవరి మొదటి",
+    "romanized": "Naa puTTina roju Janavari modaTi",
+    "english": "My birthday is January first",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 16,
+    "telugu": "చిన్న వయస్సు",
+    "romanized": "Chinna vayassu",
+    "english": "Young age",
+    "category": "ADJECTIVE"
+  },
+  {
     "lessonId": 17,
     "telugu": "ఎనిమిది",
     "romanized": "Enimidi",
@@ -1190,6 +1932,62 @@
     "category": "NUMBER"
   },
   {
+    "lessonId": 17,
+    "telugu": "ఒకటి రెండు మూడు నాలుగు అయిదు",
+    "romanized": "Okati rendu moodu naalugu ayidu",
+    "english": "One two three four five",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "ఆరు ఏడు ఎనిమిది తొమ్మిది పది",
+    "romanized": "Aaru yedu enimidi thommidi padi",
+    "english": "Six seven eight nine ten",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "మళ్ళీ లెక్కించు",
+    "romanized": "Malli lekkimchu",
+    "english": "Count again",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "ఎంత ఉంది?",
+    "romanized": "Enta undi?",
+    "english": "How much is there?",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "ఎన్ని ఉన్నాయి?",
+    "romanized": "Enni unnayi?",
+    "english": "How many are there?",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "జమా చేయి",
+    "romanized": "Jamaa cheyyi",
+    "english": "Add up",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "తీసివేయి",
+    "romanized": "Theesiveyyi",
+    "english": "Subtract",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 17,
+    "telugu": "రెండు కూడా రెండు నాలుగు",
+    "romanized": "Rendu kooDaa rendu naalugu",
+    "english": "Two plus two is four",
+    "category": "NUMBER"
+  },
+  {
     "lessonId": 18,
     "telugu": "పది",
     "romanized": "Padi",
@@ -1260,73 +2058,59 @@
     "category": "NUMBER"
   },
   {
-    "lessonId": 19,
-    "telugu": "పదిహేను",
-    "romanized": "Padihen",
-    "english": "Fifteen",
+    "lessonId": 18,
+    "telugu": "మొదటి",
+    "romanized": "ModaTi",
+    "english": "First",
     "category": "NUMBER"
   },
   {
-    "lessonId": 19,
-    "telugu": "ఇరవై",
-    "romanized": "Iravai",
-    "english": "Twenty",
+    "lessonId": 18,
+    "telugu": "రెండవ",
+    "romanized": "Rendava",
+    "english": "Second",
     "category": "NUMBER"
   },
   {
-    "lessonId": 19,
-    "telugu": "ముప్పై",
-    "romanized": "Muppaai",
-    "english": "Thirty",
+    "lessonId": 18,
+    "telugu": "మూడవ",
+    "romanized": "MooDava",
+    "english": "Third",
     "category": "NUMBER"
   },
   {
-    "lessonId": 19,
-    "telugu": "నలభై",
-    "romanized": "Nalabai",
-    "english": "Forty",
+    "lessonId": 18,
+    "telugu": "నాల్గవ",
+    "romanized": "Naalgava",
+    "english": "Fourth",
     "category": "NUMBER"
   },
   {
-    "lessonId": 19,
-    "telugu": "యాభై",
-    "romanized": "Yaabai",
-    "english": "Fifty",
+    "lessonId": 18,
+    "telugu": "అయిదవ",
+    "romanized": "Ayidava",
+    "english": "Fifth",
     "category": "NUMBER"
   },
   {
-    "lessonId": 19,
-    "telugu": "అరవై",
-    "romanized": "Aravai",
-    "english": "Sixty",
+    "lessonId": 18,
+    "telugu": "చివరి",
+    "romanized": "Chivari",
+    "english": "Last / Final",
     "category": "NUMBER"
   },
   {
-    "lessonId": 19,
-    "telugu": "డెబ్బై",
-    "romanized": "Debbai",
-    "english": "Seventy",
+    "lessonId": 18,
+    "telugu": "మొదటి స్థానం",
+    "romanized": "ModaTi sthanam",
+    "english": "First place",
     "category": "NUMBER"
   },
   {
-    "lessonId": 19,
-    "telugu": "ఎనభై",
-    "romanized": "Enabai",
-    "english": "Eighty",
-    "category": "NUMBER"
-  },
-  {
-    "lessonId": 19,
-    "telugu": "తొంభై",
-    "romanized": "Thomabai",
-    "english": "Ninety",
-    "category": "NUMBER"
-  },
-  {
-    "lessonId": 19,
-    "telugu": "వంద",
-    "romanized": "Vanda",
-    "english": "Hundred",
+    "lessonId": 18,
+    "telugu": "రెండవ స్థానం పొందాను",
+    "romanized": "Rendava sthanam pondaanu",
+    "english": "I got second place",
     "category": "NUMBER"
   },
   {
@@ -1400,6 +2184,62 @@
     "category": "NUMBER"
   },
   {
+    "lessonId": 20,
+    "telugu": "ఎంత మంది ఉన్నారు?",
+    "romanized": "Enta mandi unnaaru?",
+    "english": "How many people are there?",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "మొత్తం ఐదు",
+    "romanized": "Mottam ayidu",
+    "english": "Total five",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "ఒక్కొక్కటి తీసుకో",
+    "romanized": "Okkokkati theesuko",
+    "english": "Take one each",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "అన్నీ కలిపితే పది",
+    "romanized": "Annee kalipithe padi",
+    "english": "All together make ten",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "సంఖ్య చెప్పు",
+    "romanized": "Sankhya cheppu",
+    "english": "Say the number",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "సరిగ్గా లెక్కించావు",
+    "romanized": "Sarigga lekkimchaavu",
+    "english": "You counted correctly",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "మళ్ళీ ప్రయత్నించు",
+    "romanized": "Malli prayathinchu",
+    "english": "Try again",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 20,
+    "telugu": "చాలా బాగా లెక్కించావు",
+    "romanized": "Chaala baagaa lekkimchaavu",
+    "english": "You counted very well",
+    "category": "NUMBER"
+  },
+  {
     "lessonId": 21,
     "telugu": "తండ్రి",
     "romanized": "Thandri",
@@ -1470,6 +2310,62 @@
     "category": "FAMILY"
   },
   {
+    "lessonId": 21,
+    "telugu": "కుటుంబం",
+    "romanized": "Kutumbam",
+    "english": "Family",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "నాయనమ్మ",
+    "romanized": "Nayanamma",
+    "english": "Paternal grandmother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "తాత",
+    "romanized": "Thaatha",
+    "english": "Grandfather",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "కొడుకు",
+    "romanized": "KoDuku",
+    "english": "Son",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "కూతురు",
+    "romanized": "Koothuru",
+    "english": "Daughter",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "మా కుటుంబం పెద్దది",
+    "romanized": "Maa kutumbam peddadi",
+    "english": "My family is big",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "నా తల్లి పేరు లక్ష్మి",
+    "romanized": "Naa thalli peru Lakshmi",
+    "english": "My mother's name is Lakshmi",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 21,
+    "telugu": "మా అమ్మ ఇంట్లో ఉంది",
+    "romanized": "Maa amma inTloo undi",
+    "english": "My mother is at home",
+    "category": "FAMILY"
+  },
+  {
     "lessonId": 22,
     "telugu": "తల్లి",
     "romanized": "Thalli",
@@ -1540,6 +2436,62 @@
     "category": "FAMILY"
   },
   {
+    "lessonId": 22,
+    "telugu": "నాన్న",
+    "romanized": "Naanna",
+    "english": "Father (informal)",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "అమ్మ",
+    "romanized": "Amma",
+    "english": "Mother (informal)",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "చెల్లి",
+    "romanized": "Chelli",
+    "english": "Younger sister (informal)",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "అన్న",
+    "romanized": "Anna",
+    "english": "Elder brother (informal)",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "మా నాన్న పని చేస్తున్నారు",
+    "romanized": "Maa naanna pani chesth unnaaru",
+    "english": "My father is working",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "మా అక్క పాటలు పాడుతోంది",
+    "romanized": "Maa akka paaTalu paaDu thoondi",
+    "english": "My elder sister is singing",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "నా తమ్ముడు చదువుతున్నాడు",
+    "romanized": "Naa thammuDu chaduvuth unnaaDu",
+    "english": "My younger brother is studying",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 22,
+    "telugu": "మా అమ్మ వంట చేస్తోంది",
+    "romanized": "Maa amma vanta chesth oondi",
+    "english": "My mother is cooking",
+    "category": "FAMILY"
+  },
+  {
     "lessonId": 23,
     "telugu": "అన్నయ్య",
     "romanized": "Annayya",
@@ -1610,6 +2562,62 @@
     "category": "FAMILY"
   },
   {
+    "lessonId": 23,
+    "telugu": "పెదనాన్న",
+    "romanized": "Pedanaanna",
+    "english": "Paternal uncle (elder)",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "పిన్ని",
+    "romanized": "Pinni",
+    "english": "Paternal aunt (younger)",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "బాబాయి",
+    "romanized": "Baabaayi",
+    "english": "Paternal uncle (younger)",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "నానమ్మ",
+    "romanized": "Nannamma",
+    "english": "Paternal grandmother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "అత్తయ్య",
+    "romanized": "Atthayya",
+    "english": "Aunt",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "పెద్ద కుటుంబం",
+    "romanized": "Pedda kutumbam",
+    "english": "Large family",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "నా మేనత్తకు ఒక కొడుకు ఉన్నాడు",
+    "romanized": "Naa menaatthaku oka koDuku unnaaDu",
+    "english": "My maternal aunt has one son",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 23,
+    "telugu": "మా తాతయ్య చాలా పెద్దవారు",
+    "romanized": "Maa thaathayya chaala peddavaaru",
+    "english": "My grandfather is very old",
+    "category": "FAMILY"
+  },
+  {
     "lessonId": 24,
     "telugu": "తమ్ముడు",
     "romanized": "Thammudu",
@@ -1680,6 +2688,62 @@
     "category": "FAMILY"
   },
   {
+    "lessonId": 24,
+    "telugu": "మేము",
+    "romanized": "Memu",
+    "english": "We (exclusive)",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "వారు",
+    "romanized": "Vaaru",
+    "english": "They",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "అది",
+    "romanized": "Adhi",
+    "english": "It / That",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "ఇది",
+    "romanized": "Idhi",
+    "english": "This",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "నేను వెళ్తాను",
+    "romanized": "Naenu velthaanu",
+    "english": "I will go",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "నీవు ఏం చేస్తావు?",
+    "romanized": "Neevu em chesth aavu?",
+    "english": "What will you do?",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "అతను ఇక్కడ ఉన్నాడు",
+    "romanized": "Athanu ikkaDa unnaaDu",
+    "english": "He is here",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 24,
+    "telugu": "ఆమె పేరు ఏమిటి?",
+    "romanized": "Aame peru emiti?",
+    "english": "What is her name?",
+    "category": "PRONOUN"
+  },
+  {
     "lessonId": 25,
     "telugu": "అక్క",
     "romanized": "Akka",
@@ -1750,6 +2814,62 @@
     "category": "FAMILY"
   },
   {
+    "lessonId": 25,
+    "telugu": "నా",
+    "romanized": "Naa",
+    "english": "My",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "నీ",
+    "romanized": "Nee",
+    "english": "Your (informal)",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "అతని",
+    "romanized": "Athani",
+    "english": "His",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "ఆమె అది",
+    "romanized": "Aame adhi",
+    "english": "Her (possessive)",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "మా",
+    "romanized": "Maa",
+    "english": "Our / My (intimate)",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "నా పుస్తకం",
+    "romanized": "Naa pustakam",
+    "english": "My book",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "నీ పేరు ఏమిటి?",
+    "romanized": "Nee peru emiti?",
+    "english": "What is your name?",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 25,
+    "telugu": "మా ఇల్లు పెద్దది",
+    "romanized": "Maa illu peddadi",
+    "english": "Our house is big",
+    "category": "PRONOUN"
+  },
+  {
     "lessonId": 26,
     "telugu": "మామ",
     "romanized": "Maama",
@@ -1820,6 +2940,62 @@
     "category": "FAMILY"
   },
   {
+    "lessonId": 26,
+    "telugu": "ఇవి",
+    "romanized": "Ivi",
+    "english": "These",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "అవి",
+    "romanized": "Avi",
+    "english": "Those",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "ఇక్కడ",
+    "romanized": "IkkaDa",
+    "english": "Here",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "అక్కడ",
+    "romanized": "AkkaDa",
+    "english": "There",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "ఇది నా పుస్తకం",
+    "romanized": "Idhi naa pustakam",
+    "english": "This is my book",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "అది ఎక్కడ ఉంది?",
+    "romanized": "Adhi ekkaDa undi?",
+    "english": "Where is that?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "ఇవి మంచివి",
+    "romanized": "Ivi manchivi",
+    "english": "These are good",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 26,
+    "telugu": "అవి నావి కాదు",
+    "romanized": "Avi naavi kaadhu",
+    "english": "Those are not mine",
+    "category": "COMMON_PHRASE"
+  },
+  {
     "lessonId": 27,
     "telugu": "మేనకోడలు",
     "romanized": "Menakodalu",
@@ -1890,6 +3066,62 @@
     "category": "FAMILY"
   },
   {
+    "lessonId": 27,
+    "telugu": "మీ కుటుంబంలో ఎంత మంది ఉన్నారు?",
+    "romanized": "Mee kutumbamloo enta mandi unnaaru?",
+    "english": "How many in your family?",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "మా కుటుంబంలో ఆరుగురు ఉన్నారు",
+    "romanized": "Maa kutumbamloo aaruguru unnaaru",
+    "english": "There are six in my family",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "నా తండ్రి డాక్టరు",
+    "romanized": "Naa thandri DaakTaru",
+    "english": "My father is a doctor",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "నా తల్లి ఉపాధ్యాయురాలు",
+    "romanized": "Naa thalli upaadhy aayuraalu",
+    "english": "My mother is a teacher",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "మా అక్క హైదరాబాద్ లో ఉంది",
+    "romanized": "Maa akka Hyderabad loo undi",
+    "english": "My elder sister is in Hyderabad",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "కుటుంబంతో కలిసి ఉండటం ఆనందం",
+    "romanized": "Kutumbam tho kalisi unDaTam aanandam",
+    "english": "Living with family is joyful",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "మా నాన్న నాకు కథలు చెప్పారు",
+    "romanized": "Maa naanna naaku kathhalu cheppaaru",
+    "english": "My father told me stories",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 27,
+    "telugu": "మా అమ్మ నన్ను ప్రేమిస్తుంది",
+    "romanized": "Maa amma nannu premistundi",
+    "english": "My mother loves me",
+    "category": "FAMILY"
+  },
+  {
     "lessonId": 28,
     "telugu": "మేనల్లుడు",
     "romanized": "Menalludu",
@@ -1960,74 +3192,60 @@
     "category": "FAMILY"
   },
   {
-    "lessonId": 29,
-    "telugu": "అత్త",
-    "romanized": "Attha",
-    "english": "Mother-in-law",
-    "category": "FAMILY"
+    "lessonId": 28,
+    "telugu": "మీ పేరు ఏమిటి?",
+    "romanized": "Mee peru emiti?",
+    "english": "What is your name?",
+    "category": "GREETING"
   },
   {
-    "lessonId": 29,
-    "telugu": "అల్లుడు",
-    "romanized": "Alludu",
-    "english": "Son-in-law",
-    "category": "FAMILY"
+    "lessonId": 28,
+    "telugu": "నా పేరు సుమ",
+    "romanized": "Naa peru Suma",
+    "english": "My name is Suma",
+    "category": "GREETING"
   },
   {
-    "lessonId": 29,
-    "telugu": "కోడలు",
-    "romanized": "Kodalu",
-    "english": "Daughter-in-law",
-    "category": "FAMILY"
+    "lessonId": 28,
+    "telugu": "మీరు ఎక్కడ నుండి?",
+    "romanized": "Meeru ekkaDa nundi?",
+    "english": "Where are you from?",
+    "category": "GREETING"
   },
   {
-    "lessonId": 29,
-    "telugu": "అమ్మాయి",
-    "romanized": "Ammayi",
-    "english": "Baby Girl",
-    "category": "FAMILY"
+    "lessonId": 28,
+    "telugu": "నేను విజయవాడ నుండి",
+    "romanized": "Naenu Vijayavaada nundi",
+    "english": "I am from Vijayawada",
+    "category": "GREETING"
   },
   {
-    "lessonId": 29,
-    "telugu": "అబ్బాయి",
-    "romanized": "Abbaayi",
-    "english": "Baby Boy",
-    "category": "FAMILY"
+    "lessonId": 28,
+    "telugu": "ఏం చదువుతున్నారు?",
+    "romanized": "Em chaduvuth unnaaru?",
+    "english": "What are you studying?",
+    "category": "GREETING"
   },
   {
-    "lessonId": 29,
-    "telugu": "పిల్లలు",
-    "romanized": "Pillalu",
-    "english": "Children",
-    "category": "FAMILY"
+    "lessonId": 28,
+    "telugu": "నేను ఇంజినీరింగ్ చదువుతున్నాను",
+    "romanized": "Naenu InjinieeriNg chaduvuth unnaanu",
+    "english": "I am studying engineering",
+    "category": "GREETING"
   },
   {
-    "lessonId": 29,
-    "telugu": "తాత",
-    "romanized": "Thaata",
-    "english": "Grandfather",
-    "category": "FAMILY"
+    "lessonId": 28,
+    "telugu": "మీ వయస్సు ఎంత?",
+    "romanized": "Mee vayassu enta?",
+    "english": "What is your age?",
+    "category": "GREETING"
   },
   {
-    "lessonId": 29,
-    "telugu": "అవ్వ",
-    "romanized": "Avva",
-    "english": "Grandmother",
-    "category": "FAMILY"
-  },
-  {
-    "lessonId": 29,
-    "telugu": "భర్త",
-    "romanized": "Bharthu",
-    "english": "Husband",
-    "category": "FAMILY"
-  },
-  {
-    "lessonId": 29,
-    "telugu": "భార్య",
-    "romanized": "Bhaarya",
-    "english": "Wife",
-    "category": "FAMILY"
+    "lessonId": 28,
+    "telugu": "నాకు ఇరవై ఒక సంవత్సరాలు",
+    "romanized": "Naaku iravai oka samvatsaraalu",
+    "english": "I am twenty-one years old",
+    "category": "GREETING"
   },
   {
     "lessonId": 30,
@@ -2100,6 +3318,62 @@
     "category": "FAMILY"
   },
   {
+    "lessonId": 30,
+    "telugu": "మీ కుటుంబాన్ని పరిచయం చేయండి",
+    "romanized": "Mee kutumbaannu parichayam cheyyandi",
+    "english": "Introduce your family",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "మీ తల్లి పేరు ఏమిటి?",
+    "romanized": "Mee thalli peru emiti?",
+    "english": "What is your mother's name?",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "నా కుటుంబంలో ఐదుగురు ఉన్నారు",
+    "romanized": "Naa kutumbamloo ayiduguru unnaaru",
+    "english": "There are five in my family",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "నేను నా కుటుంబాన్ని ప్రేమిస్తాను",
+    "romanized": "Naenu naa kutumbaanni premistaanu",
+    "english": "I love my family",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "అతను ఎవరు?",
+    "romanized": "Athanu evaru?",
+    "english": "Who is he?",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "ఆమె నా అక్క",
+    "romanized": "Aame naa akka",
+    "english": "She is my elder sister",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "ఇది నా ఇల్లు",
+    "romanized": "Idhi naa illu",
+    "english": "This is my house",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 30,
+    "telugu": "అది మా పాత ఇల్లు",
+    "romanized": "Adhi maa paatha illu",
+    "english": "That is our old house",
+    "category": "COMMON_PHRASE"
+  },
+  {
     "lessonId": 31,
     "telugu": "వెళ్ళు",
     "romanized": "Vellu",
@@ -2170,6 +3444,55 @@
     "category": "VERB"
   },
   {
+    "lessonId": 31,
+    "telugu": "రా",
+    "romanized": "Raa",
+    "english": "Come (imperative)",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 31,
+    "telugu": "తినండి",
+    "romanized": "Thinandi",
+    "english": "Please eat",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 31,
+    "telugu": "త్రాగండి",
+    "romanized": "Thraagandi",
+    "english": "Please drink",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 31,
+    "telugu": "నేను వస్తున్నాను",
+    "romanized": "Naenu vasth unnaanu",
+    "english": "I am coming",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 31,
+    "telugu": "నేను వెళ్తున్నాను",
+    "romanized": "Naenu velth unnaanu",
+    "english": "I am going",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 31,
+    "telugu": "అతను ఇప్పుడు తింటున్నాడు",
+    "romanized": "Athanu ippuDu thinthunnaaDu",
+    "english": "He is eating now",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 31,
+    "telugu": "ఏం తాగుతావు?",
+    "romanized": "Em thaaguthaavu?",
+    "english": "What will you drink?",
+    "category": "VERB"
+  },
+  {
     "lessonId": 32,
     "telugu": "రు",
     "romanized": "Ruu",
@@ -2240,6 +3563,62 @@
     "category": "VERB"
   },
   {
+    "lessonId": 32,
+    "telugu": "చూడు",
+    "romanized": "ChooD u",
+    "english": "See / Look",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "వినండి",
+    "romanized": "Vinandi",
+    "english": "Please listen",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "నడవు",
+    "romanized": "NaDavu",
+    "english": "Walk",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "పరుగెత్తు",
+    "romanized": "Parugetthu",
+    "english": "Run",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "చదువు",
+    "romanized": "Chaduvu",
+    "english": "Read / Study",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "రాయి",
+    "romanized": "Raayi",
+    "english": "Write",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "నేను పాట వింటున్నాను",
+    "romanized": "Naenu paaTa vinthunnaanu",
+    "english": "I am listening to a song",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 32,
+    "telugu": "అతను వేగంగా పరుగెత్తుతున్నాడు",
+    "romanized": "Athanu vegamgaa parugetthu thunnaaDu",
+    "english": "He is running fast",
+    "category": "VERB"
+  },
+  {
     "lessonId": 33,
     "telugu": "చేయు",
     "romanized": "Cheyyu",
@@ -2310,6 +3689,62 @@
     "category": "VERB"
   },
   {
+    "lessonId": 33,
+    "telugu": "కావాలి",
+    "romanized": "Kaavali",
+    "english": "Want / Need",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "అవసరం",
+    "romanized": "Avasaram",
+    "english": "Need / Necessary",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "ఇష్టం",
+    "romanized": "IshTam",
+    "english": "Like / Preference",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "నాకు నీళ్ళు కావాలి",
+    "romanized": "Naaku neelLu kaavali",
+    "english": "I want water",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "నాకు సహాయం అవసరం",
+    "romanized": "Naaku sahaayam avasaram",
+    "english": "I need help",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "నాకు అన్నం ఇష్టం",
+    "romanized": "Naaku annam ishTam",
+    "english": "I like rice",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "నీకు ఏం కావాలి?",
+    "romanized": "Neeku em kaavali?",
+    "english": "What do you want?",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 33,
+    "telugu": "ఇది నాకు వద్దు",
+    "romanized": "Idhi naaku vaddhu",
+    "english": "I don't want this",
+    "category": "VERB"
+  },
+  {
     "lessonId": 34,
     "telugu": "చెప్పు",
     "romanized": "Cheppu",
@@ -2380,6 +3815,62 @@
     "category": "VERB"
   },
   {
+    "lessonId": 34,
+    "telugu": "చేయగలను",
+    "romanized": "Cheyagalanu",
+    "english": "I can do",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "చేయలేను",
+    "romanized": "CheyaLenu",
+    "english": "I cannot do",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "చేయాలి",
+    "romanized": "Cheyyaali",
+    "english": "Must do / Should do",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "వెళ్ళగలవా?",
+    "romanized": "VelLagalavaa?",
+    "english": "Can you go?",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "నేను తెలుగు మాట్లాడగలను",
+    "romanized": "Naenu Telugu maaTlaaDagalanu",
+    "english": "I can speak Telugu",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "నువ్వు ఇప్పుడే వెళ్ళాలి",
+    "romanized": "Nuvvu ippuDe velLaali",
+    "english": "You must go now",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "ఇది చేయకూడదు",
+    "romanized": "Idhi cheyakoodadu",
+    "english": "This should not be done",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 34,
+    "telugu": "నేను ఈత కొట్టగలను",
+    "romanized": "Naenu etha koTTagalanu",
+    "english": "I can swim",
+    "category": "VERB"
+  },
+  {
     "lessonId": 35,
     "telugu": "తిను",
     "romanized": "Thinu",
@@ -2450,6 +3941,62 @@
     "category": "VERB"
   },
   {
+    "lessonId": 35,
+    "telugu": "నేను తింటున్నాను",
+    "romanized": "Naenu thinthunnaanu",
+    "english": "I am eating",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "నీవు చదువుతున్నావు",
+    "romanized": "Neevu chaduvuth unnaavu",
+    "english": "You are studying",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "అతను పాడుతున్నాడు",
+    "romanized": "Athanu paaDuth unnaaDu",
+    "english": "He is singing",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "ఆమె వంట చేస్తోంది",
+    "romanized": "Aame vanta chesth oondi",
+    "english": "She is cooking",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "మేము ఆడుతున్నాం",
+    "romanized": "Memu aaD uth unnaamu",
+    "english": "We are playing",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "వారు మాట్లాడుతున్నారు",
+    "romanized": "Vaaru maaTlaaDuth unnaaru",
+    "english": "They are talking",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "పిల్లలు నవ్వుతున్నారు",
+    "romanized": "Pillalu navvuth unnaaru",
+    "english": "Children are laughing",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 35,
+    "telugu": "కుక్క పరుగెత్తుతోంది",
+    "romanized": "Kukka parugetthu thoondi",
+    "english": "The dog is running",
+    "category": "VERB"
+  },
+  {
     "lessonId": 36,
     "telugu": "నిద్ర",
     "romanized": "Nidra",
@@ -2520,6 +4067,62 @@
     "category": "VERB"
   },
   {
+    "lessonId": 36,
+    "telugu": "నిద్రపోవు",
+    "romanized": "NidraPovu",
+    "english": "Sleep",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "లేవు",
+    "romanized": "Levu",
+    "english": "Wake up / Get up",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "స్నానం చేయు",
+    "romanized": "Snaanam cheyyu",
+    "english": "Bathe",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "దంతాలు తోముకో",
+    "romanized": "Danthaalu thomuko",
+    "english": "Brush teeth",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "నేను ఆరు గంటలకు లేస్తాను",
+    "romanized": "Naenu aaru gantalaku laest haanu",
+    "english": "I wake up at six o'clock",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "నేను ప్రతిరోజూ స్నానం చేస్తాను",
+    "romanized": "Naenu pratiroj oo snaanam chesthaanu",
+    "english": "I bathe every day",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "అమ్మ నాకు అన్నం పెట్టింది",
+    "romanized": "Amma naaku annam peTTindi",
+    "english": "Mother served me food",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 36,
+    "telugu": "నేను రాత్రి పది గంటలకు నిద్రపోతాను",
+    "romanized": "Naenu raatri padi gantalaku nidraPothaanu",
+    "english": "I sleep at ten at night",
+    "category": "VERB"
+  },
+  {
     "lessonId": 37,
     "telugu": "లేవ",
     "romanized": "Leva",
@@ -2590,6 +4193,62 @@
     "category": "VERB"
   },
   {
+    "lessonId": 37,
+    "telugu": "నేను పని చేస్తున్నాను",
+    "romanized": "Naenu pani chesth unnaanu",
+    "english": "I am working",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "నేను పాఠం నేర్చుకుంటున్నాను",
+    "romanized": "Naenu paaTham nerchukunTunnaanu",
+    "english": "I am learning a lesson",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "అతను ఉత్తరం రాస్తున్నాడు",
+    "romanized": "Athanu uttaram raasth unnaaDu",
+    "english": "He is writing a letter",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "ఆమె పుస్తకం చదువుతోంది",
+    "romanized": "Aame pustakam chaduvuth oondi",
+    "english": "She is reading a book",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "మేము కలిసి ఆడుతున్నాం",
+    "romanized": "Memu kalisi aaD uth unnaamu",
+    "english": "We are playing together",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "పిల్లలు ఆడుతూ పాడుతున్నారు",
+    "romanized": "Pillalu aaD uthu paaDuth unnaaru",
+    "english": "Children are playing and singing",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "నేను ప్రతిరోజూ వ్యాయామం చేస్తాను",
+    "romanized": "Naenu pratiroj oo vyaayaamam chesthaanu",
+    "english": "I exercise every day",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 37,
+    "telugu": "వారు కలిసి వంట చేస్తున్నారు",
+    "romanized": "Vaaru kalisi vanta chesth unnaaru",
+    "english": "They are cooking together",
+    "category": "VERB"
+  },
+  {
     "lessonId": 38,
     "telugu": "కూర్చు",
     "romanized": "Koorchu",
@@ -2660,74 +4319,60 @@
     "category": "VERB"
   },
   {
-    "lessonId": 39,
-    "telugu": "నిలబడు",
-    "romanized": "Nilabadu",
-    "english": "Stand",
+    "lessonId": 38,
+    "telugu": "మార్కెట్",
+    "romanized": "MaarkeTT",
+    "english": "Market",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 38,
+    "telugu": "కొనండి",
+    "romanized": "Konandi",
+    "english": "Please buy",
     "category": "VERB"
   },
   {
-    "lessonId": 39,
-    "telugu": "మాట్లాడు",
-    "romanized": "Maatlaadu",
-    "english": "Talk",
+    "lessonId": 38,
+    "telugu": "అమ్మండి",
+    "romanized": "Ammandi",
+    "english": "Please sell",
     "category": "VERB"
   },
   {
-    "lessonId": 39,
-    "telugu": "విను",
-    "romanized": "Vinu",
-    "english": "Listen/Hear",
-    "category": "VERB"
+    "lessonId": 38,
+    "telugu": "ధర",
+    "romanized": "Dhara",
+    "english": "Price",
+    "category": "COMMON_PHRASE"
   },
   {
-    "lessonId": 39,
-    "telugu": "చూడు",
-    "romanized": "Choodu",
-    "english": "See",
-    "category": "VERB"
+    "lessonId": 38,
+    "telugu": "ఇది ఎంత?",
+    "romanized": "Idhi enta?",
+    "english": "How much is this?",
+    "category": "COMMON_PHRASE"
   },
   {
-    "lessonId": 39,
-    "telugu": "వ్రాయు",
-    "romanized": "Vraayu",
-    "english": "Write",
-    "category": "VERB"
+    "lessonId": 38,
+    "telugu": "చవకగా చేయండి",
+    "romanized": "Chavakagaa cheyyandi",
+    "english": "Make it cheaper / Bargain",
+    "category": "COMMON_PHRASE"
   },
   {
-    "lessonId": 39,
-    "telugu": "చదువు",
-    "romanized": "Chaduvu",
-    "english": "Read",
-    "category": "VERB"
+    "lessonId": 38,
+    "telugu": "నాకు రెండు కేజీలు కావాలి",
+    "romanized": "Naaku rendu keejilu kaavali",
+    "english": "I need two kilograms",
+    "category": "COMMON_PHRASE"
   },
   {
-    "lessonId": 39,
-    "telugu": "అర్థం",
-    "romanized": "Artham",
-    "english": "Understand",
-    "category": "VERB"
-  },
-  {
-    "lessonId": 39,
-    "telugu": "తెలుసు",
-    "romanized": "Thelusu",
-    "english": "Know",
-    "category": "VERB"
-  },
-  {
-    "lessonId": 39,
-    "telugu": "ఇవ్వు",
-    "romanized": "Ivvu",
-    "english": "Give",
-    "category": "VERB"
-  },
-  {
-    "lessonId": 39,
-    "telugu": "తీసు",
-    "romanized": "Theesu",
-    "english": "Take",
-    "category": "VERB"
+    "lessonId": 38,
+    "telugu": "ఇది చాలా ఖర్చు",
+    "romanized": "Idhi chaala kharchu",
+    "english": "This is very expensive",
+    "category": "ADJECTIVE"
   },
   {
     "lessonId": 40,
@@ -2797,6 +4442,62 @@
     "telugu": "వచ్చు",
     "romanized": "Vachchu",
     "english": "Come (future)",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "నేను వెళ్తాను రా",
+    "romanized": "Naenu velthaanu raa",
+    "english": "I will go, okay?",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "మీరు ఏం చేస్తున్నారు?",
+    "romanized": "Meeru em chesth unnaaru?",
+    "english": "What are you doing?",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "నేను చదువుతున్నాను",
+    "romanized": "Naenu chaduvuth unnaanu",
+    "english": "I am studying",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "అతను ఏం చేయాలి?",
+    "romanized": "Athanu em cheyyaali?",
+    "english": "What should he do?",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "నేను తెలుగు నేర్చుకుంటున్నాను",
+    "romanized": "Naenu Telugu nerchukunTunnaanu",
+    "english": "I am learning Telugu",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "ఇది చేయడం నాకు ఇష్టం",
+    "romanized": "Idhi cheyaDam naaku ishTam",
+    "english": "I like doing this",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "నువ్వు బాగా మాట్లాడావు",
+    "romanized": "Nuvvu baagaa maaTlaaDaavu",
+    "english": "You spoke well",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 40,
+    "telugu": "కొనసాగించు",
+    "romanized": "Konasaaginchu",
+    "english": "Continue",
     "category": "VERB"
   },
   {
@@ -2870,6 +4571,62 @@
     "category": "FOOD"
   },
   {
+    "lessonId": 41,
+    "telugu": "ఆహారం",
+    "romanized": "Aahaaram",
+    "english": "Food",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "అన్నం తింటాను",
+    "romanized": "Annam thinthaanu",
+    "english": "I will eat rice",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "కూర వేడిగా ఉంది",
+    "romanized": "Koora vaeDhigaa undi",
+    "english": "The curry is hot",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "పాలు తాగుతాను",
+    "romanized": "Paalu thaaguthaanu",
+    "english": "I will drink milk",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "నాకు ఏం తినాలి?",
+    "romanized": "Naaku em thinaali?",
+    "english": "What should I eat?",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "వేడివేడి అన్నం చాలా రుచిగా ఉంటుంది",
+    "romanized": "VaeDhi vaeDhi annam chaala ruchigaa unTundi",
+    "english": "Piping hot rice is very tasty",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "నేను కూర వండాను",
+    "romanized": "Naenu koora vandaanu",
+    "english": "I cooked curry",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 41,
+    "telugu": "పళ్ళు తినండి",
+    "romanized": "PalLu thinandi",
+    "english": "Please eat fruits",
+    "category": "FOOD"
+  },
+  {
     "lessonId": 42,
     "telugu": "జల్",
     "romanized": "Jalam",
@@ -2940,6 +4697,62 @@
     "category": "FOOD"
   },
   {
+    "lessonId": 42,
+    "telugu": "మామిడి పండు",
+    "romanized": "Maamidi pandu",
+    "english": "Mango",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "అరటి పండు",
+    "romanized": "AraTi pandu",
+    "english": "Banana",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "నారింజ",
+    "romanized": "Naarinja",
+    "english": "Orange",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "ద్రాక్ష",
+    "romanized": "Draaksha",
+    "english": "Grapes",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "చాయ్",
+    "romanized": "Chaayi",
+    "english": "Tea",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "కాఫీ",
+    "romanized": "Kaafi",
+    "english": "Coffee",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "నాకు మామిడి రసం ఇష్టం",
+    "romanized": "Naaku maamidi rasam ishTam",
+    "english": "I like mango juice",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 42,
+    "telugu": "ఒక కప్పు కాఫీ ఇవ్వండి",
+    "romanized": "Oka kappu kaafi ivvandi",
+    "english": "Please give a cup of coffee",
+    "category": "FOOD"
+  },
+  {
     "lessonId": 43,
     "telugu": "పాలు",
     "romanized": "Paalu",
@@ -3010,6 +4823,62 @@
     "category": "FOOD"
   },
   {
+    "lessonId": 43,
+    "telugu": "మిర్చి",
+    "romanized": "Mirchi",
+    "english": "Chilli",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "ఉప్పు",
+    "romanized": "Uppu",
+    "english": "Salt",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "పప్పు",
+    "romanized": "Pappu",
+    "english": "Lentils / Dal",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "పసుపు",
+    "romanized": "Pasuppu",
+    "english": "Turmeric",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "ఇది చాలా కారంగా ఉంది",
+    "romanized": "Idhi chaala kaaramgaa undi",
+    "english": "This is very spicy",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "కొంచెం ఉప్పు వేయి",
+    "romanized": "Konchem uppu veyyi",
+    "english": "Add a little salt",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "ఈ కూర చాలా రుచిగా ఉంది",
+    "romanized": "Ee koora chaala ruchigaa undi",
+    "english": "This curry is very tasty",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 43,
+    "telugu": "తీపి వంట ఇష్టం",
+    "romanized": "Theepi vanta ishTam",
+    "english": "I like sweet dishes",
+    "category": "FOOD"
+  },
+  {
     "lessonId": 44,
     "telugu": "కూర",
     "romanized": "Kooru",
@@ -3080,6 +4949,62 @@
     "category": "FOOD"
   },
   {
+    "lessonId": 44,
+    "telugu": "మెనూ చూపించండి",
+    "romanized": "Menoo choopiNchandi",
+    "english": "Please show the menu",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "నాకు ఒక భోజనం కావాలి",
+    "romanized": "Naaku oka bhoojanam kaavali",
+    "english": "I want one meal",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "బిల్లు ఇవ్వండి",
+    "romanized": "Billu ivvandi",
+    "english": "Please give the bill",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "ఇది చాలా రుచిగా ఉంది",
+    "romanized": "Idhi chaala ruchigaa undi",
+    "english": "This is very tasty",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "నీళ్ళు తీసుకురండి",
+    "romanized": "Neellu theesukurandi",
+    "english": "Please bring water",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "మీ స్పెషల్ ఏమిటి?",
+    "romanized": "Mee speshal emiti?",
+    "english": "What is your special dish?",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "నాకు ఇడ్లీ చట్నీ కావాలి",
+    "romanized": "Naaku iDlee chaTnee kaavali",
+    "english": "I want idli with chutney",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 44,
+    "telugu": "ఇక్కడ భోజనం చాలా బాగుంటుంది",
+    "romanized": "IkkaDa bhoojanam chaala baagunTundi",
+    "english": "Food here is very good",
+    "category": "FOOD"
+  },
+  {
     "lessonId": 45,
     "telugu": "పిండి",
     "romanized": "Pindi",
@@ -3150,6 +5075,62 @@
     "category": "FOOD"
   },
   {
+    "lessonId": 45,
+    "telugu": "వండు",
+    "romanized": "Vandu",
+    "english": "Cook",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "వేయించు",
+    "romanized": "Veyimchu",
+    "english": "Fry",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "ఉడికించు",
+    "romanized": "UDikinchu",
+    "english": "Boil",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "కాల్చు",
+    "romanized": "Kaalchu",
+    "english": "Roast / Bake",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "కోయి",
+    "romanized": "Kooyi",
+    "english": "Cut / Chop",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "అమ్మ ఇప్పుడు వంట చేస్తోంది",
+    "romanized": "Amma ippuDu vanta chesth oondi",
+    "english": "Mother is cooking now",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "నేను కూర వేయిస్తాను",
+    "romanized": "Naenu koora veyisth aanu",
+    "english": "I will fry the curry",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 45,
+    "telugu": "అన్నం ఉడికింది",
+    "romanized": "Annam uDikindi",
+    "english": "The rice is boiled",
+    "category": "VERB"
+  },
+  {
     "lessonId": 46,
     "telugu": "పండు",
     "romanized": "Pandhu",
@@ -3220,6 +5201,62 @@
     "category": "FOOD"
   },
   {
+    "lessonId": 46,
+    "telugu": "ఆకలి",
+    "romanized": "Aakali",
+    "english": "Hunger",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "దప్పిక",
+    "romanized": "Dhappika",
+    "english": "Thirst",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "నాకు ఆకలిగా ఉంది",
+    "romanized": "Naaku akaligaa undi",
+    "english": "I am hungry",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "నాకు దప్పికగా ఉంది",
+    "romanized": "Naaku dhappikagaa undi",
+    "english": "I am thirsty",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "ఏమైనా తినండి",
+    "romanized": "Emainaa thinandi",
+    "english": "Eat something",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "నీళ్ళు తాగు",
+    "romanized": "Neellu thaagu",
+    "english": "Drink water",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "నాకు చాలా ఆకలిగా ఉంది, ఏమైనా తినాలి",
+    "romanized": "Naaku chaala akaligaa undi, emainaa thinaali",
+    "english": "I'm very hungry, I need to eat something",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 46,
+    "telugu": "మీకు దప్పికగా ఉందా?",
+    "romanized": "Meeku dhappikagaa undaa?",
+    "english": "Are you thirsty?",
+    "category": "FOOD"
+  },
+  {
     "lessonId": 47,
     "telugu": "కూరగాయలు",
     "romanized": "Koorgaaayalu",
@@ -3290,73 +5327,59 @@
     "category": "FOOD"
   },
   {
-    "lessonId": 48,
-    "telugu": "ఉల్లి",
-    "romanized": "Ulli",
-    "english": "Onion",
+    "lessonId": 47,
+    "telugu": "ఆర్డర్ చేయండి",
+    "romanized": "AarDar cheyyandi",
+    "english": "Place an order",
     "category": "FOOD"
   },
   {
-    "lessonId": 48,
-    "telugu": "తమలపాకు",
-    "romanized": "Thamalapaaku",
-    "english": "Betel leaf",
+    "lessonId": 47,
+    "telugu": "ఏమి తీసుకొస్తారు?",
+    "romanized": "Emi theesukost aarru?",
+    "english": "What will you bring?",
     "category": "FOOD"
   },
   {
-    "lessonId": 48,
-    "telugu": "టీ",
-    "romanized": "Tee",
-    "english": "Tea",
+    "lessonId": 47,
+    "telugu": "నాకు దోశ కావాలి",
+    "romanized": "Naaku dosha kaavali",
+    "english": "I want dosa",
     "category": "FOOD"
   },
   {
-    "lessonId": 48,
-    "telugu": "కాఫీ",
-    "romanized": "Coffee",
-    "english": "Coffee",
+    "lessonId": 47,
+    "telugu": "ఇంకేం కావాలి?",
+    "romanized": "Inkem kaavali?",
+    "english": "What else do you need?",
     "category": "FOOD"
   },
   {
-    "lessonId": 48,
-    "telugu": "బియ్యం",
-    "romanized": "Biyyam",
-    "english": "Rice",
+    "lessonId": 47,
+    "telugu": "అంతే చాలు",
+    "romanized": "Anthe chaalu",
+    "english": "That's enough",
     "category": "FOOD"
   },
   {
-    "lessonId": 48,
-    "telugu": "ఆహారం",
-    "romanized": "Ahaaram",
-    "english": "Food",
+    "lessonId": 47,
+    "telugu": "నీళ్ళు కూడా తీసుకురండి",
+    "romanized": "Neellu kooDaa theesukurandi",
+    "english": "Please bring water too",
     "category": "FOOD"
   },
   {
-    "lessonId": 48,
-    "telugu": "రుచి",
-    "romanized": "Ruchi",
-    "english": "Taste",
+    "lessonId": 47,
+    "telugu": "ఇది ఎంత అవుతుంది?",
+    "romanized": "Idhi enta avutundi?",
+    "english": "How much will this cost?",
     "category": "FOOD"
   },
   {
-    "lessonId": 48,
-    "telugu": "ఆకు",
-    "romanized": "Aaku",
-    "english": "Leaf/Spinach",
-    "category": "FOOD"
-  },
-  {
-    "lessonId": 48,
-    "telugu": "మిరపకాయ",
-    "romanized": "Mirapaakai",
-    "english": "Chili",
-    "category": "FOOD"
-  },
-  {
-    "lessonId": 48,
-    "telugu": "ఉప్పు",
-    "romanized": "Uppu",
-    "english": "Salt",
+    "lessonId": 47,
+    "telugu": "రుచిగా ఉంది, చాలా ధన్యవాదాలు",
+    "romanized": "Ruchigaa undi, chaala dhanyavaadalu",
+    "english": "It's tasty, thank you very much",
     "category": "FOOD"
   },
   {
@@ -3427,6 +5450,55 @@
     "telugu": "కారు",
     "romanized": "Kaaru",
     "english": "Spicy",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "తీపి",
+    "romanized": "Theepi",
+    "english": "Sweet",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "కారం",
+    "romanized": "Kaaram",
+    "english": "Spicy / Pungent",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "పుల్లగా",
+    "romanized": "Pullagaa",
+    "english": "Sour",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "వేడి",
+    "romanized": "Vaedhi",
+    "english": "Hot / Warm",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "చల్లగా",
+    "romanized": "Challagaa",
+    "english": "Cold / Cool",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "ఇది చాలా తీపిగా ఉంది",
+    "romanized": "Idhi chaala theepigaa undi",
+    "english": "This is very sweet",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 49,
+    "telugu": "ఈ ఆహారం నాకు నచ్చింది",
+    "romanized": "Ee aahaaram naaku nachchindi",
+    "english": "I liked this food",
     "category": "FOOD"
   },
   {
@@ -3500,6 +5572,62 @@
     "category": "FOOD"
   },
   {
+    "lessonId": 50,
+    "telugu": "మీకు ఏం ఇష్టమైన ఆహారం?",
+    "romanized": "Meeku em ishTamaina aahaaram?",
+    "english": "What is your favourite food?",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "నాకు బిర్యానీ ఇష్టం",
+    "romanized": "Naaku biryaanee ishTam",
+    "english": "I like biryani",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "ఈ రోజు మీరు ఏం తిన్నారు?",
+    "romanized": "Ee roju meeru em thinnaaru?",
+    "english": "What did you eat today?",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "నేను ఉదయం ఇడ్లీ తిన్నాను",
+    "romanized": "Naenu udayam iDlee tinnaanu",
+    "english": "I ate idli in the morning",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "రుచికరమైన భోజనం",
+    "romanized": "Ruchikaramaina bhoojanam",
+    "english": "Delicious meal",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "నేను నీళ్ళు తాగాను",
+    "romanized": "Naenu neellu thaagaanu",
+    "english": "I drank water",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "ఆమె కాఫీ తాగుతోంది",
+    "romanized": "Aame kaafi thaaguthoondi",
+    "english": "She is drinking coffee",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 50,
+    "telugu": "భోజనం తయారైంది",
+    "romanized": "Bhoojanam thayaaraindi",
+    "english": "The meal is ready",
+    "category": "FOOD"
+  },
+  {
     "lessonId": 51,
     "telugu": "ఇప్పుడు",
     "romanized": "Ipputha",
@@ -3556,6 +5684,62 @@
     "category": "TIME"
   },
   {
+    "lessonId": 51,
+    "telugu": "అర్ధరాత్రి",
+    "romanized": "Ardharaatri",
+    "english": "Midnight",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 51,
+    "telugu": "సూర్యోదయం",
+    "romanized": "Sooryodayam",
+    "english": "Sunrise",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 51,
+    "telugu": "సూర్యాస్తమయం",
+    "romanized": "Sooryaasthamayam",
+    "english": "Sunset",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 51,
+    "telugu": "ఇప్పుడు ఎంత అయింది?",
+    "romanized": "Ippudu enta ayindi?",
+    "english": "What time is it now?",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 51,
+    "telugu": "ఇప్పుడు ఉదయం ఎనిమిది గంటలు",
+    "romanized": "Ippudu udayam enimidi ganTalu",
+    "english": "It is eight in the morning now",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 51,
+    "telugu": "రాత్రి పదకొండు గంటలకు నిద్రపోతాను",
+    "romanized": "Raatri padakondu ganTalaku nidraPothaanu",
+    "english": "I sleep at eleven at night",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 51,
+    "telugu": "మధ్యాహ్నం తర్వాత వస్తాను",
+    "romanized": "Madhyaahnnam tharvaata vastaanu",
+    "english": "I will come after noon",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 51,
+    "telugu": "ఇప్పుడు చాలా ఆలస్యం అయింది",
+    "romanized": "Ippudu chaala aalasyam ayindi",
+    "english": "It has become very late now",
+    "category": "TIME"
+  },
+  {
     "lessonId": 52,
     "telugu": "తర్వాత",
     "romanized": "Tharvaatha",
@@ -3612,6 +5796,62 @@
     "category": "TIME"
   },
   {
+    "lessonId": 52,
+    "telugu": "సోమవారం",
+    "romanized": "Somavaaram",
+    "english": "Monday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 52,
+    "telugu": "మంగళవారం",
+    "romanized": "Mangalavaaram",
+    "english": "Tuesday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 52,
+    "telugu": "బుధవారం",
+    "romanized": "Budhavaaram",
+    "english": "Wednesday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 52,
+    "telugu": "గురువారం",
+    "romanized": "Guruvaaaram",
+    "english": "Thursday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 52,
+    "telugu": "శుక్రవారం",
+    "romanized": "Shukravaaaram",
+    "english": "Friday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 52,
+    "telugu": "శనివారం",
+    "romanized": "Shanivaaaram",
+    "english": "Saturday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 52,
+    "telugu": "ఆదివారం",
+    "romanized": "Aadivaaaram",
+    "english": "Sunday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 52,
+    "telugu": "ఈ ఆదివారం మేము పిక్నిక్ కి వెళ్తాం",
+    "romanized": "Ee aadivaaaram memu picnik ki velthaamu",
+    "english": "This Sunday we will go on a picnic",
+    "category": "TIME"
+  },
+  {
     "lessonId": 53,
     "telugu": "ముందు",
     "romanized": "Moondu",
@@ -3668,6 +5908,62 @@
     "category": "TIME"
   },
   {
+    "lessonId": 53,
+    "telugu": "వేసవి",
+    "romanized": "Vesavi",
+    "english": "Summer",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 53,
+    "telugu": "వర్షాకాలం",
+    "romanized": "Varshaakaalam",
+    "english": "Rainy season",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 53,
+    "telugu": "శీతాకాలం",
+    "romanized": "Sheetaakaalam",
+    "english": "Winter",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 53,
+    "telugu": "వేడిగా ఉంది",
+    "romanized": "VaeDhigaa undi",
+    "english": "It is hot",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 53,
+    "telugu": "చలిగా ఉంది",
+    "romanized": "Chaligaa undi",
+    "english": "It is cold",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 53,
+    "telugu": "వర్షం పడుతోంది",
+    "romanized": "Varsham paDutoondi",
+    "english": "It is raining",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 53,
+    "telugu": "ఈ రోజు వాతావరణం బాగుంది",
+    "romanized": "Ee roju vaathavaaranam baagundi",
+    "english": "Today's weather is nice",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 53,
+    "telugu": "వేసవిలో చాలా వేడిగా ఉంటుంది",
+    "romanized": "Vesaviloo chaala vaeDhigaa unTundi",
+    "english": "It is very hot in summer",
+    "category": "WEATHER"
+  },
+  {
     "lessonId": 54,
     "telugu": "ఉదయం",
     "romanized": "Udayam",
@@ -3724,6 +6020,62 @@
     "category": "TIME"
   },
   {
+    "lessonId": 54,
+    "telugu": "ఉత్తరం",
+    "romanized": "Uttaram",
+    "english": "North",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 54,
+    "telugu": "దక్షిణం",
+    "romanized": "Dakshinam",
+    "english": "South",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 54,
+    "telugu": "తూర్పు",
+    "romanized": "Toorpu",
+    "english": "East",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 54,
+    "telugu": "పడమర",
+    "romanized": "PaDamara",
+    "english": "West",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 54,
+    "telugu": "ఎడమ వైపు తిరుగు",
+    "romanized": "EDama vaipu thirugu",
+    "english": "Turn left",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 54,
+    "telugu": "కుడి వైపు తిరుగు",
+    "romanized": "KuDi vaipu thirugu",
+    "english": "Turn right",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 54,
+    "telugu": "నేరుగా వెళ్ళు",
+    "romanized": "Nerugaa velLu",
+    "english": "Go straight",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 54,
+    "telugu": "రైల్వే స్టేషన్ ఎక్కడ ఉంది?",
+    "romanized": "Railve sTeshn ekkaDa undi?",
+    "english": "Where is the railway station?",
+    "category": "DIRECTION"
+  },
+  {
     "lessonId": 55,
     "telugu": "మధ్యాహ్నం",
     "romanized": "Madhyahnnam",
@@ -3780,6 +6132,62 @@
     "category": "TIME"
   },
   {
+    "lessonId": 55,
+    "telugu": "బ్యాంకు",
+    "romanized": "Byaanku",
+    "english": "Bank",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 55,
+    "telugu": "ఆసుపత్రి",
+    "romanized": "Aasupathri",
+    "english": "Hospital",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 55,
+    "telugu": "పోలీస్ స్టేషన్",
+    "romanized": "Polees sTeshun",
+    "english": "Police station",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 55,
+    "telugu": "పాఠశాల",
+    "romanized": "Paathashaala",
+    "english": "School",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 55,
+    "telugu": "దుకాణం",
+    "romanized": "Dukaanam",
+    "english": "Shop / Store",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 55,
+    "telugu": "బస్ స్టాండ్",
+    "romanized": "Bas sTaanD",
+    "english": "Bus stand",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 55,
+    "telugu": "నేను బ్యాంకుకి వెళ్తున్నాను",
+    "romanized": "Naenu byaankuki velthunnaanu",
+    "english": "I am going to the bank",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 55,
+    "telugu": "ఆసుపత్రి దగ్గర ఉంది",
+    "romanized": "Aasupathri daggara undi",
+    "english": "The hospital is nearby",
+    "category": "PLACE"
+  },
+  {
     "lessonId": 56,
     "telugu": "సాయంత్రం",
     "romanized": "Saayantram",
@@ -3836,6 +6244,62 @@
     "category": "TIME"
   },
   {
+    "lessonId": 56,
+    "telugu": "ఎక్కడ ఉంది?",
+    "romanized": "EkkaDa undi?",
+    "english": "Where is it?",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 56,
+    "telugu": "దగ్గరలో ఉందా?",
+    "romanized": "Daggaraloo undaa?",
+    "english": "Is it nearby?",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 56,
+    "telugu": "ఎంత దూరం?",
+    "romanized": "Enta doaram?",
+    "english": "How far is it?",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 56,
+    "telugu": "బస్ స్టాండ్ ఎక్కడ ఉంది?",
+    "romanized": "Bas sTaanD ekkaDa undi?",
+    "english": "Where is the bus stand?",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 56,
+    "telugu": "ఇక్కడ నుండి నేరుగా వెళ్ళండి",
+    "romanized": "IkkaDa nundi nerugaa velLandi",
+    "english": "Go straight from here",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 56,
+    "telugu": "మొదటి మలుపులో ఎడమ వైపు తిరుగు",
+    "romanized": "ModaTi malupuloo eDama vaipu thirugu",
+    "english": "Turn left at the first junction",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 56,
+    "telugu": "అది చాలా దూరంలో ఉంది",
+    "romanized": "Adhi chaala dooramloo undi",
+    "english": "That is very far",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 56,
+    "telugu": "నాకు దారి తెలియదు",
+    "romanized": "Naaku daari teliyadu",
+    "english": "I don't know the way",
+    "category": "DIRECTION"
+  },
+  {
     "lessonId": 57,
     "telugu": "రాత్రి",
     "romanized": "Raathri",
@@ -3892,60 +6356,60 @@
     "category": "TIME"
   },
   {
-    "lessonId": 58,
-    "telugu": "ఈ రోజు",
-    "romanized": "Ee roju",
-    "english": "Today",
-    "category": "TIME"
+    "lessonId": 57,
+    "telugu": "బస్సు",
+    "romanized": "Bassu",
+    "english": "Bus",
+    "category": "TRANSPORT"
   },
   {
-    "lessonId": 58,
-    "telugu": "నిన్న",
-    "romanized": "Ninna",
-    "english": "Yesterday",
-    "category": "TIME"
+    "lessonId": 57,
+    "telugu": "రైలు",
+    "romanized": "Railu",
+    "english": "Train",
+    "category": "TRANSPORT"
   },
   {
-    "lessonId": 58,
-    "telugu": "రేపు",
-    "romanized": "Repu",
-    "english": "Tomorrow",
-    "category": "TIME"
+    "lessonId": 57,
+    "telugu": "కారు",
+    "romanized": "Kaaru",
+    "english": "Car",
+    "category": "TRANSPORT"
   },
   {
-    "lessonId": 58,
-    "telugu": "ఎప్పుడు",
-    "romanized": "Epputha",
-    "english": "When",
-    "category": "TIME"
+    "lessonId": 57,
+    "telugu": "విమానం",
+    "romanized": "Vimaanam",
+    "english": "Aeroplane",
+    "category": "TRANSPORT"
   },
   {
-    "lessonId": 58,
-    "telugu": "ఎంతసేపు",
-    "romanized": "Enthasepu",
-    "english": "How long",
-    "category": "TIME"
+    "lessonId": 57,
+    "telugu": "ఆటో",
+    "romanized": "AaTo",
+    "english": "Auto-rickshaw",
+    "category": "TRANSPORT"
   },
   {
-    "lessonId": 58,
-    "telugu": "ఓరు",
-    "romanized": "Oru",
-    "english": "Moment",
-    "category": "TIME"
+    "lessonId": 57,
+    "telugu": "నేను బస్సులో వెళ్తాను",
+    "romanized": "Naenu bassulo velthaanu",
+    "english": "I will go by bus",
+    "category": "TRANSPORT"
   },
   {
-    "lessonId": 58,
-    "telugu": "ఒక్కరోజు",
-    "romanized": "Okkarroju",
-    "english": "One day",
-    "category": "TIME"
+    "lessonId": 57,
+    "telugu": "రైలు ఎంత సేపు ఆగుతుంది?",
+    "romanized": "Railu enta seepu aagutundi?",
+    "english": "How long will the train stop?",
+    "category": "TRANSPORT"
   },
   {
-    "lessonId": 58,
-    "telugu": "వారం",
-    "romanized": "Vaaram",
-    "english": "Week",
-    "category": "TIME"
+    "lessonId": 57,
+    "telugu": "విమాన ప్రయాణం ఇష్టం",
+    "romanized": "Vimaan pravaanam ishTam",
+    "english": "I like air travel",
+    "category": "TRANSPORT"
   },
   {
     "lessonId": 59,
@@ -4002,6 +6466,62 @@
     "romanized": "Nela",
     "english": "Month",
     "category": "TIME"
+  },
+  {
+    "lessonId": 59,
+    "telugu": "నది",
+    "romanized": "Nadi",
+    "english": "River",
+    "category": "NATURE"
+  },
+  {
+    "lessonId": 59,
+    "telugu": "కొండ",
+    "romanized": "Konda",
+    "english": "Hill / Mountain",
+    "category": "NATURE"
+  },
+  {
+    "lessonId": 59,
+    "telugu": "సముద్రం",
+    "romanized": "Samudram",
+    "english": "Sea / Ocean",
+    "category": "NATURE"
+  },
+  {
+    "lessonId": 59,
+    "telugu": "అడవి",
+    "romanized": "ADavi",
+    "english": "Forest",
+    "category": "NATURE"
+  },
+  {
+    "lessonId": 59,
+    "telugu": "పువ్వు",
+    "romanized": "Puvvu",
+    "english": "Flower",
+    "category": "NATURE"
+  },
+  {
+    "lessonId": 59,
+    "telugu": "చెట్టు",
+    "romanized": "ChetTu",
+    "english": "Tree",
+    "category": "NATURE"
+  },
+  {
+    "lessonId": 59,
+    "telugu": "మేఘాలు కమ్ముకున్నాయి",
+    "romanized": "Meghaalu kammukunnayi",
+    "english": "Clouds have gathered",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 59,
+    "telugu": "నది ప్రక్కన నడవడం ఆనందంగా ఉంది",
+    "romanized": "Nadi prakkan naDavaDam aanandamgaa undi",
+    "english": "Walking beside the river is pleasant",
+    "category": "NATURE"
   },
   {
     "lessonId": 60,
@@ -4060,6 +6580,62 @@
     "category": "TIME"
   },
   {
+    "lessonId": 60,
+    "telugu": "ఈ రోజు ఏ రోజు?",
+    "romanized": "Ee roju ye roju?",
+    "english": "What day is today?",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 60,
+    "telugu": "ఇప్పుడు ఏ సమయం?",
+    "romanized": "Ippudu ye samayam?",
+    "english": "What time is it now?",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 60,
+    "telugu": "మీరు ఎక్కడ నుండి వచ్చారు?",
+    "romanized": "Meeru ekkaDa nundi vacchaaru?",
+    "english": "Where did you come from?",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 60,
+    "telugu": "బస్సు ఎప్పుడు వస్తుంది?",
+    "romanized": "Bassu eppuDu vasthundi?",
+    "english": "When will the bus come?",
+    "category": "TRANSPORT"
+  },
+  {
+    "lessonId": 60,
+    "telugu": "రేపు వర్షం పడుతుందా?",
+    "romanized": "Raepu varsham paDuthundaa?",
+    "english": "Will it rain tomorrow?",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 60,
+    "telugu": "ఆసుపత్రి ఎక్కడ ఉంది?",
+    "romanized": "Aasupathri ekkaDa undi?",
+    "english": "Where is the hospital?",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 60,
+    "telugu": "ఈ వాతావరణం చాలా బాగుంది",
+    "romanized": "Ee vaathavaaranam chaala baagundi",
+    "english": "This weather is very nice",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 60,
+    "telugu": "నేను హైదరాబాద్ లో ఉంటున్నాను",
+    "romanized": "Naenu Hyderabad loo unTunnaanu",
+    "english": "I am staying in Hyderabad",
+    "category": "PLACE"
+  },
+  {
     "lessonId": 61,
     "telugu": "తూర్పు",
     "romanized": "Thoorupu",
@@ -4102,6 +6678,62 @@
     "category": "DIRECTION"
   },
   {
+    "lessonId": 61,
+    "telugu": "శుభోదయం",
+    "romanized": "Shubhodayam",
+    "english": "Good morning",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 61,
+    "telugu": "స్వాగతం",
+    "romanized": "Swagatam",
+    "english": "Welcome",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 61,
+    "telugu": "వీడ్కోలు",
+    "romanized": "Veedkolu",
+    "english": "Farewell",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 61,
+    "telugu": "మళ్ళీ కలుద్దాం",
+    "romanized": "Malli kaluddaam",
+    "english": "See you again",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 61,
+    "telugu": "రేపు కలుద్దాం",
+    "romanized": "Raepu kaluddaam",
+    "english": "See you tomorrow",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 61,
+    "telugu": "నమస్కారం చేస్తున్నాను",
+    "romanized": "Namaskaram chestu nnaanu",
+    "english": "I am greeting you",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 61,
+    "telugu": "మీరు ఎక్కడ ఉన్నారు?",
+    "romanized": "Meeru ekkada unnaaru?",
+    "english": "Where are you?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 61,
+    "telugu": "దయచేసి రండి",
+    "romanized": "Dayachesi randi",
+    "english": "Please come in",
+    "category": "COMMON_PHRASE"
+  },
+  {
     "lessonId": 62,
     "telugu": "పడమర",
     "romanized": "Padamara",
@@ -4144,6 +6776,62 @@
     "category": "DIRECTION"
   },
   {
+    "lessonId": 62,
+    "telugu": "దయచేసి",
+    "romanized": "Dayachesi",
+    "english": "Please",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 62,
+    "telugu": "నెనర్లు",
+    "romanized": "Nenarllu",
+    "english": "Thanks (informal)",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 62,
+    "telugu": "ఫర్వాలేదు",
+    "romanized": "Pharvaledu",
+    "english": "No problem / It's okay",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 62,
+    "telugu": "కృతజ్ఞతలు",
+    "romanized": "Kruthagnathalu",
+    "english": "Gratitude / Thanks",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 62,
+    "telugu": "మీరు చాలా దయగలవారు",
+    "romanized": "Meeru chaala dayagalavarru",
+    "english": "You are very kind",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 62,
+    "telugu": "సహాయం చేసినందుకు ధన్యవాదాలు",
+    "romanized": "Sahaayam chesinanduku dhanyavaadalu",
+    "english": "Thank you for the help",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 62,
+    "telugu": "అర్థమైందా?",
+    "romanized": "Arthamayindaa?",
+    "english": "Do you understand?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 62,
+    "telugu": "మళ్ళీ చెప్పండి",
+    "romanized": "Malli cheppandi",
+    "english": "Please say again",
+    "category": "COMMON_PHRASE"
+  },
+  {
     "lessonId": 63,
     "telugu": "ఉత్తర",
     "romanized": "Uttara",
@@ -4186,6 +6874,62 @@
     "category": "DIRECTION"
   },
   {
+    "lessonId": 63,
+    "telugu": "సరే",
+    "romanized": "Sare",
+    "english": "Okay / Alright",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 63,
+    "telugu": "తప్పకుండా",
+    "romanized": "Thappakunda",
+    "english": "Definitely / Of course",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 63,
+    "telugu": "బహుశా",
+    "romanized": "Bahushaa",
+    "english": "Maybe / Perhaps",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 63,
+    "telugu": "వద్దు",
+    "romanized": "Vaddhu",
+    "english": "No / Don't want",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 63,
+    "telugu": "నాకు తెలియదు",
+    "romanized": "Naaku teliyadu",
+    "english": "I don't know",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 63,
+    "telugu": "ముమ్మాటికీ అవును",
+    "romanized": "Mummataakee avunu",
+    "english": "Absolutely yes",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 63,
+    "telugu": "అది నిజమే",
+    "romanized": "Adhi nijame",
+    "english": "That is true",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 63,
+    "telugu": "అది నిజం కాదు",
+    "romanized": "Adhi nijam kaadhu",
+    "english": "That is not true",
+    "category": "COMMON_PHRASE"
+  },
+  {
     "lessonId": 64,
     "telugu": "దక్షిణ",
     "romanized": "Dakshina",
@@ -4228,6 +6972,62 @@
     "category": "DIRECTION"
   },
   {
+    "lessonId": 64,
+    "telugu": "పరిచయం",
+    "romanized": "Parichayam",
+    "english": "Introduction",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 64,
+    "telugu": "నా పేరు రాజు",
+    "romanized": "Naa peru Raju",
+    "english": "My name is Raju",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 64,
+    "telugu": "నేను హైదరాబాద్ నుండి వచ్చాను",
+    "romanized": "Naenu Hyderabad nundi vacchaanu",
+    "english": "I am from Hyderabad",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 64,
+    "telugu": "మీ పేరు ఏమిటి?",
+    "romanized": "Mee peru emiti?",
+    "english": "What is your name?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 64,
+    "telugu": "నాకు తెలుగు వస్తుంది",
+    "romanized": "Naaku telugu vasthundi",
+    "english": "I know Telugu",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 64,
+    "telugu": "నేను విద్యార్థిని",
+    "romanized": "Naenu vidyaarthi ni",
+    "english": "I am a student",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 64,
+    "telugu": "మీరు ఏం చేస్తారు?",
+    "romanized": "Meeru em chesthaarru?",
+    "english": "What do you do?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 64,
+    "telugu": "నేను ఉపాధ్యాయుడిని",
+    "romanized": "Naenu upaadhy aayudini",
+    "english": "I am a teacher",
+    "category": "COMMON_PHRASE"
+  },
+  {
     "lessonId": 65,
     "telugu": "ఎడమ",
     "romanized": "Edama",
@@ -4270,6 +7070,62 @@
     "category": "DIRECTION"
   },
   {
+    "lessonId": 65,
+    "telugu": "బాగున్నారా?",
+    "romanized": "Baagunnaaraa?",
+    "english": "Are you well?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 65,
+    "telugu": "చాలా బాగున్నాను",
+    "romanized": "Chaala baagunnaa nu",
+    "english": "I am very well",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 65,
+    "telugu": "అంత బాగా లేదు",
+    "romanized": "Anth a baaga ledu",
+    "english": "Not that great",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 65,
+    "telugu": "మీకు ఎలా ఉంది?",
+    "romanized": "Meeku elaa undi?",
+    "english": "How are you feeling?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 65,
+    "telugu": "సంతోషంగా ఉన్నాను",
+    "romanized": "Santoshamgaa unnaanu",
+    "english": "I am happy",
+    "category": "EMOTION"
+  },
+  {
+    "lessonId": 65,
+    "telugu": "అలసిపోయాను",
+    "romanized": "Alasipoyaanu",
+    "english": "I am tired",
+    "category": "EMOTION"
+  },
+  {
+    "lessonId": 65,
+    "telugu": "మీరు ఏం చేస్తున్నారు?",
+    "romanized": "Meeru em chesth unnaaru?",
+    "english": "What are you doing?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 65,
+    "telugu": "నేను పని చేస్తున్నాను",
+    "romanized": "Naenu pani chesth unnaanu",
+    "english": "I am working",
+    "category": "VERB"
+  },
+  {
     "lessonId": 66,
     "telugu": "కుడి",
     "romanized": "Kudi",
@@ -4312,6 +7168,62 @@
     "category": "DIRECTION"
   },
   {
+    "lessonId": 66,
+    "telugu": "మీతో కలవడం ఆనందంగా ఉంది",
+    "romanized": "Meeto kalavaDam aanandamgaa undi",
+    "english": "Nice to meet you",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 66,
+    "telugu": "మీతో మాట్లాడటం ఆనందం",
+    "romanized": "Meeto maaTlaaDaTam aanandam",
+    "english": "It's a pleasure talking with you",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 66,
+    "telugu": "మీ గురించి చెప్పండి",
+    "romanized": "Mee gurinchi cheppandi",
+    "english": "Tell me about yourself",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 66,
+    "telugu": "మీరు ఎక్కడ నుండి?",
+    "romanized": "Meeru ekkaDa nundi?",
+    "english": "Where are you from?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 66,
+    "telugu": "మనం మళ్ళీ కలుద్దాం",
+    "romanized": "Manam malli kaluddaam",
+    "english": "Let's meet again",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 66,
+    "telugu": "ఇది చాలా ఆనందంగా ఉంది",
+    "romanized": "Idhi chaala aanandamgaa undi",
+    "english": "This is very pleasant",
+    "category": "EMOTION"
+  },
+  {
+    "lessonId": 66,
+    "telugu": "మీరు చాలా మంచివారు",
+    "romanized": "Meeru chaala manchivaarru",
+    "english": "You are very good",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 66,
+    "telugu": "నేను మీకు ఒక స్నేహితుడిని",
+    "romanized": "Naenu meeku oka snehituDini",
+    "english": "I am a friend to you",
+    "category": "COMMON_PHRASE"
+  },
+  {
     "lessonId": 67,
     "telugu": "ముందు",
     "romanized": "Moondu",
@@ -4354,6 +7266,62 @@
     "category": "DIRECTION"
   },
   {
+    "lessonId": 67,
+    "telugu": "ఉదయం పూట",
+    "romanized": "Udayam poota",
+    "english": "In the morning time",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 67,
+    "telugu": "ఏమైనా విషయం?",
+    "romanized": "Emainaa vishayam?",
+    "english": "Anything new?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 67,
+    "telugu": "చాలా రోజులైంది",
+    "romanized": "Chaala rojulayindi",
+    "english": "It's been a long time",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 67,
+    "telugu": "ఇటీవల ఎలా ఉన్నారు?",
+    "romanized": "Iteevala elaa unnaaru?",
+    "english": "How have you been lately?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 67,
+    "telugu": "మళ్ళీ కలవడం సంతోషం",
+    "romanized": "Malli kalavaDam santosham",
+    "english": "Happy to meet again",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 67,
+    "telugu": "మీ కుటుంబం ఎలా ఉంది?",
+    "romanized": "Mee kutumbam elaa undi?",
+    "english": "How is your family?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 67,
+    "telugu": "అందరూ బాగున్నారా?",
+    "romanized": "Andaruu baagunnaaraa?",
+    "english": "Is everyone well?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 67,
+    "telugu": "చాలా కాలం తర్వాత కలిసాం",
+    "romanized": "Chaala kaalam tarvaata kalisaam",
+    "english": "We met after a long time",
+    "category": "GREETING"
+  },
+  {
     "lessonId": 68,
     "telugu": "వెనుక",
     "romanized": "Venuka",
@@ -4396,46 +7364,60 @@
     "category": "DIRECTION"
   },
   {
-    "lessonId": 69,
-    "telugu": "పైన",
-    "romanized": "Paina",
-    "english": "Above/Up",
-    "category": "DIRECTION"
+    "lessonId": 68,
+    "telugu": "జాగ్రత్తగా వెళ్ళండి",
+    "romanized": "Jaagratt agaa velLandi",
+    "english": "Go carefully / Take care",
+    "category": "GREETING"
   },
   {
-    "lessonId": 69,
-    "telugu": "కింద",
-    "romanized": "Kinda",
-    "english": "Below/Down",
-    "category": "DIRECTION"
+    "lessonId": 68,
+    "telugu": "తొందరగా రండి",
+    "romanized": "Thondaragaa randi",
+    "english": "Come back soon",
+    "category": "GREETING"
   },
   {
-    "lessonId": 69,
-    "telugu": "దగ్గర",
-    "romanized": "Daggara",
-    "english": "Near",
-    "category": "DIRECTION"
+    "lessonId": 68,
+    "telugu": "వెళ్ళొస్తాను",
+    "romanized": "VelLostaanu",
+    "english": "I'll be going and coming back",
+    "category": "GREETING"
   },
   {
-    "lessonId": 69,
-    "telugu": "దూరంగా",
-    "romanized": "Dooranga",
-    "english": "Far",
-    "category": "DIRECTION"
+    "lessonId": 68,
+    "telugu": "మళ్ళీ వస్తాను",
+    "romanized": "Malli vastaanu",
+    "english": "I will come again",
+    "category": "GREETING"
   },
   {
-    "lessonId": 69,
-    "telugu": "ఎక్కడ",
-    "romanized": "Ekkada",
-    "english": "Where",
-    "category": "DIRECTION"
+    "lessonId": 68,
+    "telugu": "శుభంగా వెళ్ళండి",
+    "romanized": "Shubhamgaa velLandi",
+    "english": "Go well / Goodbye",
+    "category": "GREETING"
   },
   {
-    "lessonId": 69,
-    "telugu": "ఇక్కడ",
-    "romanized": "Ikkaada",
-    "english": "Here",
-    "category": "DIRECTION"
+    "lessonId": 68,
+    "telugu": "మీరు ఇప్పుడు వెళ్తున్నారా?",
+    "romanized": "Meeru ippuDu velthu nnaaru?",
+    "english": "Are you leaving now?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 68,
+    "telugu": "నేను ఇప్పుడు వెళ్తాను",
+    "romanized": "Naenu ippuDu velthaanu",
+    "english": "I am leaving now",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 68,
+    "telugu": "త్వరలో కలుద్దాం",
+    "romanized": "Tvaralaa kaluddaam",
+    "english": "Let's meet soon",
+    "category": "GREETING"
   },
   {
     "lessonId": 70,
@@ -4480,6 +7462,62 @@
     "category": "DIRECTION"
   },
   {
+    "lessonId": 70,
+    "telugu": "నమస్తే అందరికీ",
+    "romanized": "Namaste andarikee",
+    "english": "Hello everyone",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 70,
+    "telugu": "మీతో మాట్లాడటం చాలా ఆనందం",
+    "romanized": "Meeto maaTlaaDaTam chaala aanandam",
+    "english": "Very happy talking with you",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 70,
+    "telugu": "ఒక్కసారి చెప్పండి",
+    "romanized": "Okkasaari cheppandi",
+    "english": "Please say once",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 70,
+    "telugu": "మీకు అర్థమైందా?",
+    "romanized": "Meeku arthamayindaa?",
+    "english": "Did you understand?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 70,
+    "telugu": "నేను అర్థం చేసుకున్నాను",
+    "romanized": "Naenu artham chesukunnaanu",
+    "english": "I understood",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 70,
+    "telugu": "ఇంకా ఏమైనా ఉందా?",
+    "romanized": "Inkaa emainaa undaa?",
+    "english": "Is there anything else?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 70,
+    "telugu": "చాలా మంచిగా నేర్చుకున్నారు",
+    "romanized": "Chaala manchigaa nerchukunnaaru",
+    "english": "You learned very well",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 70,
+    "telugu": "అభ్యాసం చాలా బాగుంది",
+    "romanized": "Abhyaasam chaala baagundi",
+    "english": "The practice was very good",
+    "category": "COMMON_PHRASE"
+  },
+  {
     "lessonId": 71,
     "telugu": "పెద్ద",
     "romanized": "Pedda",
@@ -4522,6 +7560,62 @@
     "category": "ADJECTIVE"
   },
   {
+    "lessonId": 71,
+    "telugu": "ఒకటి రెండు మూడు",
+    "romanized": "Okati rendu moodu",
+    "english": "One two three",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 71,
+    "telugu": "నాలుగు అయిదు",
+    "romanized": "Naalugu ayidu",
+    "english": "Four five",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 71,
+    "telugu": "ఒక్కటే ఒకటి",
+    "romanized": "Okkate okati",
+    "english": "Just one",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 71,
+    "telugu": "రెండు కళ్ళు",
+    "romanized": "Rendu kalLu",
+    "english": "Two eyes",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 71,
+    "telugu": "మూడు రోజులు",
+    "romanized": "Moodu rojulu",
+    "english": "Three days",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 71,
+    "telugu": "నాకు అయిదు పుస్తకాలు ఉన్నాయి",
+    "romanized": "Naaku ayidu pustakaalu unnayi",
+    "english": "I have five books",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 71,
+    "telugu": "ఒకటి నుండి అయిదు వరకు లెక్కించు",
+    "romanized": "Okati nundi ayidu varaku lekkimchu",
+    "english": "Count from one to five",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 71,
+    "telugu": "నాలుగు చేతులు",
+    "romanized": "Naalugu chethulu",
+    "english": "Four hands (idiom)",
+    "category": "NUMBER"
+  },
+  {
     "lessonId": 72,
     "telugu": "చిన్న",
     "romanized": "Chinna",
@@ -4564,6 +7658,62 @@
     "category": "ADJECTIVE"
   },
   {
+    "lessonId": 72,
+    "telugu": "ఆరు ఏడు ఎనిమిది",
+    "romanized": "Aaru yedu enimidi",
+    "english": "Six seven eight",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 72,
+    "telugu": "తొమ్మిది పది",
+    "romanized": "Thommidi padi",
+    "english": "Nine ten",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 72,
+    "telugu": "పది రూపాయలు",
+    "romanized": "Padi ruupaayalu",
+    "english": "Ten rupees",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 72,
+    "telugu": "ఏడు రోజులు ఒక వారం",
+    "romanized": "Yedu rojulu oka vaaram",
+    "english": "Seven days make a week",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 72,
+    "telugu": "ఎనిమిది గంటలకు",
+    "romanized": "Enimidi gantalaku",
+    "english": "At eight o'clock",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 72,
+    "telugu": "ఆరు నెలలు",
+    "romanized": "Aaru nelalu",
+    "english": "Six months",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 72,
+    "telugu": "తొమ్మిది సంఖ్య",
+    "romanized": "Thommidi sankhya",
+    "english": "Number nine",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 72,
+    "telugu": "పది పైసలు లేదు",
+    "romanized": "Padi paisalu ledu",
+    "english": "Not even ten paise",
+    "category": "NUMBER"
+  },
+  {
     "lessonId": 73,
     "telugu": "ఎత్తు",
     "romanized": "Eththu",
@@ -4606,6 +7756,62 @@
     "category": "ADJECTIVE"
   },
   {
+    "lessonId": 73,
+    "telugu": "పదకొండు",
+    "romanized": "Padakondu",
+    "english": "Eleven",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 73,
+    "telugu": "పన్నెండు",
+    "romanized": "Pannendu",
+    "english": "Twelve",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 73,
+    "telugu": "పదిహేను",
+    "romanized": "Padihenu",
+    "english": "Fifteen",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 73,
+    "telugu": "పదహారు",
+    "romanized": "Padahaaru",
+    "english": "Sixteen",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 73,
+    "telugu": "పద్దెనిమిది",
+    "romanized": "Paddenimidi",
+    "english": "Eighteen",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 73,
+    "telugu": "పందొమ్మిది",
+    "romanized": "Pandommidi",
+    "english": "Nineteen",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 73,
+    "telugu": "ఇరవై",
+    "romanized": "Iravai",
+    "english": "Twenty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 73,
+    "telugu": "పదమూడు బస్సు",
+    "romanized": "Padamoodu bassu",
+    "english": "Bus number thirteen",
+    "category": "NUMBER"
+  },
+  {
     "lessonId": 74,
     "telugu": "తక్కువ",
     "romanized": "Thakkuva",
@@ -4648,6 +7854,62 @@
     "category": "ADJECTIVE"
   },
   {
+    "lessonId": 74,
+    "telugu": "ఇరవై ఒకటి",
+    "romanized": "Iravai okati",
+    "english": "Twenty-one",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 74,
+    "telugu": "ముప్పై",
+    "romanized": "Muppai",
+    "english": "Thirty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 74,
+    "telugu": "నలభై",
+    "romanized": "Nalabhai",
+    "english": "Forty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 74,
+    "telugu": "యాభై",
+    "romanized": "Yaabhai",
+    "english": "Fifty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 74,
+    "telugu": "ఇరవై అయిదు రూపాయలు",
+    "romanized": "Iravai ayidu ruupaayalu",
+    "english": "Twenty-five rupees",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 74,
+    "telugu": "ముప్పై రోజులు ఒక నెల",
+    "romanized": "Muppai rojulu oka nela",
+    "english": "Thirty days make a month",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 74,
+    "telugu": "నలభై మంది",
+    "romanized": "Nalabhai mandi",
+    "english": "Forty people",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 74,
+    "telugu": "యాభై కిలోమీటర్లు",
+    "romanized": "Yaabhai kiloomiTarllu",
+    "english": "Fifty kilometres",
+    "category": "NUMBER"
+  },
+  {
     "lessonId": 75,
     "telugu": "బలమైన",
     "romanized": "Balamaina",
@@ -4690,6 +7952,62 @@
     "category": "ADJECTIVE"
   },
   {
+    "lessonId": 75,
+    "telugu": "అరవై",
+    "romanized": "Aravai",
+    "english": "Sixty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 75,
+    "telugu": "డెభ్భై",
+    "romanized": "Debhbhai",
+    "english": "Seventy",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 75,
+    "telugu": "ఎనభై",
+    "romanized": "Enabhai",
+    "english": "Eighty",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 75,
+    "telugu": "తొంభై",
+    "romanized": "Thombhai",
+    "english": "Ninety",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 75,
+    "telugu": "వంద",
+    "romanized": "Vanda",
+    "english": "One hundred",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 75,
+    "telugu": "యాభై ఒకటి",
+    "romanized": "Yaabhai okati",
+    "english": "Fifty-one",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 75,
+    "telugu": "అరవై నాలుగు సంవత్సరాలు",
+    "romanized": "Aravai naalugu samvatsaraalu",
+    "english": "Sixty-four years",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 75,
+    "telugu": "వంద రూపాయల నోటు",
+    "romanized": "Vanda ruupaayala noTu",
+    "english": "A hundred-rupee note",
+    "category": "NUMBER"
+  },
+  {
     "lessonId": 76,
     "telugu": "బలహీన",
     "romanized": "Balaheen",
@@ -4732,6 +8050,62 @@
     "category": "ADJECTIVE"
   },
   {
+    "lessonId": 76,
+    "telugu": "మీకు ఎంత వయస్సు?",
+    "romanized": "Meeku enta vayassu?",
+    "english": "How old are you?",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 76,
+    "telugu": "నాకు ఇరవై సంవత్సరాలు",
+    "romanized": "Naaku iravai samvatsaraalu",
+    "english": "I am twenty years old",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 76,
+    "telugu": "వయస్సు",
+    "romanized": "Vayassu",
+    "english": "Age",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 76,
+    "telugu": "పుట్టిన రోజు",
+    "romanized": "PuTTina roju",
+    "english": "Birthday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 76,
+    "telugu": "అతనికి ముప్పై అయిదు సంవత్సరాలు",
+    "romanized": "Athaniki muppai ayidu samvatsaraalu",
+    "english": "He is thirty-five years old",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 76,
+    "telugu": "మీరు ఎప్పుడు పుట్టారు?",
+    "romanized": "Meeru eppuDu puTTaaru?",
+    "english": "When were you born?",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 76,
+    "telugu": "నా పుట్టిన రోజు జనవరి మొదటి",
+    "romanized": "Naa puTTina roju Janavari modaTi",
+    "english": "My birthday is January first",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 76,
+    "telugu": "చిన్న వయస్సు",
+    "romanized": "Chinna vayassu",
+    "english": "Young age",
+    "category": "ADJECTIVE"
+  },
+  {
     "lessonId": 77,
     "telugu": "కొత్త",
     "romanized": "Kotha",
@@ -4774,6 +8148,62 @@
     "category": "ADJECTIVE"
   },
   {
+    "lessonId": 77,
+    "telugu": "ఒకటి రెండు మూడు నాలుగు అయిదు",
+    "romanized": "Okati rendu moodu naalugu ayidu",
+    "english": "One two three four five",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 77,
+    "telugu": "ఆరు ఏడు ఎనిమిది తొమ్మిది పది",
+    "romanized": "Aaru yedu enimidi thommidi padi",
+    "english": "Six seven eight nine ten",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 77,
+    "telugu": "మళ్ళీ లెక్కించు",
+    "romanized": "Malli lekkimchu",
+    "english": "Count again",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 77,
+    "telugu": "ఎంత ఉంది?",
+    "romanized": "Enta undi?",
+    "english": "How much is there?",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 77,
+    "telugu": "ఎన్ని ఉన్నాయి?",
+    "romanized": "Enni unnayi?",
+    "english": "How many are there?",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 77,
+    "telugu": "జమా చేయి",
+    "romanized": "Jamaa cheyyi",
+    "english": "Add up",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 77,
+    "telugu": "తీసివేయి",
+    "romanized": "Theesiveyyi",
+    "english": "Subtract",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 77,
+    "telugu": "రెండు కూడా రెండు నాలుగు",
+    "romanized": "Rendu kooDaa rendu naalugu",
+    "english": "Two plus two is four",
+    "category": "NUMBER"
+  },
+  {
     "lessonId": 78,
     "telugu": "పాత",
     "romanized": "Paatha",
@@ -4816,46 +8246,60 @@
     "category": "ADJECTIVE"
   },
   {
-    "lessonId": 79,
-    "telugu": "మంచి",
-    "romanized": "Manchi",
-    "english": "Good",
-    "category": "ADJECTIVE"
+    "lessonId": 78,
+    "telugu": "మొదటి",
+    "romanized": "ModaTi",
+    "english": "First",
+    "category": "NUMBER"
   },
   {
-    "lessonId": 79,
-    "telugu": "చెడ్డ",
-    "romanized": "Chedda",
-    "english": "Bad",
-    "category": "ADJECTIVE"
+    "lessonId": 78,
+    "telugu": "రెండవ",
+    "romanized": "Rendava",
+    "english": "Second",
+    "category": "NUMBER"
   },
   {
-    "lessonId": 79,
-    "telugu": "అందమైన",
-    "romanized": "Andamaina",
-    "english": "Beautiful",
-    "category": "ADJECTIVE"
+    "lessonId": 78,
+    "telugu": "మూడవ",
+    "romanized": "MooDava",
+    "english": "Third",
+    "category": "NUMBER"
   },
   {
-    "lessonId": 79,
-    "telugu": "అయ్యార",
-    "romanized": "Ayyara",
-    "english": "Old (age)",
-    "category": "ADJECTIVE"
+    "lessonId": 78,
+    "telugu": "నాల్గవ",
+    "romanized": "Naalgava",
+    "english": "Fourth",
+    "category": "NUMBER"
   },
   {
-    "lessonId": 79,
-    "telugu": "యువ",
-    "romanized": "Yuva",
-    "english": "Young",
-    "category": "ADJECTIVE"
+    "lessonId": 78,
+    "telugu": "అయిదవ",
+    "romanized": "Ayidava",
+    "english": "Fifth",
+    "category": "NUMBER"
   },
   {
-    "lessonId": 79,
-    "telugu": "ఉన్నత",
-    "romanized": "Unnatha",
-    "english": "High/Superior",
-    "category": "ADJECTIVE"
+    "lessonId": 78,
+    "telugu": "చివరి",
+    "romanized": "Chivari",
+    "english": "Last / Final",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 78,
+    "telugu": "మొదటి స్థానం",
+    "romanized": "ModaTi sthanam",
+    "english": "First place",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 78,
+    "telugu": "రెండవ స్థానం పొందాను",
+    "romanized": "Rendava sthanam pondaanu",
+    "english": "I got second place",
+    "category": "NUMBER"
   },
   {
     "lessonId": 80,
@@ -4900,11 +8344,130 @@
     "category": "ADJECTIVE"
   },
   {
+    "lessonId": 80,
+    "telugu": "ఎంత మంది ఉన్నారు?",
+    "romanized": "Enta mandi unnaaru?",
+    "english": "How many people are there?",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 80,
+    "telugu": "మొత్తం ఐదు",
+    "romanized": "Mottam ayidu",
+    "english": "Total five",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 80,
+    "telugu": "ఒక్కొక్కటి తీసుకో",
+    "romanized": "Okkokkati theesuko",
+    "english": "Take one each",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 80,
+    "telugu": "అన్నీ కలిపితే పది",
+    "romanized": "Annee kalipithe padi",
+    "english": "All together make ten",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 80,
+    "telugu": "సంఖ్య చెప్పు",
+    "romanized": "Sankhya cheppu",
+    "english": "Say the number",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 80,
+    "telugu": "సరిగ్గా లెక్కించావు",
+    "romanized": "Sarigga lekkimchaavu",
+    "english": "You counted correctly",
+    "category": "NUMBER"
+  },
+  {
+    "lessonId": 80,
+    "telugu": "మళ్ళీ ప్రయత్నించు",
+    "romanized": "Malli prayathinchu",
+    "english": "Try again",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 80,
+    "telugu": "చాలా బాగా లెక్కించావు",
+    "romanized": "Chaala baagaa lekkimchaavu",
+    "english": "You counted very well",
+    "category": "NUMBER"
+  },
+  {
     "lessonId": 81,
     "telugu": "ఎరుపు",
     "romanized": "Erupu",
     "english": "Red",
     "category": "COLOR"
+  },
+  {
+    "lessonId": 81,
+    "telugu": "కుటుంబం",
+    "romanized": "Kutumbam",
+    "english": "Family",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 81,
+    "telugu": "నాయనమ్మ",
+    "romanized": "Nayanamma",
+    "english": "Paternal grandmother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 81,
+    "telugu": "తాత",
+    "romanized": "Thaatha",
+    "english": "Grandfather",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 81,
+    "telugu": "కొడుకు",
+    "romanized": "KoDuku",
+    "english": "Son",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 81,
+    "telugu": "కూతురు",
+    "romanized": "Koothuru",
+    "english": "Daughter",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 81,
+    "telugu": "మా కుటుంబం పెద్దది",
+    "romanized": "Maa kutumbam peddadi",
+    "english": "My family is big",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 81,
+    "telugu": "నా తల్లి పేరు లక్ష్మి",
+    "romanized": "Naa thalli peru Lakshmi",
+    "english": "My mother's name is Lakshmi",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 81,
+    "telugu": "మా అమ్మ ఇంట్లో ఉంది",
+    "romanized": "Maa amma inTloo undi",
+    "english": "My mother is at home",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 81,
+    "telugu": "మా కుటుంబం",
+    "romanized": "Maa kutumbam",
+    "english": "My family",
+    "category": "FAMILY"
   },
   {
     "lessonId": 82,
@@ -4914,11 +8477,137 @@
     "category": "COLOR"
   },
   {
+    "lessonId": 82,
+    "telugu": "నాన్న",
+    "romanized": "Naanna",
+    "english": "Father (informal)",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 82,
+    "telugu": "అమ్మ",
+    "romanized": "Amma",
+    "english": "Mother (informal)",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 82,
+    "telugu": "చెల్లి",
+    "romanized": "Chelli",
+    "english": "Younger sister (informal)",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 82,
+    "telugu": "అన్న",
+    "romanized": "Anna",
+    "english": "Elder brother (informal)",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 82,
+    "telugu": "మా నాన్న పని చేస్తున్నారు",
+    "romanized": "Maa naanna pani chesth unnaaru",
+    "english": "My father is working",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 82,
+    "telugu": "మా అక్క పాటలు పాడుతోంది",
+    "romanized": "Maa akka paaTalu paaDu thoondi",
+    "english": "My elder sister is singing",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 82,
+    "telugu": "నా తమ్ముడు చదువుతున్నాడు",
+    "romanized": "Naa thammuDu chaduvuth unnaaDu",
+    "english": "My younger brother is studying",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 82,
+    "telugu": "మా అమ్మ వంట చేస్తోంది",
+    "romanized": "Maa amma vanta chesth oondi",
+    "english": "My mother is cooking",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 82,
+    "telugu": "మా తల్లి తండ్రి",
+    "romanized": "Maa thalli thandri",
+    "english": "My mother and father",
+    "category": "FAMILY"
+  },
+  {
     "lessonId": 83,
     "telugu": "ఆకుపచ్చ",
     "romanized": "Aakupachcha",
     "english": "Green",
     "category": "COLOR"
+  },
+  {
+    "lessonId": 83,
+    "telugu": "పెదనాన్న",
+    "romanized": "Pedanaanna",
+    "english": "Paternal uncle (elder)",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 83,
+    "telugu": "పిన్ని",
+    "romanized": "Pinni",
+    "english": "Paternal aunt (younger)",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 83,
+    "telugu": "బాబాయి",
+    "romanized": "Baabaayi",
+    "english": "Paternal uncle (younger)",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 83,
+    "telugu": "నానమ్మ",
+    "romanized": "Nannamma",
+    "english": "Paternal grandmother",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 83,
+    "telugu": "అత్తయ్య",
+    "romanized": "Atthayya",
+    "english": "Aunt",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 83,
+    "telugu": "పెద్ద కుటుంబం",
+    "romanized": "Pedda kutumbam",
+    "english": "Large family",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 83,
+    "telugu": "నా మేనత్తకు ఒక కొడుకు ఉన్నాడు",
+    "romanized": "Naa menaatthaku oka koDuku unnaaDu",
+    "english": "My maternal aunt has one son",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 83,
+    "telugu": "మా తాతయ్య చాలా పెద్దవారు",
+    "romanized": "Maa thaathayya chaala peddavaaru",
+    "english": "My grandfather is very old",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 83,
+    "telugu": "పెద్ద కుటుంబంలో ఆనందం",
+    "romanized": "Pedda kutumbamloo aanandam",
+    "english": "Joy in a big family",
+    "category": "FAMILY"
   },
   {
     "lessonId": 84,
@@ -4928,11 +8617,137 @@
     "category": "COLOR"
   },
   {
+    "lessonId": 84,
+    "telugu": "మేము",
+    "romanized": "Memu",
+    "english": "We (exclusive)",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 84,
+    "telugu": "వారు",
+    "romanized": "Vaaru",
+    "english": "They",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 84,
+    "telugu": "అది",
+    "romanized": "Adhi",
+    "english": "It / That",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 84,
+    "telugu": "ఇది",
+    "romanized": "Idhi",
+    "english": "This",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 84,
+    "telugu": "నేను వెళ్తాను",
+    "romanized": "Naenu velthaanu",
+    "english": "I will go",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 84,
+    "telugu": "నీవు ఏం చేస్తావు?",
+    "romanized": "Neevu em chesth aavu?",
+    "english": "What will you do?",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 84,
+    "telugu": "అతను ఇక్కడ ఉన్నాడు",
+    "romanized": "Athanu ikkaDa unnaaDu",
+    "english": "He is here",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 84,
+    "telugu": "ఆమె పేరు ఏమిటి?",
+    "romanized": "Aame peru emiti?",
+    "english": "What is her name?",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 84,
+    "telugu": "నేను ఇక్కడ ఉన్నాను",
+    "romanized": "Naenu ikkaDa unnaanu",
+    "english": "I am here",
+    "category": "PRONOUN"
+  },
+  {
     "lessonId": 85,
     "telugu": "ఆరంజి",
     "romanized": "Aaranji",
     "english": "Orange",
     "category": "COLOR"
+  },
+  {
+    "lessonId": 85,
+    "telugu": "నా",
+    "romanized": "Naa",
+    "english": "My",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 85,
+    "telugu": "నీ",
+    "romanized": "Nee",
+    "english": "Your (informal)",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 85,
+    "telugu": "అతని",
+    "romanized": "Athani",
+    "english": "His",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 85,
+    "telugu": "ఆమె అది",
+    "romanized": "Aame adhi",
+    "english": "Her (possessive)",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 85,
+    "telugu": "మా",
+    "romanized": "Maa",
+    "english": "Our / My (intimate)",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 85,
+    "telugu": "నా పుస్తకం",
+    "romanized": "Naa pustakam",
+    "english": "My book",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 85,
+    "telugu": "నీ పేరు ఏమిటి?",
+    "romanized": "Nee peru emiti?",
+    "english": "What is your name?",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 85,
+    "telugu": "మా ఇల్లు పెద్దది",
+    "romanized": "Maa illu peddadi",
+    "english": "Our house is big",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 85,
+    "telugu": "నా పుస్తకం ఇది",
+    "romanized": "Naa pustakam idhi",
+    "english": "This is my book",
+    "category": "PRONOUN"
   },
   {
     "lessonId": 86,
@@ -4942,11 +8757,137 @@
     "category": "COLOR"
   },
   {
+    "lessonId": 86,
+    "telugu": "ఇవి",
+    "romanized": "Ivi",
+    "english": "These",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 86,
+    "telugu": "అవి",
+    "romanized": "Avi",
+    "english": "Those",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 86,
+    "telugu": "ఇక్కడ",
+    "romanized": "IkkaDa",
+    "english": "Here",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 86,
+    "telugu": "అక్కడ",
+    "romanized": "AkkaDa",
+    "english": "There",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 86,
+    "telugu": "ఇది నా పుస్తకం",
+    "romanized": "Idhi naa pustakam",
+    "english": "This is my book",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 86,
+    "telugu": "అది ఎక్కడ ఉంది?",
+    "romanized": "Adhi ekkaDa undi?",
+    "english": "Where is that?",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 86,
+    "telugu": "ఇవి మంచివి",
+    "romanized": "Ivi manchivi",
+    "english": "These are good",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 86,
+    "telugu": "అవి నావి కాదు",
+    "romanized": "Avi naavi kaadhu",
+    "english": "Those are not mine",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 86,
+    "telugu": "ఇది ఏమిటి?",
+    "romanized": "Idhi emiti?",
+    "english": "What is this?",
+    "category": "COMMON_PHRASE"
+  },
+  {
     "lessonId": 87,
     "telugu": " నలుపు",
     "romanized": "Nalupu",
     "english": "Black",
     "category": "COLOR"
+  },
+  {
+    "lessonId": 87,
+    "telugu": "మీ కుటుంబంలో ఎంత మంది ఉన్నారు?",
+    "romanized": "Mee kutumbamloo enta mandi unnaaru?",
+    "english": "How many in your family?",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 87,
+    "telugu": "మా కుటుంబంలో ఆరుగురు ఉన్నారు",
+    "romanized": "Maa kutumbamloo aaruguru unnaaru",
+    "english": "There are six in my family",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 87,
+    "telugu": "నా తండ్రి డాక్టరు",
+    "romanized": "Naa thandri DaakTaru",
+    "english": "My father is a doctor",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 87,
+    "telugu": "నా తల్లి ఉపాధ్యాయురాలు",
+    "romanized": "Naa thalli upaadhy aayuraalu",
+    "english": "My mother is a teacher",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 87,
+    "telugu": "మా అక్క హైదరాబాద్ లో ఉంది",
+    "romanized": "Maa akka Hyderabad loo undi",
+    "english": "My elder sister is in Hyderabad",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 87,
+    "telugu": "కుటుంబంతో కలిసి ఉండటం ఆనందం",
+    "romanized": "Kutumbam tho kalisi unDaTam aanandam",
+    "english": "Living with family is joyful",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 87,
+    "telugu": "మా నాన్న నాకు కథలు చెప్పారు",
+    "romanized": "Maa naanna naaku kathhalu cheppaaru",
+    "english": "My father told me stories",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 87,
+    "telugu": "మా అమ్మ నన్ను ప్రేమిస్తుంది",
+    "romanized": "Maa amma nannu premistundi",
+    "english": "My mother loves me",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 87,
+    "telugu": "మీ కుటుంబం బాగుందా?",
+    "romanized": "Mee kutumbam baagundaa?",
+    "english": "Is your family well?",
+    "category": "FAMILY"
   },
   {
     "lessonId": 88,
@@ -4956,11 +8897,67 @@
     "category": "COLOR"
   },
   {
-    "lessonId": 89,
-    "telugu": "బూడిద",
-    "romanized": "Boodida",
-    "english": "Gray",
-    "category": "COLOR"
+    "lessonId": 88,
+    "telugu": "మీ పేరు ఏమిటి?",
+    "romanized": "Mee peru emiti?",
+    "english": "What is your name?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 88,
+    "telugu": "నా పేరు సుమ",
+    "romanized": "Naa peru Suma",
+    "english": "My name is Suma",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 88,
+    "telugu": "మీరు ఎక్కడ నుండి?",
+    "romanized": "Meeru ekkaDa nundi?",
+    "english": "Where are you from?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 88,
+    "telugu": "నేను విజయవాడ నుండి",
+    "romanized": "Naenu Vijayavaada nundi",
+    "english": "I am from Vijayawada",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 88,
+    "telugu": "ఏం చదువుతున్నారు?",
+    "romanized": "Em chaduvuth unnaaru?",
+    "english": "What are you studying?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 88,
+    "telugu": "నేను ఇంజినీరింగ్ చదువుతున్నాను",
+    "romanized": "Naenu InjinieeriNg chaduvuth unnaanu",
+    "english": "I am studying engineering",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 88,
+    "telugu": "మీ వయస్సు ఎంత?",
+    "romanized": "Mee vayassu enta?",
+    "english": "What is your age?",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 88,
+    "telugu": "నాకు ఇరవై ఒక సంవత్సరాలు",
+    "romanized": "Naaku iravai oka samvatsaraalu",
+    "english": "I am twenty-one years old",
+    "category": "GREETING"
+  },
+  {
+    "lessonId": 88,
+    "telugu": "నా పేరు ___, మీ పేరు?",
+    "romanized": "Naa peru ___, mee peru?",
+    "english": "My name is ___, what is yours?",
+    "category": "GREETING"
   },
   {
     "lessonId": 90,
@@ -4968,6 +8965,69 @@
     "romanized": "Godhuma",
     "english": "Brown",
     "category": "COLOR"
+  },
+  {
+    "lessonId": 90,
+    "telugu": "మీ కుటుంబాన్ని పరిచయం చేయండి",
+    "romanized": "Mee kutumbaannu parichayam cheyyandi",
+    "english": "Introduce your family",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 90,
+    "telugu": "మీ తల్లి పేరు ఏమిటి?",
+    "romanized": "Mee thalli peru emiti?",
+    "english": "What is your mother's name?",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 90,
+    "telugu": "నా కుటుంబంలో ఐదుగురు ఉన్నారు",
+    "romanized": "Naa kutumbamloo ayiduguru unnaaru",
+    "english": "There are five in my family",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 90,
+    "telugu": "నేను నా కుటుంబాన్ని ప్రేమిస్తాను",
+    "romanized": "Naenu naa kutumbaanni premistaanu",
+    "english": "I love my family",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 90,
+    "telugu": "అతను ఎవరు?",
+    "romanized": "Athanu evaru?",
+    "english": "Who is he?",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 90,
+    "telugu": "ఆమె నా అక్క",
+    "romanized": "Aame naa akka",
+    "english": "She is my elder sister",
+    "category": "FAMILY"
+  },
+  {
+    "lessonId": 90,
+    "telugu": "ఇది నా ఇల్లు",
+    "romanized": "Idhi naa illu",
+    "english": "This is my house",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 90,
+    "telugu": "అది మా పాత ఇల్లు",
+    "romanized": "Adhi maa paatha illu",
+    "english": "That is our old house",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 90,
+    "telugu": "మా కుటుంబంలో ప్రేమ ఉంది",
+    "romanized": "Maa kutumbamloo prema undi",
+    "english": "There is love in our family",
+    "category": "FAMILY"
   },
   {
     "lessonId": 91,
@@ -5012,6 +9072,62 @@
     "category": "BODY"
   },
   {
+    "lessonId": 91,
+    "telugu": "రా",
+    "romanized": "Raa",
+    "english": "Come (imperative)",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 91,
+    "telugu": "వెళ్ళు",
+    "romanized": "VelLu",
+    "english": "Go",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 91,
+    "telugu": "తినండి",
+    "romanized": "Thinandi",
+    "english": "Please eat",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 91,
+    "telugu": "త్రాగండి",
+    "romanized": "Thraagandi",
+    "english": "Please drink",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 91,
+    "telugu": "నేను వస్తున్నాను",
+    "romanized": "Naenu vasth unnaanu",
+    "english": "I am coming",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 91,
+    "telugu": "నేను వెళ్తున్నాను",
+    "romanized": "Naenu velth unnaanu",
+    "english": "I am going",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 91,
+    "telugu": "అతను ఇప్పుడు తింటున్నాడు",
+    "romanized": "Athanu ippuDu thinthunnaaDu",
+    "english": "He is eating now",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 91,
+    "telugu": "ఏం తాగుతావు?",
+    "romanized": "Em thaaguthaavu?",
+    "english": "What will you drink?",
+    "category": "VERB"
+  },
+  {
     "lessonId": 92,
     "telugu": "కళ్ళు",
     "romanized": "Kallu",
@@ -5054,6 +9170,62 @@
     "category": "BODY"
   },
   {
+    "lessonId": 92,
+    "telugu": "చూడు",
+    "romanized": "ChooD u",
+    "english": "See / Look",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 92,
+    "telugu": "వినండి",
+    "romanized": "Vinandi",
+    "english": "Please listen",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 92,
+    "telugu": "నడవు",
+    "romanized": "NaDavu",
+    "english": "Walk",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 92,
+    "telugu": "పరుగెత్తు",
+    "romanized": "Parugetthu",
+    "english": "Run",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 92,
+    "telugu": "చదువు",
+    "romanized": "Chaduvu",
+    "english": "Read / Study",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 92,
+    "telugu": "రాయి",
+    "romanized": "Raayi",
+    "english": "Write",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 92,
+    "telugu": "నేను పాట వింటున్నాను",
+    "romanized": "Naenu paaTa vinthunnaanu",
+    "english": "I am listening to a song",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 92,
+    "telugu": "అతను వేగంగా పరుగెత్తుతున్నాడు",
+    "romanized": "Athanu vegamgaa parugetthu thunnaaDu",
+    "english": "He is running fast",
+    "category": "VERB"
+  },
+  {
     "lessonId": 93,
     "telugu": "ముక్కు",
     "romanized": "Mukku",
@@ -5096,6 +9268,62 @@
     "category": "BODY"
   },
   {
+    "lessonId": 93,
+    "telugu": "కావాలి",
+    "romanized": "Kaavali",
+    "english": "Want / Need",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 93,
+    "telugu": "అవసరం",
+    "romanized": "Avasaram",
+    "english": "Need / Necessary",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 93,
+    "telugu": "ఇష్టం",
+    "romanized": "IshTam",
+    "english": "Like / Preference",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 93,
+    "telugu": "నాకు నీళ్ళు కావాలి",
+    "romanized": "Naaku neelLu kaavali",
+    "english": "I want water",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 93,
+    "telugu": "నాకు సహాయం అవసరం",
+    "romanized": "Naaku sahaayam avasaram",
+    "english": "I need help",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 93,
+    "telugu": "నాకు అన్నం ఇష్టం",
+    "romanized": "Naaku annam ishTam",
+    "english": "I like rice",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 93,
+    "telugu": "నీకు ఏం కావాలి?",
+    "romanized": "Neeku em kaavali?",
+    "english": "What do you want?",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 93,
+    "telugu": "ఇది నాకు వద్దు",
+    "romanized": "Idhi naaku vaddhu",
+    "english": "I don't want this",
+    "category": "VERB"
+  },
+  {
     "lessonId": 94,
     "telugu": "చెవులు",
     "romanized": "Chevulu",
@@ -5138,6 +9366,62 @@
     "category": "BODY"
   },
   {
+    "lessonId": 94,
+    "telugu": "చేయగలను",
+    "romanized": "Cheyagalanu",
+    "english": "I can do",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 94,
+    "telugu": "చేయలేను",
+    "romanized": "CheyaLenu",
+    "english": "I cannot do",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 94,
+    "telugu": "చేయాలి",
+    "romanized": "Cheyyaali",
+    "english": "Must do / Should do",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 94,
+    "telugu": "వెళ్ళగలవా?",
+    "romanized": "VelLagalavaa?",
+    "english": "Can you go?",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 94,
+    "telugu": "నేను తెలుగు మాట్లాడగలను",
+    "romanized": "Naenu Telugu maaTlaaDagalanu",
+    "english": "I can speak Telugu",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 94,
+    "telugu": "నువ్వు ఇప్పుడే వెళ్ళాలి",
+    "romanized": "Nuvvu ippuDe velLaali",
+    "english": "You must go now",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 94,
+    "telugu": "ఇది చేయకూడదు",
+    "romanized": "Idhi cheyakoodadu",
+    "english": "This should not be done",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 94,
+    "telugu": "నేను ఈత కొట్టగలను",
+    "romanized": "Naenu etha koTTagalanu",
+    "english": "I can swim",
+    "category": "VERB"
+  },
+  {
     "lessonId": 95,
     "telugu": "చేతులు",
     "romanized": "Chethulu",
@@ -5180,6 +9464,62 @@
     "category": "BODY"
   },
   {
+    "lessonId": 95,
+    "telugu": "నేను తింటున్నాను",
+    "romanized": "Naenu thinthunnaanu",
+    "english": "I am eating",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 95,
+    "telugu": "నీవు చదువుతున్నావు",
+    "romanized": "Neevu chaduvuth unnaavu",
+    "english": "You are studying",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 95,
+    "telugu": "అతను పాడుతున్నాడు",
+    "romanized": "Athanu paaDuth unnaaDu",
+    "english": "He is singing",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 95,
+    "telugu": "ఆమె వంట చేస్తోంది",
+    "romanized": "Aame vanta chesth oondi",
+    "english": "She is cooking",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 95,
+    "telugu": "మేము ఆడుతున్నాం",
+    "romanized": "Memu aaD uth unnaamu",
+    "english": "We are playing",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 95,
+    "telugu": "వారు మాట్లాడుతున్నారు",
+    "romanized": "Vaaru maaTlaaDuth unnaaru",
+    "english": "They are talking",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 95,
+    "telugu": "పిల్లలు నవ్వుతున్నారు",
+    "romanized": "Pillalu navvuth unnaaru",
+    "english": "Children are laughing",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 95,
+    "telugu": "కుక్క పరుగెత్తుతోంది",
+    "romanized": "Kukka parugetthu thoondi",
+    "english": "The dog is running",
+    "category": "VERB"
+  },
+  {
     "lessonId": 96,
     "telugu": "కాళ్ళు",
     "romanized": "Kaallu",
@@ -5222,6 +9562,62 @@
     "category": "BODY"
   },
   {
+    "lessonId": 96,
+    "telugu": "నిద్రపోవు",
+    "romanized": "NidraPovu",
+    "english": "Sleep",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 96,
+    "telugu": "లేవు",
+    "romanized": "Levu",
+    "english": "Wake up / Get up",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 96,
+    "telugu": "స్నానం చేయు",
+    "romanized": "Snaanam cheyyu",
+    "english": "Bathe",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 96,
+    "telugu": "దంతాలు తోముకో",
+    "romanized": "Danthaalu thomuko",
+    "english": "Brush teeth",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 96,
+    "telugu": "నేను ఆరు గంటలకు లేస్తాను",
+    "romanized": "Naenu aaru gantalaku laest haanu",
+    "english": "I wake up at six o'clock",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 96,
+    "telugu": "నేను ప్రతిరోజూ స్నానం చేస్తాను",
+    "romanized": "Naenu pratiroj oo snaanam chesthaanu",
+    "english": "I bathe every day",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 96,
+    "telugu": "అమ్మ నాకు అన్నం పెట్టింది",
+    "romanized": "Amma naaku annam peTTindi",
+    "english": "Mother served me food",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 96,
+    "telugu": "నేను రాత్రి పది గంటలకు నిద్రపోతాను",
+    "romanized": "Naenu raatri padi gantalaku nidraPothaanu",
+    "english": "I sleep at ten at night",
+    "category": "VERB"
+  },
+  {
     "lessonId": 97,
     "telugu": "నోరు",
     "romanized": "Nooru",
@@ -5264,6 +9660,62 @@
     "category": "BODY"
   },
   {
+    "lessonId": 97,
+    "telugu": "నేను పని చేస్తున్నాను",
+    "romanized": "Naenu pani chesth unnaanu",
+    "english": "I am working",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 97,
+    "telugu": "నేను పాఠం నేర్చుకుంటున్నాను",
+    "romanized": "Naenu paaTham nerchukunTunnaanu",
+    "english": "I am learning a lesson",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 97,
+    "telugu": "అతను ఉత్తరం రాస్తున్నాడు",
+    "romanized": "Athanu uttaram raasth unnaaDu",
+    "english": "He is writing a letter",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 97,
+    "telugu": "ఆమె పుస్తకం చదువుతోంది",
+    "romanized": "Aame pustakam chaduvuth oondi",
+    "english": "She is reading a book",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 97,
+    "telugu": "మేము కలిసి ఆడుతున్నాం",
+    "romanized": "Memu kalisi aaD uth unnaamu",
+    "english": "We are playing together",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 97,
+    "telugu": "పిల్లలు ఆడుతూ పాడుతున్నారు",
+    "romanized": "Pillalu aaD uthu paaDuth unnaaru",
+    "english": "Children are playing and singing",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 97,
+    "telugu": "నేను ప్రతిరోజూ వ్యాయామం చేస్తాను",
+    "romanized": "Naenu pratiroj oo vyaayaamam chesthaanu",
+    "english": "I exercise every day",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 97,
+    "telugu": "వారు కలిసి వంట చేస్తున్నారు",
+    "romanized": "Vaaru kalisi vanta chesth unnaaru",
+    "english": "They are cooking together",
+    "category": "VERB"
+  },
+  {
     "lessonId": 98,
     "telugu": "దంతాలు",
     "romanized": "Dhanthaalu",
@@ -5306,46 +9758,60 @@
     "category": "BODY"
   },
   {
-    "lessonId": 99,
-    "telugu": "జుట్టు",
-    "romanized": "Juttu",
-    "english": "Hair",
-    "category": "BODY"
+    "lessonId": 98,
+    "telugu": "మార్కెట్",
+    "romanized": "MaarkeTT",
+    "english": "Market",
+    "category": "PLACE"
   },
   {
-    "lessonId": 99,
-    "telugu": "మెడ",
-    "romanized": "Meda",
-    "english": "Neck",
-    "category": "BODY"
+    "lessonId": 98,
+    "telugu": "కొనండి",
+    "romanized": "Konandi",
+    "english": "Please buy",
+    "category": "VERB"
   },
   {
-    "lessonId": 99,
-    "telugu": "ఛాతి",
-    "romanized": "Chaathi",
-    "english": "Chest",
-    "category": "BODY"
+    "lessonId": 98,
+    "telugu": "అమ్మండి",
+    "romanized": "Ammandi",
+    "english": "Please sell",
+    "category": "VERB"
   },
   {
-    "lessonId": 99,
-    "telugu": "వీపు",
-    "romanized": "Veepu",
-    "english": "Back",
-    "category": "BODY"
+    "lessonId": 98,
+    "telugu": "ధర",
+    "romanized": "Dhara",
+    "english": "Price",
+    "category": "COMMON_PHRASE"
   },
   {
-    "lessonId": 99,
-    "telugu": "అడుగు",
-    "romanized": "Adugu",
-    "english": "Sole",
-    "category": "BODY"
+    "lessonId": 98,
+    "telugu": "ఇది ఎంత?",
+    "romanized": "Idhi enta?",
+    "english": "How much is this?",
+    "category": "COMMON_PHRASE"
   },
   {
-    "lessonId": 99,
-    "telugu": "చరన",
-    "romanized": "Charana",
-    "english": "Legs (formal)",
-    "category": "BODY"
+    "lessonId": 98,
+    "telugu": "చవకగా చేయండి",
+    "romanized": "Chavakagaa cheyyandi",
+    "english": "Make it cheaper / Bargain",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 98,
+    "telugu": "నాకు రెండు కేజీలు కావాలి",
+    "romanized": "Naaku rendu keejilu kaavali",
+    "english": "I need two kilograms",
+    "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 98,
+    "telugu": "ఇది చాలా ఖర్చు",
+    "romanized": "Idhi chaala kharchu",
+    "english": "This is very expensive",
+    "category": "ADJECTIVE"
   },
   {
     "lessonId": 100,
@@ -5388,6 +9854,62 @@
     "romanized": "Hrudaya",
     "english": "Heart",
     "category": "BODY"
+  },
+  {
+    "lessonId": 100,
+    "telugu": "నేను వెళ్తాను రా",
+    "romanized": "Naenu velthaanu raa",
+    "english": "I will go, okay?",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 100,
+    "telugu": "మీరు ఏం చేస్తున్నారు?",
+    "romanized": "Meeru em chesth unnaaru?",
+    "english": "What are you doing?",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 100,
+    "telugu": "నేను చదువుతున్నాను",
+    "romanized": "Naenu chaduvuth unnaanu",
+    "english": "I am studying",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 100,
+    "telugu": "అతను ఏం చేయాలి?",
+    "romanized": "Athanu em cheyyaali?",
+    "english": "What should he do?",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 100,
+    "telugu": "నేను తెలుగు నేర్చుకుంటున్నాను",
+    "romanized": "Naenu Telugu nerchukunTunnaanu",
+    "english": "I am learning Telugu",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 100,
+    "telugu": "ఇది చేయడం నాకు ఇష్టం",
+    "romanized": "Idhi cheyaDam naaku ishTam",
+    "english": "I like doing this",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 100,
+    "telugu": "నువ్వు బాగా మాట్లాడావు",
+    "romanized": "Nuvvu baagaa maaTlaaDaavu",
+    "english": "You spoke well",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 100,
+    "telugu": "కొనసాగించు",
+    "romanized": "Konasaaginchu",
+    "english": "Continue",
+    "category": "VERB"
   },
   {
     "lessonId": 101,
@@ -5460,6 +9982,62 @@
     "category": "COMMON_PHRASE"
   },
   {
+    "lessonId": 101,
+    "telugu": "ఆహారం",
+    "romanized": "Aahaaram",
+    "english": "Food",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "అన్నం తింటాను",
+    "romanized": "Annam thinthaanu",
+    "english": "I will eat rice",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "కూర వేడిగా ఉంది",
+    "romanized": "Koora vaeDhigaa undi",
+    "english": "The curry is hot",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "పాలు తాగుతాను",
+    "romanized": "Paalu thaaguthaanu",
+    "english": "I will drink milk",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "నాకు ఏం తినాలి?",
+    "romanized": "Naaku em thinaali?",
+    "english": "What should I eat?",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "వేడివేడి అన్నం చాలా రుచిగా ఉంటుంది",
+    "romanized": "VaeDhi vaeDhi annam chaala ruchigaa unTundi",
+    "english": "Piping hot rice is very tasty",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "నేను కూర వండాను",
+    "romanized": "Naenu koora vandaanu",
+    "english": "I cooked curry",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 101,
+    "telugu": "పళ్ళు తినండి",
+    "romanized": "PalLu thinandi",
+    "english": "Please eat fruits",
+    "category": "FOOD"
+  },
+  {
     "lessonId": 102,
     "telugu": "ఎక్కడ?",
     "romanized": "Ekkada?",
@@ -5530,6 +10108,62 @@
     "category": "COMMON_PHRASE"
   },
   {
+    "lessonId": 102,
+    "telugu": "మామిడి పండు",
+    "romanized": "Maamidi pandu",
+    "english": "Mango",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "అరటి పండు",
+    "romanized": "AraTi pandu",
+    "english": "Banana",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "నారింజ",
+    "romanized": "Naarinja",
+    "english": "Orange",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "ద్రాక్ష",
+    "romanized": "Draaksha",
+    "english": "Grapes",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "చాయ్",
+    "romanized": "Chaayi",
+    "english": "Tea",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "కాఫీ",
+    "romanized": "Kaafi",
+    "english": "Coffee",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "నాకు మామిడి రసం ఇష్టం",
+    "romanized": "Naaku maamidi rasam ishTam",
+    "english": "I like mango juice",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 102,
+    "telugu": "ఒక కప్పు కాఫీ ఇవ్వండి",
+    "romanized": "Oka kappu kaafi ivvandi",
+    "english": "Please give a cup of coffee",
+    "category": "FOOD"
+  },
+  {
     "lessonId": 103,
     "telugu": "ఏమి?",
     "romanized": "Emi?",
@@ -5600,6 +10234,62 @@
     "category": "COMMON_PHRASE"
   },
   {
+    "lessonId": 103,
+    "telugu": "మిర్చి",
+    "romanized": "Mirchi",
+    "english": "Chilli",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "ఉప్పు",
+    "romanized": "Uppu",
+    "english": "Salt",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "పప్పు",
+    "romanized": "Pappu",
+    "english": "Lentils / Dal",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "పసుపు",
+    "romanized": "Pasuppu",
+    "english": "Turmeric",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "ఇది చాలా కారంగా ఉంది",
+    "romanized": "Idhi chaala kaaramgaa undi",
+    "english": "This is very spicy",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "కొంచెం ఉప్పు వేయి",
+    "romanized": "Konchem uppu veyyi",
+    "english": "Add a little salt",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "ఈ కూర చాలా రుచిగా ఉంది",
+    "romanized": "Ee koora chaala ruchigaa undi",
+    "english": "This curry is very tasty",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 103,
+    "telugu": "తీపి వంట ఇష్టం",
+    "romanized": "Theepi vanta ishTam",
+    "english": "I like sweet dishes",
+    "category": "FOOD"
+  },
+  {
     "lessonId": 104,
     "telugu": "ఎవరు?",
     "romanized": "Evaru?",
@@ -5670,6 +10360,62 @@
     "category": "COMMON_PHRASE"
   },
   {
+    "lessonId": 104,
+    "telugu": "మెనూ చూపించండి",
+    "romanized": "Menoo choopiNchandi",
+    "english": "Please show the menu",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "నాకు ఒక భోజనం కావాలి",
+    "romanized": "Naaku oka bhoojanam kaavali",
+    "english": "I want one meal",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "బిల్లు ఇవ్వండి",
+    "romanized": "Billu ivvandi",
+    "english": "Please give the bill",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "ఇది చాలా రుచిగా ఉంది",
+    "romanized": "Idhi chaala ruchigaa undi",
+    "english": "This is very tasty",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "నీళ్ళు తీసుకురండి",
+    "romanized": "Neellu theesukurandi",
+    "english": "Please bring water",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "మీ స్పెషల్ ఏమిటి?",
+    "romanized": "Mee speshal emiti?",
+    "english": "What is your special dish?",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "నాకు ఇడ్లీ చట్నీ కావాలి",
+    "romanized": "Naaku iDlee chaTnee kaavali",
+    "english": "I want idli with chutney",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 104,
+    "telugu": "ఇక్కడ భోజనం చాలా బాగుంటుంది",
+    "romanized": "IkkaDa bhoojanam chaala baagunTundi",
+    "english": "Food here is very good",
+    "category": "FOOD"
+  },
+  {
     "lessonId": 105,
     "telugu": "ఎందుకు?",
     "romanized": "Endhuku?",
@@ -5740,6 +10486,62 @@
     "category": "COMMON_PHRASE"
   },
   {
+    "lessonId": 105,
+    "telugu": "వండు",
+    "romanized": "Vandu",
+    "english": "Cook",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "వేయించు",
+    "romanized": "Veyimchu",
+    "english": "Fry",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "ఉడికించు",
+    "romanized": "UDikinchu",
+    "english": "Boil",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "కాల్చు",
+    "romanized": "Kaalchu",
+    "english": "Roast / Bake",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "కోయి",
+    "romanized": "Kooyi",
+    "english": "Cut / Chop",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "అమ్మ ఇప్పుడు వంట చేస్తోంది",
+    "romanized": "Amma ippuDu vanta chesth oondi",
+    "english": "Mother is cooking now",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "నేను కూర వేయిస్తాను",
+    "romanized": "Naenu koora veyisth aanu",
+    "english": "I will fry the curry",
+    "category": "VERB"
+  },
+  {
+    "lessonId": 105,
+    "telugu": "అన్నం ఉడికింది",
+    "romanized": "Annam uDikindi",
+    "english": "The rice is boiled",
+    "category": "VERB"
+  },
+  {
     "lessonId": 106,
     "telugu": "అవును",
     "romanized": "Avunu",
@@ -5810,6 +10612,62 @@
     "category": "COMMON_PHRASE"
   },
   {
+    "lessonId": 106,
+    "telugu": "ఆకలి",
+    "romanized": "Aakali",
+    "english": "Hunger",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "దప్పిక",
+    "romanized": "Dhappika",
+    "english": "Thirst",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "నాకు ఆకలిగా ఉంది",
+    "romanized": "Naaku akaligaa undi",
+    "english": "I am hungry",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "నాకు దప్పికగా ఉంది",
+    "romanized": "Naaku dhappikagaa undi",
+    "english": "I am thirsty",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "ఏమైనా తినండి",
+    "romanized": "Emainaa thinandi",
+    "english": "Eat something",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "నీళ్ళు తాగు",
+    "romanized": "Neellu thaagu",
+    "english": "Drink water",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "నాకు చాలా ఆకలిగా ఉంది, ఏమైనా తినాలి",
+    "romanized": "Naaku chaala akaligaa undi, emainaa thinaali",
+    "english": "I'm very hungry, I need to eat something",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 106,
+    "telugu": "మీకు దప్పికగా ఉందా?",
+    "romanized": "Meeku dhappikagaa undaa?",
+    "english": "Are you thirsty?",
+    "category": "FOOD"
+  },
+  {
     "lessonId": 107,
     "telugu": "కాదు",
     "romanized": "Kaadhu",
@@ -5880,74 +10738,60 @@
     "category": "COMMON_PHRASE"
   },
   {
-    "lessonId": 108,
-    "telugu": "బాగుంది",
-    "romanized": "Baagundi",
-    "english": "It's good",
-    "category": "COMMON_PHRASE"
+    "lessonId": 107,
+    "telugu": "ఆర్డర్ చేయండి",
+    "romanized": "AarDar cheyyandi",
+    "english": "Place an order",
+    "category": "FOOD"
   },
   {
-    "lessonId": 108,
-    "telugu": "చాలా",
-    "romanized": "Chaala",
-    "english": "Very/Many",
-    "category": "COMMON_PHRASE"
+    "lessonId": 107,
+    "telugu": "ఏమి తీసుకొస్తారు?",
+    "romanized": "Emi theesukost aarru?",
+    "english": "What will you bring?",
+    "category": "FOOD"
   },
   {
-    "lessonId": 108,
-    "telugu": "కొంచెం",
-    "romanized": "Konchem",
-    "english": "Little",
-    "category": "COMMON_PHRASE"
+    "lessonId": 107,
+    "telugu": "నాకు దోశ కావాలి",
+    "romanized": "Naaku dosha kaavali",
+    "english": "I want dosa",
+    "category": "FOOD"
   },
   {
-    "lessonId": 108,
-    "telugu": "ఎక్కువ",
-    "romanized": "Ekkuvu",
-    "english": "More",
-    "category": "COMMON_PHRASE"
+    "lessonId": 107,
+    "telugu": "ఇంకేం కావాలి?",
+    "romanized": "Inkem kaavali?",
+    "english": "What else do you need?",
+    "category": "FOOD"
   },
   {
-    "lessonId": 108,
-    "telugu": "కాస్త",
-    "romanized": "Kaasta",
-    "english": "Some",
-    "category": "COMMON_PHRASE"
+    "lessonId": 107,
+    "telugu": "అంతే చాలు",
+    "romanized": "Anthe chaalu",
+    "english": "That's enough",
+    "category": "FOOD"
   },
   {
-    "lessonId": 108,
-    "telugu": "అందరూ",
-    "romanized": "Andaru",
-    "english": "Everyone",
-    "category": "COMMON_PHRASE"
+    "lessonId": 107,
+    "telugu": "నీళ్ళు కూడా తీసుకురండి",
+    "romanized": "Neellu kooDaa theesukurandi",
+    "english": "Please bring water too",
+    "category": "FOOD"
   },
   {
-    "lessonId": 108,
-    "telugu": "ఎవరైనా",
-    "romanized": "Evaina",
-    "english": "Anyone",
-    "category": "COMMON_PHRASE"
+    "lessonId": 107,
+    "telugu": "ఇది ఎంత అవుతుంది?",
+    "romanized": "Idhi enta avutundi?",
+    "english": "How much will this cost?",
+    "category": "FOOD"
   },
   {
-    "lessonId": 108,
-    "telugu": "ఏమీ",
-    "romanized": "Emi",
-    "english": "Something",
-    "category": "COMMON_PHRASE"
-  },
-  {
-    "lessonId": 108,
-    "telugu": "� ничего",
-    "romanized": "Ila",
-    "english": "Like this",
-    "category": "COMMON_PHRASE"
-  },
-  {
-    "lessonId": 108,
-    "telugu": "అలా",
-    "romanized": "Ala",
-    "english": "Like that",
-    "category": "COMMON_PHRASE"
+    "lessonId": 107,
+    "telugu": "రుచిగా ఉంది, చాలా ధన్యవాదాలు",
+    "romanized": "Ruchigaa undi, chaala dhanyavaadalu",
+    "english": "It's tasty, thank you very much",
+    "category": "FOOD"
   },
   {
     "lessonId": 109,
@@ -6018,6 +10862,62 @@
     "romanized": "Ika",
     "english": "Now",
     "category": "COMMON_PHRASE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "రుచి",
+    "romanized": "Ruchi",
+    "english": "Taste",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "తీపి",
+    "romanized": "Theepi",
+    "english": "Sweet",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "కారం",
+    "romanized": "Kaaram",
+    "english": "Spicy / Pungent",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "పుల్లగా",
+    "romanized": "Pullagaa",
+    "english": "Sour",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "వేడి",
+    "romanized": "Vaedhi",
+    "english": "Hot / Warm",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "చల్లగా",
+    "romanized": "Challagaa",
+    "english": "Cold / Cool",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "ఇది చాలా తీపిగా ఉంది",
+    "romanized": "Idhi chaala theepigaa undi",
+    "english": "This is very sweet",
+    "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 109,
+    "telugu": "ఈ ఆహారం నాకు నచ్చింది",
+    "romanized": "Ee aahaaram naaku nachchindi",
+    "english": "I liked this food",
+    "category": "FOOD"
   },
   {
     "lessonId": 110,
@@ -6090,6 +10990,62 @@
     "category": "COMMON_PHRASE"
   },
   {
+    "lessonId": 110,
+    "telugu": "మీకు ఏం ఇష్టమైన ఆహారం?",
+    "romanized": "Meeku em ishTamaina aahaaram?",
+    "english": "What is your favourite food?",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "నాకు బిర్యానీ ఇష్టం",
+    "romanized": "Naaku biryaanee ishTam",
+    "english": "I like biryani",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "ఈ రోజు మీరు ఏం తిన్నారు?",
+    "romanized": "Ee roju meeru em thinnaaru?",
+    "english": "What did you eat today?",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "నేను ఉదయం ఇడ్లీ తిన్నాను",
+    "romanized": "Naenu udayam iDlee tinnaanu",
+    "english": "I ate idli in the morning",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "రుచికరమైన భోజనం",
+    "romanized": "Ruchikaramaina bhoojanam",
+    "english": "Delicious meal",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "నేను నీళ్ళు తాగాను",
+    "romanized": "Naenu neellu thaagaanu",
+    "english": "I drank water",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "ఆమె కాఫీ తాగుతోంది",
+    "romanized": "Aame kaafi thaaguthoondi",
+    "english": "She is drinking coffee",
+    "category": "FOOD"
+  },
+  {
+    "lessonId": 110,
+    "telugu": "భోజనం తయారైంది",
+    "romanized": "Bhoojanam thayaaraindi",
+    "english": "The meal is ready",
+    "category": "FOOD"
+  },
+  {
     "lessonId": 111,
     "telugu": "నమస్తే",
     "romanized": "Namaste",
@@ -6160,6 +11116,62 @@
     "category": "NUMBER"
   },
   {
+    "lessonId": 111,
+    "telugu": "అర్ధరాత్రి",
+    "romanized": "Ardharaatri",
+    "english": "Midnight",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "సూర్యోదయం",
+    "romanized": "Sooryodayam",
+    "english": "Sunrise",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "సూర్యాస్తమయం",
+    "romanized": "Sooryaasthamayam",
+    "english": "Sunset",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "ఇప్పుడు ఎంత అయింది?",
+    "romanized": "Ippudu enta ayindi?",
+    "english": "What time is it now?",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "ఇప్పుడు ఉదయం ఎనిమిది గంటలు",
+    "romanized": "Ippudu udayam enimidi ganTalu",
+    "english": "It is eight in the morning now",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "రాత్రి పదకొండు గంటలకు నిద్రపోతాను",
+    "romanized": "Raatri padakondu ganTalaku nidraPothaanu",
+    "english": "I sleep at eleven at night",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "మధ్యాహ్నం తర్వాత వస్తాను",
+    "romanized": "Madhyaahnnam tharvaata vastaanu",
+    "english": "I will come after noon",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 111,
+    "telugu": "ఇప్పుడు చాలా ఆలస్యం అయింది",
+    "romanized": "Ippudu chaala aalasyam ayindi",
+    "english": "It has become very late now",
+    "category": "TIME"
+  },
+  {
     "lessonId": 112,
     "telugu": "మంచి రోజు",
     "romanized": "Manchi roju",
@@ -6230,6 +11242,62 @@
     "category": "FAMILY"
   },
   {
+    "lessonId": 112,
+    "telugu": "సోమవారం",
+    "romanized": "Somavaaram",
+    "english": "Monday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "మంగళవారం",
+    "romanized": "Mangalavaaram",
+    "english": "Tuesday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "బుధవారం",
+    "romanized": "Budhavaaram",
+    "english": "Wednesday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "గురువారం",
+    "romanized": "Guruvaaaram",
+    "english": "Thursday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "శుక్రవారం",
+    "romanized": "Shukravaaaram",
+    "english": "Friday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "శనివారం",
+    "romanized": "Shanivaaaram",
+    "english": "Saturday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "ఆదివారం",
+    "romanized": "Aadivaaaram",
+    "english": "Sunday",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 112,
+    "telugu": "ఈ ఆదివారం మేము పిక్నిక్ కి వెళ్తాం",
+    "romanized": "Ee aadivaaaram memu picnik ki velthaamu",
+    "english": "This Sunday we will go on a picnic",
+    "category": "TIME"
+  },
+  {
     "lessonId": 113,
     "telugu": "రెండు",
     "romanized": "Rendu",
@@ -6300,6 +11368,62 @@
     "category": "VERB"
   },
   {
+    "lessonId": 113,
+    "telugu": "వేసవి",
+    "romanized": "Vesavi",
+    "english": "Summer",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "వర్షాకాలం",
+    "romanized": "Varshaakaalam",
+    "english": "Rainy season",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "శీతాకాలం",
+    "romanized": "Sheetaakaalam",
+    "english": "Winter",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "వేడిగా ఉంది",
+    "romanized": "VaeDhigaa undi",
+    "english": "It is hot",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "చలిగా ఉంది",
+    "romanized": "Chaligaa undi",
+    "english": "It is cold",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "వర్షం పడుతోంది",
+    "romanized": "Varsham paDutoondi",
+    "english": "It is raining",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "ఈ రోజు వాతావరణం బాగుంది",
+    "romanized": "Ee roju vaathavaaranam baagundi",
+    "english": "Today's weather is nice",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 113,
+    "telugu": "వేసవిలో చాలా వేడిగా ఉంటుంది",
+    "romanized": "Vesaviloo chaala vaeDhigaa unTundi",
+    "english": "It is very hot in summer",
+    "category": "WEATHER"
+  },
+  {
     "lessonId": 114,
     "telugu": "నాలుగు",
     "romanized": "Naalugu",
@@ -6370,6 +11494,62 @@
     "category": "VERB"
   },
   {
+    "lessonId": 114,
+    "telugu": "ఉత్తరం",
+    "romanized": "Uttaram",
+    "english": "North",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "దక్షిణం",
+    "romanized": "Dakshinam",
+    "english": "South",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "తూర్పు",
+    "romanized": "Toorpu",
+    "english": "East",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "పడమర",
+    "romanized": "PaDamara",
+    "english": "West",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "ఎడమ వైపు తిరుగు",
+    "romanized": "EDama vaipu thirugu",
+    "english": "Turn left",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "కుడి వైపు తిరుగు",
+    "romanized": "KuDi vaipu thirugu",
+    "english": "Turn right",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "నేరుగా వెళ్ళు",
+    "romanized": "Nerugaa velLu",
+    "english": "Go straight",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 114,
+    "telugu": "రైల్వే స్టేషన్ ఎక్కడ ఉంది?",
+    "romanized": "Railve sTeshn ekkaDa undi?",
+    "english": "Where is the railway station?",
+    "category": "DIRECTION"
+  },
+  {
     "lessonId": 115,
     "telugu": "తల్లి",
     "romanized": "Thalli",
@@ -6440,6 +11620,62 @@
     "category": "FOOD"
   },
   {
+    "lessonId": 115,
+    "telugu": "బ్యాంకు",
+    "romanized": "Byaanku",
+    "english": "Bank",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "ఆసుపత్రి",
+    "romanized": "Aasupathri",
+    "english": "Hospital",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "పోలీస్ స్టేషన్",
+    "romanized": "Polees sTeshun",
+    "english": "Police station",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "పాఠశాల",
+    "romanized": "Paathashaala",
+    "english": "School",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "దుకాణం",
+    "romanized": "Dukaanam",
+    "english": "Shop / Store",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "బస్ స్టాండ్",
+    "romanized": "Bas sTaanD",
+    "english": "Bus stand",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "నేను బ్యాంకుకి వెళ్తున్నాను",
+    "romanized": "Naenu byaankuki velthunnaanu",
+    "english": "I am going to the bank",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 115,
+    "telugu": "ఆసుపత్రి దగ్గర ఉంది",
+    "romanized": "Aasupathri daggara undi",
+    "english": "The hospital is nearby",
+    "category": "PLACE"
+  },
+  {
     "lessonId": 116,
     "telugu": "అక్క",
     "romanized": "Akka",
@@ -6510,6 +11746,62 @@
     "category": "FOOD"
   },
   {
+    "lessonId": 116,
+    "telugu": "ఎక్కడ ఉంది?",
+    "romanized": "EkkaDa undi?",
+    "english": "Where is it?",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "దగ్గరలో ఉందా?",
+    "romanized": "Daggaraloo undaa?",
+    "english": "Is it nearby?",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "ఎంత దూరం?",
+    "romanized": "Enta doaram?",
+    "english": "How far is it?",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "బస్ స్టాండ్ ఎక్కడ ఉంది?",
+    "romanized": "Bas sTaanD ekkaDa undi?",
+    "english": "Where is the bus stand?",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "ఇక్కడ నుండి నేరుగా వెళ్ళండి",
+    "romanized": "IkkaDa nundi nerugaa velLandi",
+    "english": "Go straight from here",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "మొదటి మలుపులో ఎడమ వైపు తిరుగు",
+    "romanized": "ModaTi malupuloo eDama vaipu thirugu",
+    "english": "Turn left at the first junction",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "అది చాలా దూరంలో ఉంది",
+    "romanized": "Adhi chaala dooramloo undi",
+    "english": "That is very far",
+    "category": "DIRECTION"
+  },
+  {
+    "lessonId": 116,
+    "telugu": "నాకు దారి తెలియదు",
+    "romanized": "Naaku daari teliyadu",
+    "english": "I don't know the way",
+    "category": "DIRECTION"
+  },
+  {
     "lessonId": 117,
     "telugu": "చేయు",
     "romanized": "Cheyyu",
@@ -6580,74 +11872,60 @@
     "category": "TIME"
   },
   {
-    "lessonId": 118,
-    "telugu": "తిను",
-    "romanized": "Thinu",
-    "english": "Eat",
-    "category": "VERB"
+    "lessonId": 117,
+    "telugu": "బస్సు",
+    "romanized": "Bassu",
+    "english": "Bus",
+    "category": "TRANSPORT"
   },
   {
-    "lessonId": 118,
-    "telugu": "అన్నం",
-    "romanized": "Annam",
-    "english": "Rice/Meals",
-    "category": "FOOD"
+    "lessonId": 117,
+    "telugu": "రైలు",
+    "romanized": "Railu",
+    "english": "Train",
+    "category": "TRANSPORT"
   },
   {
-    "lessonId": 118,
-    "telugu": "జల్",
-    "romanized": "Jalam",
-    "english": "Water",
-    "category": "FOOD"
+    "lessonId": 117,
+    "telugu": "కారు",
+    "romanized": "Kaaru",
+    "english": "Car",
+    "category": "TRANSPORT"
   },
   {
-    "lessonId": 118,
-    "telugu": "పాలు",
-    "romanized": "Paalu",
-    "english": "Milk",
-    "category": "FOOD"
+    "lessonId": 117,
+    "telugu": "విమానం",
+    "romanized": "Vimaanam",
+    "english": "Aeroplane",
+    "category": "TRANSPORT"
   },
   {
-    "lessonId": 118,
-    "telugu": "కూర",
-    "romanized": "Kooru",
-    "english": "Curry",
-    "category": "FOOD"
+    "lessonId": 117,
+    "telugu": "ఆటో",
+    "romanized": "AaTo",
+    "english": "Auto-rickshaw",
+    "category": "TRANSPORT"
   },
   {
-    "lessonId": 118,
-    "telugu": "పిండి",
-    "romanized": "Pindi",
-    "english": "Flour/Bread",
-    "category": "FOOD"
+    "lessonId": 117,
+    "telugu": "నేను బస్సులో వెళ్తాను",
+    "romanized": "Naenu bassulo velthaanu",
+    "english": "I will go by bus",
+    "category": "TRANSPORT"
   },
   {
-    "lessonId": 118,
-    "telugu": "ఇప్పుడు",
-    "romanized": "Ipputha",
-    "english": "Now",
-    "category": "TIME"
+    "lessonId": 117,
+    "telugu": "రైలు ఎంత సేపు ఆగుతుంది?",
+    "romanized": "Railu enta seepu aagutundi?",
+    "english": "How long will the train stop?",
+    "category": "TRANSPORT"
   },
   {
-    "lessonId": 118,
-    "telugu": "తర్వాత",
-    "romanized": "Tharvaatha",
-    "english": "Later/After",
-    "category": "TIME"
-  },
-  {
-    "lessonId": 118,
-    "telugu": "ముందు",
-    "romanized": "Moondu",
-    "english": "Before",
-    "category": "TIME"
-  },
-  {
-    "lessonId": 118,
-    "telugu": "తూర్పు",
-    "romanized": "Thoorupu",
-    "english": "East",
-    "category": "DIRECTION"
+    "lessonId": 117,
+    "telugu": "విమాన ప్రయాణం ఇష్టం",
+    "romanized": "Vimaan pravaanam ishTam",
+    "english": "I like air travel",
+    "category": "TRANSPORT"
   },
   {
     "lessonId": 119,
@@ -6718,6 +11996,62 @@
     "romanized": "Pedda",
     "english": "Big",
     "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "నది",
+    "romanized": "Nadi",
+    "english": "River",
+    "category": "NATURE"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "కొండ",
+    "romanized": "Konda",
+    "english": "Hill / Mountain",
+    "category": "NATURE"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "సముద్రం",
+    "romanized": "Samudram",
+    "english": "Sea / Ocean",
+    "category": "NATURE"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "అడవి",
+    "romanized": "ADavi",
+    "english": "Forest",
+    "category": "NATURE"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "పువ్వు",
+    "romanized": "Puvvu",
+    "english": "Flower",
+    "category": "NATURE"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "చెట్టు",
+    "romanized": "ChetTu",
+    "english": "Tree",
+    "category": "NATURE"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "మేఘాలు కమ్ముకున్నాయి",
+    "romanized": "Meghaalu kammukunnayi",
+    "english": "Clouds have gathered",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 119,
+    "telugu": "నది ప్రక్కన నడవడం ఆనందంగా ఉంది",
+    "romanized": "Nadi prakkan naDavaDam aanandamgaa undi",
+    "english": "Walking beside the river is pleasant",
+    "category": "NATURE"
   },
   {
     "lessonId": 120,
@@ -6788,5 +12122,61 @@
     "romanized": "Thakkuva",
     "english": "Short",
     "category": "ADJECTIVE"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "ఈ రోజు ఏ రోజు?",
+    "romanized": "Ee roju ye roju?",
+    "english": "What day is today?",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "ఇప్పుడు ఏ సమయం?",
+    "romanized": "Ippudu ye samayam?",
+    "english": "What time is it now?",
+    "category": "TIME"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "మీరు ఎక్కడ నుండి వచ్చారు?",
+    "romanized": "Meeru ekkaDa nundi vacchaaru?",
+    "english": "Where did you come from?",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "బస్సు ఎప్పుడు వస్తుంది?",
+    "romanized": "Bassu eppuDu vasthundi?",
+    "english": "When will the bus come?",
+    "category": "TRANSPORT"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "రేపు వర్షం పడుతుందా?",
+    "romanized": "Raepu varsham paDuthundaa?",
+    "english": "Will it rain tomorrow?",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "ఆసుపత్రి ఎక్కడ ఉంది?",
+    "romanized": "Aasupathri ekkaDa undi?",
+    "english": "Where is the hospital?",
+    "category": "PLACE"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "ఈ వాతావరణం చాలా బాగుంది",
+    "romanized": "Ee vaathavaaranam chaala baagundi",
+    "english": "This weather is very nice",
+    "category": "WEATHER"
+  },
+  {
+    "lessonId": 120,
+    "telugu": "నేను హైదరాబాద్ లో ఉంటున్నాను",
+    "romanized": "Naenu Hyderabad loo unTunnaanu",
+    "english": "I am staying in Hyderabad",
+    "category": "PLACE"
   }
 ]
