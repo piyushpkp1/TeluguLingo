@@ -5,6 +5,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.telugulingo.app.domain.model.Vocabulary
 import com.telugulingo.app.domain.repository.VocabularyRepository
+import com.telugulingo.app.service.audio.TextToSpeechService
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
@@ -20,7 +21,8 @@ data class VocabularyUiState(
 @HiltViewModel
 class VocabularyViewModel @Inject constructor(
     savedStateHandle: SavedStateHandle,
-    private val vocabularyRepository: VocabularyRepository
+    private val vocabularyRepository: VocabularyRepository,
+    private val ttsService: TextToSpeechService
 ) : ViewModel() {
 
     private val lessonId: Long = savedStateHandle.get<Long>("lessonId") ?: 1L
@@ -60,5 +62,14 @@ class VocabularyViewModel @Inject constructor(
             val prev = (it.currentIndex - 1).coerceAtLeast(0)
             it.copy(currentIndex = prev, isFlipped = false)
         }
+    }
+
+    fun speakWord(vocabulary: Vocabulary) {
+        ttsService.speak(vocabulary.wordTelugu)
+    }
+
+    override fun onCleared() {
+        super.onCleared()
+        ttsService.stop()
     }
 }

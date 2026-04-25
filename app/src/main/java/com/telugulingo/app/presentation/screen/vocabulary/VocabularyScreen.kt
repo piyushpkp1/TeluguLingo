@@ -1,6 +1,5 @@
 package com.telugulingo.app.presentation.screen.vocabulary
 
-import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
@@ -12,7 +11,6 @@ import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.telugulingo.app.domain.model.Vocabulary
@@ -57,8 +55,11 @@ fun VocabularyScreen(
                     .padding(16.dp),
                 verticalArrangement = Arrangement.spacedBy(12.dp)
             ) {
-                items(uiState.vocabulary) { vocab ->
-                    VocabListItem(vocabulary = vocab)
+                items(uiState.vocabulary, key = { it.id }) { vocab ->
+                    VocabListItem(
+                        vocabulary = vocab,
+                        onPlayAudio = { viewModel.speakWord(vocab) }
+                    )
                 }
             }
         }
@@ -66,7 +67,7 @@ fun VocabularyScreen(
 }
 
 @Composable
-private fun VocabListItem(vocabulary: Vocabulary) {
+private fun VocabListItem(vocabulary: Vocabulary, onPlayAudio: () -> Unit) {
     Card(
         modifier = Modifier.fillMaxWidth(),
         shape = RoundedCornerShape(12.dp)
@@ -93,7 +94,7 @@ private fun VocabListItem(vocabulary: Vocabulary) {
                     style = MaterialTheme.typography.bodyLarge
                 )
             }
-            FilledTonalIconButton(onClick = { /* TTS would play here */ }) {
+            FilledTonalIconButton(onClick = onPlayAudio) {
                 Icon(Icons.Default.VolumeUp, contentDescription = "Play")
             }
         }

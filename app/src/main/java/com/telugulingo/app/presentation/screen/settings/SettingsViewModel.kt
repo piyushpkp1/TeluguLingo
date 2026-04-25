@@ -2,6 +2,7 @@ package com.telugulingo.app.presentation.screen.settings
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.telugulingo.app.data.local.db.dao.ProgressDao
 import com.telugulingo.app.domain.model.User
 import com.telugulingo.app.domain.repository.UserRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
@@ -17,7 +18,8 @@ data class SettingsUiState(
 
 @HiltViewModel
 class SettingsViewModel @Inject constructor(
-    private val userRepository: UserRepository
+    private val userRepository: UserRepository,
+    private val progressDao: ProgressDao
 ) : ViewModel() {
 
     private val _uiState = MutableStateFlow(SettingsUiState())
@@ -53,9 +55,11 @@ class SettingsViewModel @Inject constructor(
                     currentLevel = 1,
                     currentStreak = 0,
                     longestStreak = 0,
-                    dailyLessonIndex = 0
+                    dailyLessonIndex = 0,
+                    totalLessonsCompleted = 0
                 )
             )
+            progressDao.deleteAllProgress()
         }
     }
 }

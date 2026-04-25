@@ -7,8 +7,10 @@ import com.telugulingo.app.domain.model.Streak
 import com.telugulingo.app.domain.model.User
 import com.telugulingo.app.domain.model.XPAndLevel
 import com.telugulingo.app.domain.repository.LessonRepository
+import com.telugulingo.app.domain.repository.QuizRepository
 import com.telugulingo.app.domain.repository.UserRepository
 import com.telugulingo.app.domain.repository.VocabularyRepository
+import com.telugulingo.app.service.audio.TextToSpeechService
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
@@ -29,7 +31,9 @@ data class HomeUiState(
 class HomeViewModel @Inject constructor(
     private val userRepository: UserRepository,
     private val lessonRepository: LessonRepository,
-    private val vocabularyRepository: VocabularyRepository
+    private val vocabularyRepository: VocabularyRepository,
+    private val quizRepository: QuizRepository,
+    private val ttsService: TextToSpeechService
 ) : ViewModel() {
 
     private val _uiState = MutableStateFlow(HomeUiState())
@@ -37,14 +41,17 @@ class HomeViewModel @Inject constructor(
 
     init {
         loadData()
+        // Eagerly initialize TTS so the first speaker tap is instant
+        ttsService.initialize()
     }
 
     private fun loadData() {
         viewModelScope.launch {
-            // Initialize data
+            // Initialize data (each call is idempotent — checks before writing)
             userRepository.getUserOnce() ?: userRepository.createUser(User())
             lessonRepository.initializeLessons()
             vocabularyRepository.initializeVocabulary()
+            quizRepository.initializeQuizzes()
 
             combine(
                 userRepository.getUser(),

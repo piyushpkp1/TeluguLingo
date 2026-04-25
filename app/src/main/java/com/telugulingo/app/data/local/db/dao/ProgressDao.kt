@@ -20,4 +20,7 @@ interface ProgressDao {
 
     @Query("SELECT COUNT(*) FROM lesson_progress WHERE isCompleted = 1")
     suspend fun getCompletedLessonCount(): Int
+
+    @Query("DELETE FROM lesson_progress")
+    suspend fun deleteAllProgress()
 }

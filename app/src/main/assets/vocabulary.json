@@ -29,22 +29,22 @@
   },
   {
     "lessonId": 1,
-    "telugu": "మంచి మినహా",
-    "romanized": "Manchi mana",
+    "telugu": "శుభోదయం",
+    "romanized": "Shubhodayam",
     "english": "Good morning",
     "category": "GREETING"
   },
   {
     "lessonId": 1,
-    "telugu": "మంచి సాయంత్రం",
-    "romanized": "Manchi saayam",
+    "telugu": "శుభ సాయంత్రం",
+    "romanized": "Shubha Saayanthram",
     "english": "Good evening",
     "category": "GREETING"
   },
   {
     "lessonId": 1,
-    "telugu": "మంచి రాత్రి",
-    "romanized": "Manchi raatri",
+    "telugu": "శుభ రాత్రి",
+    "romanized": "Shubha Raathri",
     "english": "Good night",
     "category": "GREETING"
   },
@@ -116,7 +116,7 @@
     "telugu": "మీరు ఎక్కడ ఉన్నారు?",
     "romanized": "Meeru ekkada unnaaru?",
     "english": "Where are you?",
-    "category": "GREETING"
+    "category": "QUESTION"
   },
   {
     "lessonId": 1,
@@ -141,22 +141,22 @@
   },
   {
     "lessonId": 2,
-    "telugu": "మంచి మినహా",
-    "romanized": "Manchi mana",
+    "telugu": "శుభోదయం",
+    "romanized": "Shubhodayam",
     "english": "Good morning",
     "category": "GREETING"
   },
   {
     "lessonId": 2,
-    "telugu": "మంచి సాయంత్రం",
-    "romanized": "Manchi saayam",
+    "telugu": "శుభ సాయంత్రం",
+    "romanized": "Shubha Saayanthram",
     "english": "Good evening",
     "category": "GREETING"
   },
   {
     "lessonId": 2,
-    "telugu": "మంచి రాత్రి",
-    "romanized": "Manchi raatri",
+    "telugu": "శుభ రాత్రి",
+    "romanized": "Shubha Raathri",
     "english": "Good night",
     "category": "GREETING"
   },
@@ -253,22 +253,22 @@
   },
   {
     "lessonId": 3,
-    "telugu": "మంచి మినహా",
-    "romanized": "Manchi mana",
+    "telugu": "శుభోదయం",
+    "romanized": "Shubhodayam",
     "english": "Good morning",
     "category": "GREETING"
   },
   {
     "lessonId": 3,
-    "telugu": "మంచి సాయంత్రం",
-    "romanized": "Manchi saayam",
+    "telugu": "శుభ సాయంత్రం",
+    "romanized": "Shubha Saayanthram",
     "english": "Good evening",
     "category": "GREETING"
   },
   {
     "lessonId": 3,
-    "telugu": "మంచి రాత్రి",
-    "romanized": "Manchi raatri",
+    "telugu": "శుభ రాత్రి",
+    "romanized": "Shubha Raathri",
     "english": "Good night",
     "category": "GREETING"
   },
@@ -379,8 +379,8 @@
   },
   {
     "lessonId": 4,
-    "telugu": "మంచి రాత్రి",
-    "romanized": "Manchi raatri",
+    "telugu": "శుభ రాత్రి",
+    "romanized": "Shubha Raathri",
     "english": "Good night",
     "category": "GREETING"
   },
@@ -1325,7 +1325,7 @@
   {
     "lessonId": 12,
     "telugu": "పదిహేను",
-    "romanized": "Padihen",
+    "romanized": "Padihenu",
     "english": "Fifteen",
     "category": "NUMBER"
   },
@@ -1444,7 +1444,7 @@
   {
     "lessonId": 13,
     "telugu": "పదిహేను",
-    "romanized": "Padihen",
+    "romanized": "Padihenu",
     "english": "Fifteen",
     "category": "NUMBER"
   },
@@ -1542,7 +1542,7 @@
   {
     "lessonId": 14,
     "telugu": "పదిహేను",
-    "romanized": "Padihen",
+    "romanized": "Padihenu",
     "english": "Fifteen",
     "category": "NUMBER"
   },
@@ -1563,7 +1563,7 @@
   {
     "lessonId": 14,
     "telugu": "నలభై",
-    "romanized": "Nalabai",
+    "romanized": "Nalabhai",
     "english": "Forty",
     "category": "NUMBER"
   },
@@ -1647,7 +1647,7 @@
   {
     "lessonId": 15,
     "telugu": "పదిహేను",
-    "romanized": "Padihen",
+    "romanized": "Padihenu",
     "english": "Fifteen",
     "category": "NUMBER"
   },
@@ -1668,7 +1668,7 @@
   {
     "lessonId": 15,
     "telugu": "నలభై",
-    "romanized": "Nalabai",
+    "romanized": "Nalabhai",
     "english": "Forty",
     "category": "NUMBER"
   },
@@ -1766,7 +1766,7 @@
   {
     "lessonId": 16,
     "telugu": "పదిహేను",
-    "romanized": "Padihen",
+    "romanized": "Padihenu",
     "english": "Fifteen",
     "category": "NUMBER"
   },
@@ -1787,7 +1787,7 @@
   {
     "lessonId": 16,
     "telugu": "నలభై",
-    "romanized": "Nalabai",
+    "romanized": "Nalabhai",
     "english": "Forty",
     "category": "NUMBER"
   },
@@ -1885,7 +1885,7 @@
   {
     "lessonId": 17,
     "telugu": "పదిహేను",
-    "romanized": "Padihen",
+    "romanized": "Padihenu",
     "english": "Fifteen",
     "category": "NUMBER"
   },
@@ -1906,7 +1906,7 @@
   {
     "lessonId": 17,
     "telugu": "నలభై",
-    "romanized": "Nalabai",
+    "romanized": "Nalabhai",
     "english": "Forty",
     "category": "NUMBER"
   },
@@ -1997,7 +1997,7 @@
   {
     "lessonId": 18,
     "telugu": "పదిహేను",
-    "romanized": "Padihen",
+    "romanized": "Padihenu",
     "english": "Fifteen",
     "category": "NUMBER"
   },
@@ -2018,7 +2018,7 @@
   {
     "lessonId": 18,
     "telugu": "నలభై",
-    "romanized": "Nalabai",
+    "romanized": "Nalabhai",
     "english": "Forty",
     "category": "NUMBER"
   },
@@ -2130,7 +2130,7 @@
   {
     "lessonId": 20,
     "telugu": "నలభై",
-    "romanized": "Nalabai",
+    "romanized": "Nalabhai",
     "english": "Forty",
     "category": "NUMBER"
   },
@@ -2178,8 +2178,8 @@
   },
   {
     "lessonId": 20,
-    "telugu": "ఇలవు",
-    "romanized": "Ilavu",
+    "telugu": "వేయి",
+    "romanized": "Veyi",
     "english": "Thousand",
     "category": "NUMBER"
   },
@@ -2276,8 +2276,8 @@
   },
   {
     "lessonId": 21,
-    "telugu": "అమ్మా",
-    "romanized": "Ammaa",
+    "telugu": "చెల్లి",
+    "romanized": "Chelli",
     "english": "Younger Sister",
     "category": "FAMILY"
   },
@@ -2395,8 +2395,8 @@
   },
   {
     "lessonId": 22,
-    "telugu": "అమ్మా",
-    "romanized": "Ammaa",
+    "telugu": "చెల్లి",
+    "romanized": "Chelli",
     "english": "Younger Sister",
     "category": "FAMILY"
   },
@@ -2514,8 +2514,8 @@
   },
   {
     "lessonId": 23,
-    "telugu": "అమ్మా",
-    "romanized": "Ammaa",
+    "telugu": "చెల్లి",
+    "romanized": "Chelli",
     "english": "Younger Sister",
     "category": "FAMILY"
   },
@@ -2633,8 +2633,8 @@
   },
   {
     "lessonId": 24,
-    "telugu": "అమ్మా",
-    "romanized": "Ammaa",
+    "telugu": "చెల్లి",
+    "romanized": "Chelli",
     "english": "Younger Sister",
     "category": "FAMILY"
   },
@@ -2696,6 +2696,13 @@
   },
   {
     "lessonId": 24,
+    "telugu": "మనము",
+    "romanized": "Manamu",
+    "english": "We (inclusive)",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 24,
     "telugu": "వారు",
     "romanized": "Vaaru",
     "english": "They",
@@ -2752,8 +2759,8 @@
   },
   {
     "lessonId": 25,
-    "telugu": "అమ్మా",
-    "romanized": "Ammaa",
+    "telugu": "చెల్లి",
+    "romanized": "Chelli",
     "english": "Younger Sister",
     "category": "FAMILY"
   },
@@ -3187,7 +3194,7 @@
   {
     "lessonId": 28,
     "telugu": "భర్త",
-    "romanized": "Bharthu",
+    "romanized": "Bhartha",
     "english": "Husband",
     "category": "FAMILY"
   },
@@ -3299,7 +3306,7 @@
   {
     "lessonId": 30,
     "telugu": "భర్త",
-    "romanized": "Bharthu",
+    "romanized": "Bhartha",
     "english": "Husband",
     "category": "FAMILY"
   },
@@ -3382,8 +3389,8 @@
   },
   {
     "lessonId": 31,
-    "telugu": "రు",
-    "romanized": "Ruu",
+    "telugu": "రా",
+    "romanized": "Raa",
     "english": "Come",
     "category": "VERB"
   },
@@ -3494,8 +3501,8 @@
   },
   {
     "lessonId": 32,
-    "telugu": "రు",
-    "romanized": "Ruu",
+    "telugu": "రా",
+    "romanized": "Raa",
     "english": "Come",
     "category": "VERB"
   },
@@ -4509,8 +4516,8 @@
   },
   {
     "lessonId": 41,
-    "telugu": "జల్",
-    "romanized": "Jalam",
+    "telugu": "నీరు",
+    "romanized": "Neeru",
     "english": "Water",
     "category": "FOOD"
   },
@@ -4524,7 +4531,7 @@
   {
     "lessonId": 41,
     "telugu": "కూర",
-    "romanized": "Kooru",
+    "romanized": "Koora",
     "english": "Curry",
     "category": "FOOD"
   },
@@ -4628,8 +4635,8 @@
   },
   {
     "lessonId": 42,
-    "telugu": "జల్",
-    "romanized": "Jalam",
+    "telugu": "నీరు",
+    "romanized": "Neeru",
     "english": "Water",
     "category": "FOOD"
   },
@@ -4643,7 +4650,7 @@
   {
     "lessonId": 42,
     "telugu": "కూర",
-    "romanized": "Kooru",
+    "romanized": "Koora",
     "english": "Curry",
     "category": "FOOD"
   },
@@ -4762,7 +4769,7 @@
   {
     "lessonId": 43,
     "telugu": "కూర",
-    "romanized": "Kooru",
+    "romanized": "Koora",
     "english": "Curry",
     "category": "FOOD"
   },
@@ -4881,7 +4888,7 @@
   {
     "lessonId": 44,
     "telugu": "కూర",
-    "romanized": "Kooru",
+    "romanized": "Koora",
     "english": "Curry",
     "category": "FOOD"
   },
@@ -5447,8 +5454,8 @@
   },
   {
     "lessonId": 49,
-    "telugu": "కారు",
-    "romanized": "Kaaru",
+    "telugu": "కారం",
+    "romanized": "Kaaram",
     "english": "Spicy",
     "category": "FOOD"
   },
@@ -5559,8 +5566,8 @@
   },
   {
     "lessonId": 50,
-    "telugu": "కారు",
-    "romanized": "Kaaru",
+    "telugu": "కారం",
+    "romanized": "Kaaram",
     "english": "Spicy",
     "category": "FOOD"
   },
@@ -5630,7 +5637,7 @@
   {
     "lessonId": 51,
     "telugu": "ఇప్పుడు",
-    "romanized": "Ipputha",
+    "romanized": "Ippudu",
     "english": "Now",
     "category": "TIME"
   },
@@ -6015,7 +6022,7 @@
   {
     "lessonId": 54,
     "telugu": "ఎప్పుడు",
-    "romanized": "Epputha",
+    "romanized": "Eppudu",
     "english": "When",
     "category": "TIME"
   },
@@ -6120,7 +6127,7 @@
   {
     "lessonId": 55,
     "telugu": "ఎప్పుడు",
-    "romanized": "Epputha",
+    "romanized": "Eppudu",
     "english": "When",
     "category": "TIME"
   },
@@ -6225,7 +6232,7 @@
   {
     "lessonId": 56,
     "telugu": "ఎప్పుడు",
-    "romanized": "Epputha",
+    "romanized": "Eppudu",
     "english": "When",
     "category": "TIME"
   },
@@ -6330,7 +6337,7 @@
   {
     "lessonId": 57,
     "telugu": "ఎప్పుడు",
-    "romanized": "Epputha",
+    "romanized": "Eppudu",
     "english": "When",
     "category": "TIME"
   },
@@ -6428,7 +6435,7 @@
   {
     "lessonId": 59,
     "telugu": "ఎప్పుడు",
-    "romanized": "Epputha",
+    "romanized": "Eppudu",
     "english": "When",
     "category": "TIME"
   },
@@ -6533,7 +6540,7 @@
   {
     "lessonId": 60,
     "telugu": "ఎప్పుడు",
-    "romanized": "Epputha",
+    "romanized": "Eppudu",
     "english": "When",
     "category": "TIME"
   },
@@ -6575,7 +6582,7 @@
   {
     "lessonId": 60,
     "telugu": "సంవత్సరం",
-    "romanized": "Sannvathsaram",
+    "romanized": "Samvatsaram",
     "english": "Year",
     "category": "TIME"
   },
@@ -6724,7 +6731,7 @@
     "telugu": "మీరు ఎక్కడ ఉన్నారు?",
     "romanized": "Meeru ekkada unnaaru?",
     "english": "Where are you?",
-    "category": "GREETING"
+    "category": "QUESTION"
   },
   {
     "lessonId": 61,
@@ -8142,8 +8149,8 @@
   },
   {
     "lessonId": 77,
-    "telugu": "అయ్యార",
-    "romanized": "Ayyara",
+    "telugu": "ముసలి",
+    "romanized": "Musali",
     "english": "Old (age)",
     "category": "ADJECTIVE"
   },
@@ -8233,8 +8240,8 @@
   },
   {
     "lessonId": 78,
-    "telugu": "అయ్యార",
-    "romanized": "Ayyara",
+    "telugu": "ముసలి",
+    "romanized": "Musali",
     "english": "Old (age)",
     "category": "ADJECTIVE"
   },
@@ -8317,8 +8324,8 @@
   },
   {
     "lessonId": 80,
-    "telugu": "అయ్యార",
-    "romanized": "Ayyara",
+    "telugu": "ముసలి",
+    "romanized": "Musali",
     "english": "Old (age)",
     "category": "ADJECTIVE"
   },
@@ -8625,6 +8632,13 @@
   },
   {
     "lessonId": 84,
+    "telugu": "మనము",
+    "romanized": "Manamu",
+    "english": "We (inclusive)",
+    "category": "PRONOUN"
+  },
+  {
+    "lessonId": 84,
     "telugu": "వారు",
     "romanized": "Vaaru",
     "english": "They",
@@ -8751,8 +8765,8 @@
   },
   {
     "lessonId": 86,
-    "telugu": "బియ్యపు",
-    "romanized": "Biyyapu",
+    "telugu": "తెలుపు",
+    "romanized": "Telupu",
     "english": "White",
     "category": "COLOR"
   },
@@ -8821,7 +8835,7 @@
   },
   {
     "lessonId": 87,
-    "telugu": " నలుపు",
+    "telugu": "నలుపు",
     "romanized": "Nalupu",
     "english": "Black",
     "category": "COLOR"
@@ -10732,7 +10746,7 @@
   },
   {
     "lessonId": 107,
-    "telugu": "� ничего",
+    "telugu": "ఇలా",
     "romanized": "Ila",
     "english": "Like this",
     "category": "COMMON_PHRASE"
@@ -10844,7 +10858,7 @@
   },
   {
     "lessonId": 109,
-    "telugu": "� ничего",
+    "telugu": "ఇలా",
     "romanized": "Ila",
     "english": "Like this",
     "category": "COMMON_PHRASE"
@@ -10963,7 +10977,7 @@
   },
   {
     "lessonId": 110,
-    "telugu": "� ничего",
+    "telugu": "ఇలా",
     "romanized": "Ila",
     "english": "Like this",
     "category": "COMMON_PHRASE"
@@ -11075,8 +11089,8 @@
   },
   {
     "lessonId": 111,
-    "telugu": "మంచి మినహా",
-    "romanized": "Manchi mana",
+    "telugu": "శుభోదయం",
+    "romanized": "Shubhodayam",
     "english": "Good morning",
     "category": "GREETING"
   },
@@ -11180,8 +11194,8 @@
   },
   {
     "lessonId": 112,
-    "telugu": "మంచి మినహా",
-    "romanized": "Manchi mana",
+    "telugu": "శుభోదయం",
+    "romanized": "Shubhodayam",
     "english": "Good morning",
     "category": "GREETING"
   },
@@ -11481,8 +11495,8 @@
   },
   {
     "lessonId": 114,
-    "telugu": "రు",
-    "romanized": "Ruu",
+    "telugu": "రా",
+    "romanized": "Raa",
     "english": "Come",
     "category": "VERB"
   },
@@ -11586,8 +11600,8 @@
   },
   {
     "lessonId": 115,
-    "telugu": "రు",
-    "romanized": "Ruu",
+    "telugu": "రా",
+    "romanized": "Raa",
     "english": "Come",
     "category": "VERB"
   },
@@ -11691,8 +11705,8 @@
   },
   {
     "lessonId": 116,
-    "telugu": "రు",
-    "romanized": "Ruu",
+    "telugu": "రా",
+    "romanized": "Raa",
     "english": "Come",
     "category": "VERB"
   },
@@ -11726,8 +11740,8 @@
   },
   {
     "lessonId": 116,
-    "telugu": "జల్",
-    "romanized": "Jalam",
+    "telugu": "నీరు",
+    "romanized": "Neeru",
     "english": "Water",
     "category": "FOOD"
   },
@@ -11741,7 +11755,7 @@
   {
     "lessonId": 116,
     "telugu": "కూర",
-    "romanized": "Kooru",
+    "romanized": "Koora",
     "english": "Curry",
     "category": "FOOD"
   },
@@ -11831,8 +11845,8 @@
   },
   {
     "lessonId": 117,
-    "telugu": "జల్",
-    "romanized": "Jalam",
+    "telugu": "నీరు",
+    "romanized": "Neeru",
     "english": "Water",
     "category": "FOOD"
   },
@@ -11846,7 +11860,7 @@
   {
     "lessonId": 117,
     "telugu": "కూర",
-    "romanized": "Kooru",
+    "romanized": "Koora",
     "english": "Curry",
     "category": "FOOD"
   },
@@ -11860,7 +11874,7 @@
   {
     "lessonId": 117,
     "telugu": "ఇప్పుడు",
-    "romanized": "Ipputha",
+    "romanized": "Ippudu",
     "english": "Now",
     "category": "TIME"
   },
@@ -11937,7 +11951,7 @@
   {
     "lessonId": 119,
     "telugu": "కూర",
-    "romanized": "Kooru",
+    "romanized": "Koora",
     "english": "Curry",
     "category": "FOOD"
   },
@@ -11951,7 +11965,7 @@
   {
     "lessonId": 119,
     "telugu": "ఇప్పుడు",
-    "romanized": "Ipputha",
+    "romanized": "Ippudu",
     "english": "Now",
     "category": "TIME"
   },
@@ -12056,7 +12070,7 @@
   {
     "lessonId": 120,
     "telugu": "ఇప్పుడు",
-    "romanized": "Ipputha",
+    "romanized": "Ippudu",
     "english": "Now",
     "category": "TIME"
   },

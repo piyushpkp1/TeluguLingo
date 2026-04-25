@@ -2,12 +2,12 @@ package com.telugulingo.app.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
-// Primary brand — vibrant indigo/violet
-val BrandPrimary = Color(0xFF6366F1)
-val BrandPrimaryDark = Color(0xFF4F46E5)
-val BrandPrimarySoft = Color(0xFFEEF2FF)
+// Primary brand — saffron / burnt orange (matches the app icon)
+val BrandPrimary = Color(0xFFC54B1A)
+val BrandPrimaryDark = Color(0xFFAA3D12)
+val BrandPrimarySoft = Color(0xFFFFF3ED)
 
-// Secondary — warm coral for playful accents
+// Secondary — warm gold for accents
 val BrandSecondary = Color(0xFFF97316)
 val BrandSecondarySoft = Color(0xFFFFF7ED)
 
@@ -34,5 +34,5 @@ val OnSurfaceDark = Color(0xFFFAFAFA)
 val OnSurfaceDarkMuted = Color(0xFFA1A1AA)
 
 // Dark-mode brand variants
-val BrandPrimaryDarkMode = Color(0xFF818CF8)
+val BrandPrimaryDarkMode = Color(0xFFE8845A)
 val BrandSecondaryDarkMode = Color(0xFFFB923C)

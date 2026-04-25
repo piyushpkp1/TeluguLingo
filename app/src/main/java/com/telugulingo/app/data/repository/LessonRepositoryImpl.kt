@@ -25,6 +25,9 @@ class LessonRepositoryImpl @Inject constructor(
         lessonDao.getLessonByDay(dayNumber)?.toDomain()
 
     override suspend fun initializeLessons() {
+        // Only insert if the DB is empty — avoids redundant writes on every launch
+        val count = lessonDao.getLessonCount()
+        if (count > 0) return
         lessonDao.insertLessons(buildLessons())
     }
 

@@ -27,7 +27,7 @@ class QuizRepositoryImpl @Inject constructor(
         quizDao.getQuizQuestionsForLessonOnce(lessonId).map { it.toDomain() }
 
     override suspend fun initializeQuizzes() {
-        val existing = quizDao.getQuizQuestionsForLessonOnce(120)
+        val existing = quizDao.getQuizQuestionsForLessonOnce(1)
         if (existing.isNotEmpty()) return
 
         val json = loadQuizJson() ?: return
