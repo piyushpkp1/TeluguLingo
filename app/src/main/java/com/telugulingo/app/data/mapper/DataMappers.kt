@@ -19,7 +19,9 @@ fun UserEntity.toDomain() = User(
     heartRefillTimestamp = heartRefillTimestamp,
     totalLessonsCompleted = totalLessonsCompleted,
     totalWordsLearned = totalWordsLearned,
-    leaguePoints = leaguePoints
+    leaguePoints = leaguePoints,
+    currentLessonId = currentLessonId,
+    currentLessonCardIndex = currentLessonCardIndex
 )
 
 fun User.toEntity() = UserEntity(
@@ -38,7 +40,9 @@ fun User.toEntity() = UserEntity(
     heartRefillTimestamp = heartRefillTimestamp,
     totalLessonsCompleted = totalLessonsCompleted,
     totalWordsLearned = totalWordsLearned,
-    leaguePoints = leaguePoints
+    leaguePoints = leaguePoints,
+    currentLessonId = currentLessonId,
+    currentLessonCardIndex = currentLessonCardIndex
 )
 
 fun LessonEntity.toDomain() = Lesson(

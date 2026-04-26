@@ -65,7 +65,7 @@ class VocabularyViewModel @Inject constructor(
     }
 
     fun speakWord(vocabulary: Vocabulary) {
-        ttsService.speak(vocabulary.wordTelugu)
+        ttsService.speak(vocabulary.wordTelugu, vocabulary.wordRomanized)
     }
 
     override fun onCleared() {

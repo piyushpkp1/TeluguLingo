@@ -93,7 +93,7 @@ class LessonViewModel @Inject constructor(
 
     fun playAudio() {
         val currentVocab = _uiState.value.vocabulary.getOrNull(_uiState.value.currentCardIndex)
-        currentVocab?.let { ttsService.speak(it.wordTelugu) }
+        currentVocab?.let { ttsService.speak(it.wordTelugu, it.wordRomanized) }
     }
 
     fun markCardViewed() {
@@ -118,10 +118,15 @@ class LessonViewModel @Inject constructor(
                         xpEarned = lesson.xpReward
                     )
                 )
+                // addXP and updateStreak each do their own read-modify-write at the entity level,
+                // so they are safe individually. Run them sequentially before reading fresh state.
                 userRepository.addXP(lesson.xpReward)
                 userRepository.updateStreak()
-                val user = userRepository.getUserOnce()
-                user?.let {
+
+                // Read the freshest user state (after XP and streak are persisted)
+                // and apply the lesson index bump on top of it.
+                val freshUser = userRepository.getUserOnce()
+                freshUser?.let {
                     userRepository.updateUser(it.copy(dailyLessonIndex = it.dailyLessonIndex + 1))
                 }
                 _uiState.update { it.copy(isAlreadyCompleted = true) }

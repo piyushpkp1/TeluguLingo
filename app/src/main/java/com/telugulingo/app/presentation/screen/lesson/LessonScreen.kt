@@ -34,6 +34,7 @@ fun LessonScreen(
     viewModel: LessonViewModel = hiltViewModel()
 ) {
     val uiState by viewModel.uiState.collectAsState()
+    var hasNavigated by remember { mutableStateOf(false) }
 
     Scaffold(
         containerColor = MaterialTheme.colorScheme.background,
@@ -41,7 +42,12 @@ fun LessonScreen(
             LessonTopBar(
                 currentIndex = uiState.currentCardIndex,
                 totalCount = uiState.vocabulary.size,
-                onBack = onBack
+                onBack = {
+                    if (!hasNavigated) {
+                        hasNavigated = true
+                        onBack()
+                    }
+                }
             )
         }
     ) { paddingValues ->
@@ -116,8 +122,11 @@ fun LessonScreen(
                         onClick = {
                             viewModel.markCardViewed()
                             if (isLastCard) {
-                                viewModel.completeLesson()
-                                onBack()
+                                if (!hasNavigated) {
+                                    hasNavigated = true
+                                    viewModel.completeLesson()
+                                    onBack()
+                                }
                             } else {
                                 viewModel.nextCard()
                             }
@@ -152,12 +161,18 @@ fun LessonScreen(
                 ) {
                     CompletionPanel(
                         onPracticeClick = {
-                            viewModel.completeLesson()
-                            onPracticeClick()
+                            if (!hasNavigated) {
+                                hasNavigated = true
+                                viewModel.completeLesson()
+                                onPracticeClick()
+                            }
                         },
                         onQuizClick = {
-                            viewModel.completeLesson()
-                            onQuizClick()
+                            if (!hasNavigated) {
+                                hasNavigated = true
+                                viewModel.completeLesson()
+                                onQuizClick()
+                            }
                         }
                     )
                 }

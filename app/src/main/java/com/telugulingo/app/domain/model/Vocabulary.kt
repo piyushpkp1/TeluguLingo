@@ -36,5 +36,8 @@ enum class VocabCategory {
     WORK,
     TRANSPORT,
     NATURE,
-    QUESTION
+    QUESTION,
+    NOUN,
+    PHRASE,
+    ADVERB
 }

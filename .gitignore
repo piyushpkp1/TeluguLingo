@@ -5,7 +5,7 @@ dli.language.2300.pdf
 
 # --- Gradle ---
 .gradle/
-/build/
+
 /*/build/
 
 # --- Kotlin/Android ---
