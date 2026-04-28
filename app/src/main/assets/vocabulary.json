@@ -12192,6 +12192,2056 @@
     "english": "Small wedding",
     "category": "PHRASE",
     "lessonId": 120
+  },
+  {
+    "telugu": "undi",
+    "romanized": "undi",
+    "english": "is / there is",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "kharchu",
+    "romanized": "kharchu",
+    "english": "expense / cost",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "manchivi",
+    "romanized": "manchivi",
+    "english": "are good",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "naenu",
+    "romanized": "naenu",
+    "english": "I",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "theepigaa",
+    "romanized": "theepigaa",
+    "english": "sweetly / in a sweet way",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "naaku",
+    "romanized": "naaku",
+    "english": "to me / for me",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "unnaaru",
+    "romanized": "unnaaru",
+    "english": "are (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "maa",
+    "romanized": "maa",
+    "english": "our / my",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "enugu",
+    "romanized": "enugu",
+    "english": "elephant",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "em",
+    "romanized": "em",
+    "english": "what",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "peru",
+    "romanized": "peru",
+    "english": "name",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "mee",
+    "romanized": "mee",
+    "english": "your (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "angadi",
+    "romanized": "angadi",
+    "english": "shop / stall",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "enta",
+    "romanized": "enta",
+    "english": "how much / how many",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "unnaanu",
+    "romanized": "unnaanu",
+    "english": "I am",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "chesth",
+    "romanized": "chesth",
+    "english": "doing (while)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "ee",
+    "romanized": "ee",
+    "english": "this / these",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "meeku",
+    "romanized": "meeku",
+    "english": "to you (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "chaduvuth",
+    "romanized": "chaduvuth",
+    "english": "studying (while)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "malli",
+    "romanized": "malli",
+    "english": "again",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "nundi",
+    "romanized": "nundi",
+    "english": "from",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "kutumbamloo",
+    "romanized": "kutumbamloo",
+    "english": "in the family",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "samvatsaraalu",
+    "romanized": "samvatsaraalu",
+    "english": "years",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "kaluddaam",
+    "romanized": "kaluddaam",
+    "english": "let's meet",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "emainaa",
+    "romanized": "emainaa",
+    "english": "anything / something",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vellandi",
+    "romanized": "vellandi",
+    "english": "please go (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "cheyyandi",
+    "romanized": "cheyyandi",
+    "english": "please do (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "unnaadu",
+    "romanized": "unnaadu",
+    "english": "he is",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "oondi",
+    "romanized": "oondi",
+    "english": "is (ongoing)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "suma",
+    "romanized": "suma",
+    "english": "Suma (name)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vaedhigaa",
+    "romanized": "vaedhigaa",
+    "english": "in a hot way / hotly",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "ruchigaa",
+    "romanized": "ruchigaa",
+    "english": "tastily / deliciously",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "aad",
+    "romanized": "aad",
+    "english": "playing (while)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "raepu",
+    "romanized": "raepu",
+    "english": "tomorrow",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "baaga",
+    "romanized": "baaga",
+    "english": "well / fine",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "undaa",
+    "romanized": "undaa",
+    "english": "is there? / are there?",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "bhoojanam",
+    "romanized": "bhoojanam",
+    "english": "meal / food",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "velthaanu",
+    "romanized": "velthaanu",
+    "english": "I am going / I will go",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "aanandam",
+    "romanized": "aanandam",
+    "english": "happiness / joy",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "aanandamgaa",
+    "romanized": "aanandamgaa",
+    "english": "happily / pleasantly",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "cheppandi",
+    "romanized": "cheppandi",
+    "english": "please say / please tell (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vaipu",
+    "romanized": "vaipu",
+    "english": "direction / side",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thirugu",
+    "romanized": "thirugu",
+    "english": "turn",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thoondi",
+    "romanized": "thoondi",
+    "english": "is (progressive)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "untundi",
+    "romanized": "untundi",
+    "english": "there is / it is",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "chaligaa",
+    "romanized": "chaligaa",
+    "english": "coldly / in a cold way",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "paaduth",
+    "romanized": "paaduth",
+    "english": "singing (while)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "snaanam",
+    "romanized": "snaanam",
+    "english": "bath",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "teliyadu",
+    "romanized": "teliyadu",
+    "english": "don't know / not known",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thommidi",
+    "romanized": "thommidi",
+    "english": "nine",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "peddadi",
+    "romanized": "peddadi",
+    "english": "is big / big one",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "pratiroj",
+    "romanized": "pratiroj",
+    "english": "every day",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "oo",
+    "romanized": "oo",
+    "english": "a / one",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "chesthaanu",
+    "romanized": "chesthaanu",
+    "english": "I do / I am doing",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "varsham",
+    "romanized": "varsham",
+    "english": "rain / year",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "ishtamaina",
+    "romanized": "ishtamaina",
+    "english": "favourite / liked",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "telugu",
+    "romanized": "telugu",
+    "english": "Telugu (language)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "mandi",
+    "romanized": "mandi",
+    "english": "people (counter)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "kalisi",
+    "romanized": "kalisi",
+    "english": "together",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "rojulu",
+    "romanized": "rojulu",
+    "english": "days",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "kutumbaannu",
+    "romanized": "kutumbaannu",
+    "english": "family (object)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thinaali",
+    "romanized": "thinaali",
+    "english": "should eat / need to eat",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "meeto",
+    "romanized": "meeto",
+    "english": "with you (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "puttina",
+    "romanized": "puttina",
+    "english": "born / of birth",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "daaktaru",
+    "romanized": "daaktaru",
+    "english": "doctor",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "sahaayam",
+    "romanized": "sahaayam",
+    "english": "help",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "unnayi",
+    "romanized": "unnayi",
+    "english": "there are / I have",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "koodaa",
+    "romanized": "koodaa",
+    "english": "too / also",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "theesukurandi",
+    "romanized": "theesukurandi",
+    "english": "please take / please bring (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "ledu",
+    "romanized": "ledu",
+    "english": "is not / there is not",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "gantalaku",
+    "romanized": "gantalaku",
+    "english": "at o'clock",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "doaram",
+    "romanized": "doaram",
+    "english": "distance / far",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thinnaaru",
+    "romanized": "thinnaaru",
+    "english": "ate (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "nelalu",
+    "romanized": "nelalu",
+    "english": "months",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vesaviloo",
+    "romanized": "vesaviloo",
+    "english": "in summer",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thinthunnaanu",
+    "romanized": "thinthunnaanu",
+    "english": "I am eating",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "uthu",
+    "romanized": "uthu",
+    "english": "(while doing)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "shubha",
+    "romanized": "shubha",
+    "english": "auspicious / good",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "randi",
+    "romanized": "randi",
+    "english": "come (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "unnaavu",
+    "romanized": "unnaavu",
+    "english": "you are",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "okkate",
+    "romanized": "okkate",
+    "english": "just one / only one",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "aaruguru",
+    "romanized": "aaruguru",
+    "english": "six people",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "injinieering",
+    "romanized": "injinieering",
+    "english": "engineering",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "inkaa",
+    "romanized": "inkaa",
+    "english": "still / yet / more",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vyaayaamam",
+    "romanized": "vyaayaamam",
+    "english": "exercise",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "paduthundaa",
+    "romanized": "paduthundaa",
+    "english": "will it rain?",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thinthunnaadu",
+    "romanized": "thinthunnaadu",
+    "english": "he is eating",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "ivvandi",
+    "romanized": "ivvandi",
+    "english": "please give (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "shubhamgaa",
+    "romanized": "shubhamgaa",
+    "english": "auspiciously / well",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "jaagratt",
+    "romanized": "jaagratt",
+    "english": "careful / caution",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "agaa",
+    "romanized": "agaa",
+    "english": "carefully",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "prayathinchu",
+    "romanized": "prayathinchu",
+    "english": "try",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "padamoodu",
+    "romanized": "padamoodu",
+    "english": "thirteen",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "nuvvu",
+    "romanized": "nuvvu",
+    "english": "you (informal)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "baagaa",
+    "romanized": "baagaa",
+    "english": "very well",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vasthundi",
+    "romanized": "vasthundi",
+    "english": "will come / is coming",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "gantalu",
+    "romanized": "gantalu",
+    "english": "o'clock / hours",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "lekkimchaavu",
+    "romanized": "lekkimchaavu",
+    "english": "you counted",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "manchigaa",
+    "romanized": "manchigaa",
+    "english": "well / nicely",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "nerchukunnaaru",
+    "romanized": "nerchukunnaaru",
+    "english": "learned (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "iteevala",
+    "romanized": "iteevala",
+    "english": "recently / lately",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "uth",
+    "romanized": "uth",
+    "english": "(while doing)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "unnaamu",
+    "romanized": "unnaamu",
+    "english": "we are",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "nerchukuntunnaanu",
+    "romanized": "nerchukuntunnaanu",
+    "english": "I am learning",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "maatlaadatam",
+    "romanized": "maatlaadatam",
+    "english": "talking / to talk",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vacchaaru",
+    "romanized": "vacchaaru",
+    "english": "came (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "ayindi",
+    "romanized": "ayindi",
+    "english": "became / happened",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "janavari",
+    "romanized": "janavari",
+    "english": "January",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "idlee",
+    "romanized": "idlee",
+    "english": "idli (food)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "andaruu",
+    "romanized": "andaruu",
+    "english": "everyone",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "baagunnaaraa",
+    "romanized": "baagunnaaraa",
+    "english": "are (you/they) well?",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "hyderabad",
+    "romanized": "hyderabad",
+    "english": "Hyderabad (city)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "neeku",
+    "romanized": "neeku",
+    "english": "to you (informal)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "akaligaa",
+    "romanized": "akaligaa",
+    "english": "hungrily",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "cheyadam",
+    "romanized": "cheyadam",
+    "english": "doing / to do",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "dhappikagaa",
+    "romanized": "dhappikagaa",
+    "english": "thirstily / are you thirsty",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "dayagalavarru",
+    "romanized": "dayagalavarru",
+    "english": "kind person",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "kalavadam",
+    "romanized": "kalavadam",
+    "english": "meeting / to meet",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "sankhya",
+    "romanized": "sankhya",
+    "english": "number",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "sthanam",
+    "romanized": "sthanam",
+    "english": "place / position",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "nannu",
+    "romanized": "nannu",
+    "english": "me (object)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "premistundi",
+    "romanized": "premistundi",
+    "english": "loves",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "pandu",
+    "romanized": "pandu",
+    "english": "fruit / ripe",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "pustakaalu",
+    "romanized": "pustakaalu",
+    "english": "books",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "ye",
+    "romanized": "ye",
+    "english": "which / what day",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "upaadhy",
+    "romanized": "upaadhy",
+    "english": "teacher (male)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thaaguthoondi",
+    "romanized": "thaaguthoondi",
+    "english": "is drinking",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vaathavaaranam",
+    "romanized": "vaathavaaranam",
+    "english": "weather / atmosphere",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "lekkimchu",
+    "romanized": "lekkimchu",
+    "english": "count",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "bas",
+    "romanized": "bas",
+    "english": "bus",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "staand",
+    "romanized": "staand",
+    "english": "stand / station",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "ruupaayalu",
+    "romanized": "ruupaayalu",
+    "english": "rupees",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "paisalu",
+    "romanized": "paisalu",
+    "english": "paise (coins)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "maatlaaduth",
+    "romanized": "maatlaaduth",
+    "english": "talking (while)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "kutumbaanni",
+    "romanized": "kutumbaanni",
+    "english": "family (object)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "premistaanu",
+    "romanized": "premistaanu",
+    "english": "I love",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "saayanthram",
+    "romanized": "saayanthram",
+    "english": "evening",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "veyisth",
+    "romanized": "veyisth",
+    "english": "will fry / will cook",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "aanu",
+    "romanized": "aanu",
+    "english": "I will (future)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "etha",
+    "romanized": "etha",
+    "english": "swim",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "kottagalanu",
+    "romanized": "kottagalanu",
+    "english": "I can swim",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "kappu",
+    "romanized": "kappu",
+    "english": "cup",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "raju",
+    "romanized": "raju",
+    "english": "Raju (name)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thondaragaa",
+    "romanized": "thondaragaa",
+    "english": "quickly / soon",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "maatlaadaavu",
+    "romanized": "maatlaadaavu",
+    "english": "you spoke",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thayaaraindi",
+    "romanized": "thayaaraindi",
+    "english": "is ready",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "paatalu",
+    "romanized": "paatalu",
+    "english": "songs",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "paatham",
+    "romanized": "paatham",
+    "english": "lesson",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "kaaramgaa",
+    "romanized": "kaaramgaa",
+    "english": "spicily",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "naavi",
+    "romanized": "naavi",
+    "english": "mine (plural)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thaaguthaavu",
+    "romanized": "thaaguthaavu",
+    "english": "you will drink",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "aardar",
+    "romanized": "aardar",
+    "english": "order",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "ruupaayala",
+    "romanized": "ruupaayala",
+    "english": "rupee (of)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "notu",
+    "romanized": "notu",
+    "english": "note (currency)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vijayavaada",
+    "romanized": "vijayavaada",
+    "english": "Vijayawada (city)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vasth",
+    "romanized": "vasth",
+    "english": "coming (while)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "dooramloo",
+    "romanized": "dooramloo",
+    "english": "far away",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vandaanu",
+    "romanized": "vandaanu",
+    "english": "I cooked",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "maatlaadagalanu",
+    "romanized": "maatlaadagalanu",
+    "english": "I can speak",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "tinnaanu",
+    "romanized": "tinnaanu",
+    "english": "I ate",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "dosha",
+    "romanized": "dosha",
+    "english": "dosa (food)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "velth",
+    "romanized": "velth",
+    "english": "going (while)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "loo",
+    "romanized": "loo",
+    "english": "in / at",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "untunnaanu",
+    "romanized": "untunnaanu",
+    "english": "I am staying / I am",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "abhyaasam",
+    "romanized": "abhyaasam",
+    "english": "practice",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "bassulo",
+    "romanized": "bassulo",
+    "english": "by bus",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "seepu",
+    "romanized": "seepu",
+    "english": "how long / duration",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "aagutundi",
+    "romanized": "aagutundi",
+    "english": "will stop / is stopping",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vegamgaa",
+    "romanized": "vegamgaa",
+    "english": "fast / quickly",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thunnaadu",
+    "romanized": "thunnaadu",
+    "english": "is (doing, informal)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "manchivaarru",
+    "romanized": "manchivaarru",
+    "english": "good people / very good (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "inkem",
+    "romanized": "inkem",
+    "english": "what else",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "picnik",
+    "romanized": "picnik",
+    "english": "picnic",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "ki",
+    "romanized": "ki",
+    "english": "to / for",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "velthaamu",
+    "romanized": "velthaamu",
+    "english": "we will go",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "kiloomitarllu",
+    "romanized": "kiloomitarllu",
+    "english": "kilometres",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thaagaanu",
+    "romanized": "thaagaanu",
+    "english": "I drank",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "mottam",
+    "romanized": "mottam",
+    "english": "total / altogether",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "santosham",
+    "romanized": "santosham",
+    "english": "happiness / joy",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "namaskaram",
+    "romanized": "namaskaram",
+    "english": "greetings / hello",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "chestu",
+    "romanized": "chestu",
+    "english": "doing (while)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "nnaanu",
+    "romanized": "nnaanu",
+    "english": "I am (doing)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "menoo",
+    "romanized": "menoo",
+    "english": "menu",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "choopinchandi",
+    "romanized": "choopinchandi",
+    "english": "please show (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "danthaalu",
+    "romanized": "danthaalu",
+    "english": "teeth",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thomuko",
+    "romanized": "thomuko",
+    "english": "brush / wipe",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "gurinchi",
+    "romanized": "gurinchi",
+    "english": "about",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "chesinanduku",
+    "romanized": "chesinanduku",
+    "english": "for doing / thanks for",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "cheyakoodadu",
+    "romanized": "cheyakoodadu",
+    "english": "should not do",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "menaatthaku",
+    "romanized": "menaatthaku",
+    "english": "maternal aunt",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "anthe",
+    "romanized": "anthe",
+    "english": "that is it / enough",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "chaalu",
+    "romanized": "chaalu",
+    "english": "enough / sufficient",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "keejilu",
+    "romanized": "keejilu",
+    "english": "kilograms",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "arthamayindaa",
+    "romanized": "arthamayindaa",
+    "english": "did you understand?",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "theesukost",
+    "romanized": "theesukost",
+    "english": "will bring",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "aarru",
+    "romanized": "aarru",
+    "english": "you will (do)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "udikindi",
+    "romanized": "udikindi",
+    "english": "is boiled / is cooked",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "aalasyam",
+    "romanized": "aalasyam",
+    "english": "late / delay",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "chatnee",
+    "romanized": "chatnee",
+    "english": "chutney",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "maamidi",
+    "romanized": "maamidi",
+    "english": "mango",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thaathayya",
+    "romanized": "thaathayya",
+    "english": "grandfather (endearing)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "peddavaaru",
+    "romanized": "peddavaaru",
+    "english": "elderly person (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thaaguthaanu",
+    "romanized": "thaaguthaanu",
+    "english": "I will drink",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "chavakagaa",
+    "romanized": "chavakagaa",
+    "english": "cheaply / at a discount",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "enni",
+    "romanized": "enni",
+    "english": "how many",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "arati",
+    "romanized": "arati",
+    "english": "banana",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "nachchindi",
+    "romanized": "nachchindi",
+    "english": "I liked it",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "chesukunnaanu",
+    "romanized": "chesukunnaanu",
+    "english": "I understood",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "nijame",
+    "romanized": "nijame",
+    "english": "truly / really",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "ayiduguru",
+    "romanized": "ayiduguru",
+    "english": "five people",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "santoshamgaa",
+    "romanized": "santoshamgaa",
+    "english": "happily",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "aayudini",
+    "romanized": "aayudini",
+    "english": "I am (identity)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "___",
+    "romanized": "___",
+    "english": "(your name)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "tho",
+    "romanized": "tho",
+    "english": "with",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "undatam",
+    "romanized": "undatam",
+    "english": "living / being",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "manam",
+    "romanized": "manam",
+    "english": "we / ourselves",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "chood",
+    "romanized": "chood",
+    "english": "see / look",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "u",
+    "romanized": "u",
+    "english": "(suffix)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "andarikee",
+    "romanized": "andarikee",
+    "english": "to everyone",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "snehitudini",
+    "romanized": "snehitudini",
+    "english": "I am a friend",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "okkokkati",
+    "romanized": "okkokkati",
+    "english": "one each",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "theesuko",
+    "romanized": "theesuko",
+    "english": "take",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "kathhalu",
+    "romanized": "kathhalu",
+    "english": "stories",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "cheppaaru",
+    "romanized": "cheppaaru",
+    "english": "told (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vimaan",
+    "romanized": "vimaan",
+    "english": "airplane",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "pravaanam",
+    "romanized": "pravaanam",
+    "english": "travel / journey",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "anth",
+    "romanized": "anth",
+    "english": "all / that much",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "a",
+    "romanized": "a",
+    "english": "that",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "athaniki",
+    "romanized": "athaniki",
+    "english": "to him / for him",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "chesthaarru",
+    "romanized": "chesthaarru",
+    "english": "you do (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "ippude",
+    "romanized": "ippude",
+    "english": "right now",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vellaali",
+    "romanized": "vellaali",
+    "english": "must go",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "ruchikaramaina",
+    "romanized": "ruchikaramaina",
+    "english": "delicious",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vacchaanu",
+    "romanized": "vacchaanu",
+    "english": "I came",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "railve",
+    "romanized": "railve",
+    "english": "railway",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "steshn",
+    "romanized": "steshn",
+    "english": "station",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "varaku",
+    "romanized": "varaku",
+    "english": "up to / until",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thaagu",
+    "romanized": "thaagu",
+    "english": "drink (imperative)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "biryaanee",
+    "romanized": "biryaanee",
+    "english": "biryani",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "intloo",
+    "romanized": "intloo",
+    "english": "at home",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "baagundaa",
+    "romanized": "baagundaa",
+    "english": "is (it/they) well?",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "nijam",
+    "romanized": "nijam",
+    "english": "true / truth",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "okkasaari",
+    "romanized": "okkasaari",
+    "english": "once / one time",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "rojulayindi",
+    "romanized": "rojulayindi",
+    "english": "it has been a long time",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "daggaraloo",
+    "romanized": "daggaraloo",
+    "english": "nearby / close",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "lakshmi",
+    "romanized": "lakshmi",
+    "english": "Lakshmi (name)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "jamaa",
+    "romanized": "jamaa",
+    "english": "add / total",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vishayam",
+    "romanized": "vishayam",
+    "english": "matter / news",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "baaguntundi",
+    "romanized": "baaguntundi",
+    "english": "is very good",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "malupuloo",
+    "romanized": "malupuloo",
+    "english": "at the junction",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "mummataakee",
+    "romanized": "mummataakee",
+    "english": "absolutely / completely",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vidyaarthi",
+    "romanized": "vidyaarthi",
+    "english": "student",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "ni",
+    "romanized": "ni",
+    "english": "I am (identity)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "laest",
+    "romanized": "laest",
+    "english": "wake up",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "haanu",
+    "romanized": "haanu",
+    "english": "I wake up",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "meghaalu",
+    "romanized": "meghaalu",
+    "english": "clouds",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "kammukunnayi",
+    "romanized": "kammukunnayi",
+    "english": "have gathered",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "pondaanu",
+    "romanized": "pondaanu",
+    "english": "I got / I received",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "annee",
+    "romanized": "annee",
+    "english": "all",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "kalipithe",
+    "romanized": "kalipithe",
+    "english": "if added together",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "madhyaahnnam",
+    "romanized": "madhyaahnnam",
+    "english": "noon / afternoon",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "tharvaata",
+    "romanized": "tharvaata",
+    "english": "after / later",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vastaanu",
+    "romanized": "vastaanu",
+    "english": "I will come",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "velthu",
+    "romanized": "velthu",
+    "english": "going (while)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "nnaaru",
+    "romanized": "nnaaru",
+    "english": "are (doing)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "tvaralaa",
+    "romanized": "tvaralaa",
+    "english": "soon / quickly",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "raatri",
+    "romanized": "raatri",
+    "english": "night",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "nidrapothaanu",
+    "romanized": "nidrapothaanu",
+    "english": "I will sleep",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "polees",
+    "romanized": "polees",
+    "english": "police",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "steshun",
+    "romanized": "steshun",
+    "english": "station",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "ela",
+    "romanized": "ela",
+    "english": "how",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "pettindi",
+    "romanized": "pettindi",
+    "english": "served / placed",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "puttaaru",
+    "romanized": "puttaaru",
+    "english": "born (honorific)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "veyyi",
+    "romanized": "veyyi",
+    "english": "add / put",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "navvuth",
+    "romanized": "navvuth",
+    "english": "laughing (while)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "avutundi",
+    "romanized": "avutundi",
+    "english": "will cost / will become",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "thinthaanu",
+    "romanized": "thinthaanu",
+    "english": "I will eat",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "prakkan",
+    "romanized": "prakkan",
+    "english": "beside / next to",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "nadavadam",
+    "romanized": "nadavadam",
+    "english": "walking / to walk",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "baagunnaa",
+    "romanized": "baagunnaa",
+    "english": "I am well",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "nu",
+    "romanized": "nu",
+    "english": "(emphatic particle)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "byaankuki",
+    "romanized": "byaankuki",
+    "english": "to the bank",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "velthunnaanu",
+    "romanized": "velthunnaanu",
+    "english": "I am going",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "pallu",
+    "romanized": "pallu",
+    "english": "fruits / teeth",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "raasth",
+    "romanized": "raasth",
+    "english": "writing (while)",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "billu",
+    "romanized": "billu",
+    "english": "bill",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "aayuraalu",
+    "romanized": "aayuraalu",
+    "english": "female teacher",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "sarigga",
+    "romanized": "sarigga",
+    "english": "correctly / accurately",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "paata",
+    "romanized": "paata",
+    "english": "song",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "vinthunnaanu",
+    "romanized": "vinthunnaanu",
+    "english": "I am listening",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "poota",
+    "romanized": "poota",
+    "english": "time / period",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "padutoondi",
+    "romanized": "padutoondi",
+    "english": "is raining / is falling",
+    "category": "PHRASE",
+    "lessonId": 0
+  },
+  {
+    "telugu": "speshal",
+    "romanized": "speshal",
+    "english": "special",
+    "category": "PHRASE",
+    "lessonId": 0
   }
 ]
-  
