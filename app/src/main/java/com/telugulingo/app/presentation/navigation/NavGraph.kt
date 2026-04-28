@@ -1,5 +1,7 @@
 package com.telugulingo.app.presentation.navigation
 
+import androidx.compose.animation.*
+import androidx.compose.animation.core.tween
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.NavType
@@ -14,11 +16,41 @@ import com.telugulingo.app.presentation.screen.quiz.QuizScreen
 import com.telugulingo.app.presentation.screen.settings.SettingsScreen
 import com.telugulingo.app.presentation.screen.vocabulary.VocabularyScreen
 
+private const val NAV_ANIM_DURATION = 350
+
+private val enterTransition: EnterTransition
+    get() = slideInHorizontally(
+        initialOffsetX = { it / 3 },
+        animationSpec = tween(NAV_ANIM_DURATION)
+    ) + fadeIn(animationSpec = tween(NAV_ANIM_DURATION))
+
+private val exitTransition: ExitTransition
+    get() = slideOutHorizontally(
+        targetOffsetX = { -it / 3 },
+        animationSpec = tween(NAV_ANIM_DURATION)
+    ) + fadeOut(animationSpec = tween(NAV_ANIM_DURATION))
+
+private val popEnterTransition: EnterTransition
+    get() = slideInHorizontally(
+        initialOffsetX = { -it / 3 },
+        animationSpec = tween(NAV_ANIM_DURATION)
+    ) + fadeIn(animationSpec = tween(NAV_ANIM_DURATION))
+
+private val popExitTransition: ExitTransition
+    get() = slideOutHorizontally(
+        targetOffsetX = { it / 3 },
+        animationSpec = tween(NAV_ANIM_DURATION)
+    ) + fadeOut(animationSpec = tween(NAV_ANIM_DURATION))
+
 @Composable
 fun NavGraph(navController: NavHostController) {
     NavHost(
         navController = navController,
-        startDestination = Screen.Home.route
+        startDestination = Screen.Home.route,
+        enterTransition = { enterTransition },
+        exitTransition = { exitTransition },
+        popEnterTransition = { popEnterTransition },
+        popExitTransition = { popExitTransition }
     ) {
         composable(Screen.Home.route) {
             HomeScreen(

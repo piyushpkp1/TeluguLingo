@@ -1,12 +1,8 @@
 package com.telugulingo.app.presentation.screen.lesson
 
-import androidx.compose.animation.AnimatedVisibility
+import androidx.compose.animation.*
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.tween
-import androidx.compose.animation.fadeIn
-import androidx.compose.animation.fadeOut
-import androidx.compose.animation.slideInVertically
-import androidx.compose.animation.slideOutVertically
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -38,6 +34,7 @@ fun LessonScreen(
     viewModel: LessonViewModel = hiltViewModel()
 ) {
     val uiState by viewModel.uiState.collectAsState()
+    var hasNavigated by remember { mutableStateOf(false) }
 
     Scaffold(
         containerColor = MaterialTheme.colorScheme.background,
@@ -45,7 +42,12 @@ fun LessonScreen(
             LessonTopBar(
                 currentIndex = uiState.currentCardIndex,
                 totalCount = uiState.vocabulary.size,
-                onBack = onBack
+                onBack = {
+                    if (!hasNavigated) {
+                        hasNavigated = true
+                        onBack()
+                    }
+                }
             )
         }
     ) { paddingValues ->
@@ -68,13 +70,30 @@ fun LessonScreen(
             ) {
                 Spacer(modifier = Modifier.height(8.dp))
 
-                // Vocabulary card with flip animation
-                uiState.vocabulary.getOrNull(uiState.currentCardIndex)?.let { vocab ->
-                    key(uiState.currentCardIndex) {
+                // Vocabulary card with cross-fade transition between cards
+                AnimatedContent(
+                    targetState = uiState.currentCardIndex,
+                    modifier = Modifier.weight(1f),
+                    transitionSpec = {
+                        val direction = if (targetState > initialState) 1 else -1
+                        (slideInHorizontally(
+                            initialOffsetX = { it / 3 * direction },
+                            animationSpec = tween(300)
+                        ) + fadeIn(animationSpec = tween(300))).togetherWith(
+                            slideOutHorizontally(
+                                targetOffsetX = { -it / 3 * direction },
+                                animationSpec = tween(300)
+                            ) + fadeOut(animationSpec = tween(300))
+                        )
+                    },
+                    label = "card_transition"
+                ) { cardIndex ->
+                    uiState.vocabulary.getOrNull(cardIndex)?.let { vocab ->
                         VocabularyCard(
                             vocabulary = vocab,
                             onPlayAudio = { viewModel.playAudio() },
-                            modifier = Modifier.weight(1f)
+                            wordLookup = uiState.wordLookup,
+                            modifier = Modifier.fillMaxSize()
                         )
                     }
                 }
@@ -104,8 +123,11 @@ fun LessonScreen(
                         onClick = {
                             viewModel.markCardViewed()
                             if (isLastCard) {
-                                viewModel.completeLesson()
-                                onBack()
+                                if (!hasNavigated) {
+                                    hasNavigated = true
+                                    viewModel.completeLesson()
+                                    onBack()
+                                }
                             } else {
                                 viewModel.nextCard()
                             }
@@ -140,12 +162,18 @@ fun LessonScreen(
                 ) {
                     CompletionPanel(
                         onPracticeClick = {
-                            viewModel.completeLesson()
-                            onPracticeClick()
+                            if (!hasNavigated) {
+                                hasNavigated = true
+                                viewModel.completeLesson()
+                                onPracticeClick()
+                            }
                         },
                         onQuizClick = {
-                            viewModel.completeLesson()
-                            onQuizClick()
+                            if (!hasNavigated) {
+                                hasNavigated = true
+                                viewModel.completeLesson()
+                                onQuizClick()
+                            }
                         }
                     )
                 }

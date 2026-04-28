@@ -66,7 +66,7 @@ class PracticeViewModel @Inject constructor(
 
     fun playAudio() {
         val currentVocab = _uiState.value.vocabulary.getOrNull(_uiState.value.currentIndex)
-        currentVocab?.let { ttsService.speak(it.wordTelugu) }
+        currentVocab?.let { ttsService.speak(it.wordTelugu, it.wordRomanized) }
     }
 
     fun startListening() {

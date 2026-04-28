@@ -143,7 +143,7 @@ fun HomeScreen(
 
                 item { SectionLabel(text = "All Lessons") }
 
-                items(uiState.lessons.size) { index ->
+                items(uiState.lessons.size, key = { uiState.lessons[it].id }) { index ->
                     val lesson = uiState.lessons[index]
                     val completedCount = uiState.user?.dailyLessonIndex ?: 0
                     val state = when {
@@ -182,7 +182,7 @@ private fun HeroHeader(
                 Brush.linearGradient(
                     colors = listOf(
                         BrandPrimary,
-                        Color(0xFF8B5CF6),
+                        Color(0xFFE07830),
                     )
                 )
             )

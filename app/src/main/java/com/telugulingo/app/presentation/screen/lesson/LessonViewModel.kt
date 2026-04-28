@@ -23,7 +23,8 @@ data class LessonUiState(
     val isLoading: Boolean = true,
     val isSpeaking: Boolean = false,
     val allCardsViewed: Boolean = false,
-    val isAlreadyCompleted: Boolean = false
+    val isAlreadyCompleted: Boolean = false,
+    val wordLookup: Map<String, String> = emptyMap()
 )
 
 @HiltViewModel
@@ -51,13 +52,18 @@ class LessonViewModel @Inject constructor(
             val lesson = lessonRepository.getLessonById(lessonId)
             val vocabulary = vocabularyRepository.getVocabularyForLessonOnce(lessonId)
             val progress = progressDao.getProgressForLesson(lessonId)
+            val allVocabulary = vocabularyRepository.getAllVocabularyOnce()
+            val wordLookup = allVocabulary
+                .filter { it.wordRomanized.isNotBlank() }
+                .associate { it.wordRomanized.trim().lowercase() to it.wordEnglish }
 
             _uiState.update {
                 it.copy(
                     lesson = lesson,
                     vocabulary = vocabulary,
                     isAlreadyCompleted = progress?.isCompleted == true,
-                    isLoading = false
+                    isLoading = false,
+                    wordLookup = wordLookup
                 )
             }
         }
@@ -93,7 +99,7 @@ class LessonViewModel @Inject constructor(
 
     fun playAudio() {
         val currentVocab = _uiState.value.vocabulary.getOrNull(_uiState.value.currentCardIndex)
-        currentVocab?.let { ttsService.speak(it.wordTelugu) }
+        currentVocab?.let { ttsService.speak(it.wordTelugu, it.wordRomanized) }
     }
 
     fun markCardViewed() {
@@ -118,10 +124,15 @@ class LessonViewModel @Inject constructor(
                         xpEarned = lesson.xpReward
                     )
                 )
+                // addXP and updateStreak each do their own read-modify-write at the entity level,
+                // so they are safe individually. Run them sequentially before reading fresh state.
                 userRepository.addXP(lesson.xpReward)
                 userRepository.updateStreak()
-                val user = userRepository.getUserOnce()
-                user?.let {
+
+                // Read the freshest user state (after XP and streak are persisted)
+                // and apply the lesson index bump on top of it.
+                val freshUser = userRepository.getUserOnce()
+                freshUser?.let {
                     userRepository.updateUser(it.copy(dailyLessonIndex = it.dailyLessonIndex + 1))
                 }
                 _uiState.update { it.copy(isAlreadyCompleted = true) }

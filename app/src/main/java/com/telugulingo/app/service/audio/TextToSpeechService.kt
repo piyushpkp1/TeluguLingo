@@ -15,43 +15,86 @@ class TextToSpeechService @Inject constructor(
     @ApplicationContext private val context: Context
 ) {
     private var tts: TextToSpeech? = null
+    private var isInitializing = false
     private val _isReady = MutableStateFlow(false)
     val isReady: StateFlow<Boolean> = _isReady
 
     private val _isSpeaking = MutableStateFlow(false)
     val isSpeaking: StateFlow<Boolean> = _isSpeaking
 
+    private var teluguAvailable = false
+    private var pendingSpeak: SpeakRequest? = null
+
+    data class SpeakRequest(val telugu: String, val romanized: String)
+
     fun initialize() {
-        if (_isReady.value) return
+        if (_isReady.value || isInitializing) return
+        isInitializing = true
         tts = TextToSpeech(context) { status ->
             if (status == TextToSpeech.SUCCESS) {
-                val result = tts?.setLanguage(Locale("te", "IN"))
-                if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
+                val teluguResult = tts?.setLanguage(Locale("te", "IN"))
+                teluguAvailable = teluguResult != TextToSpeech.LANG_MISSING_DATA &&
+                        teluguResult != TextToSpeech.LANG_NOT_SUPPORTED
+
+                if (!teluguAvailable) {
+                    // Fall back to English for romanized pronunciation
                     tts?.setLanguage(Locale.US)
                 }
+
+                tts?.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
+                    override fun onStart(utteranceId: String?) {
+                        _isSpeaking.value = true
+                    }
+
+                    override fun onDone(utteranceId: String?) {
+                        _isSpeaking.value = false
+                    }
+
+                    override fun onError(utteranceId: String?) {
+                        _isSpeaking.value = false
+                    }
+                })
+
                 _isReady.value = true
+                isInitializing = false
+
+                // Speak any text that was requested while initializing
+                pendingSpeak?.let { request ->
+                    pendingSpeak = null
+                    speakInternal(request)
+                }
+            } else {
+                isInitializing = false
             }
         }
-        tts?.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
-            override fun onStart(utteranceId: String?) {
-                _isSpeaking.value = true
-            }
-
-            override fun onDone(utteranceId: String?) {
-                _isSpeaking.value = false
-            }
-
-            override fun onError(utteranceId: String?) {
-                _isSpeaking.value = false
-            }
-        })
     }
 
-    fun speak(text: String) {
-        if (!_isReady.value) {
+    /**
+     * Speak a word — pass both the Telugu script and romanized form.
+     * If Telugu TTS is available on the device, the Telugu text is spoken.
+     * Otherwise, the romanized text is spoken using English TTS as a fallback.
+     */
+    fun speak(teluguText: String, romanizedText: String = teluguText) {
+        val request = SpeakRequest(teluguText, romanizedText)
+        if (_isReady.value) {
+            speakInternal(request)
+        } else {
+            pendingSpeak = request
             initialize()
         }
-        tts?.speak(text, TextToSpeech.QUEUE_FLUSH, null, "utterance_${System.currentTimeMillis()}")
+    }
+
+    private fun speakInternal(request: SpeakRequest) {
+        val textToSpeak = if (teluguAvailable) request.telugu else request.romanized
+
+        // Ensure the correct locale is active
+        if (teluguAvailable) {
+            tts?.setLanguage(Locale("te", "IN"))
+        } else {
+            tts?.setLanguage(Locale.US)
+        }
+
+        tts?.speak(textToSpeak, TextToSpeech.QUEUE_FLUSH, null, "utterance_${System.currentTimeMillis()}")
     }
 
     fun setSpeechRate(rate: Float) {
@@ -68,5 +111,7 @@ class TextToSpeechService @Inject constructor(
         tts?.shutdown()
         tts = null
         _isReady.value = false
+        isInitializing = false
+        teluguAvailable = false
     }
 }

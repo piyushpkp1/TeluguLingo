@@ -99,6 +99,7 @@ class QuizViewModel @Inject constructor(
             }
         }
 
+        // Award/penalize immediately for this question only
         viewModelScope.launch {
             if (isCorrect) {
                 userRepository.addXP(state.xpPerQuestion)
@@ -123,14 +124,17 @@ class QuizViewModel @Inject constructor(
         viewModelScope.launch {
             val state = _uiState.value
             if (state.currentQuestionIndex >= state.questions.size - 1) {
-                val xp = state.correctAnswers * state.xpPerQuestion +
-                    if (state.correctAnswers == state.questions.size) 25 else 0
-                userRepository.addXP(xp)
+                // Quiz complete — only award the perfect-score bonus, not per-question XP again
+                val bonusXP = if (state.correctAnswers == state.questions.size) 25 else 0
+                if (bonusXP > 0) {
+                    userRepository.addXP(bonusXP)
+                }
                 userRepository.incrementLessonsCompleted()
+                val totalXP = state.correctAnswers * state.xpPerQuestion + bonusXP
                 _uiState.update {
                     it.copy(
                         isComplete = true,
-                        xpEarned = xp
+                        xpEarned = totalXP
                     )
                 }
             } else {
