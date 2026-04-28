@@ -7,6 +7,7 @@ import androidx.compose.foundation.clickable
 import androidx.compose.foundation.interaction.MutableInteractionSource
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.foundation.text.ClickableText
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.VolumeUp
 import androidx.compose.material3.*
@@ -16,8 +17,12 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.ui.text.SpanStyle
+import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.text.style.TextDecoration
+import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.telugulingo.app.domain.model.Vocabulary
@@ -27,6 +32,7 @@ import com.telugulingo.app.presentation.theme.XPGold
 fun VocabularyCard(
     vocabulary: Vocabulary,
     onPlayAudio: () -> Unit,
+    wordLookup: Map<String, String> = emptyMap(),
     modifier: Modifier = Modifier
 ) {
     var isFlipped by remember { mutableStateOf(false) }
@@ -52,7 +58,7 @@ fun VocabularyCard(
             CardFront(vocabulary = vocabulary)
         } else {
             Box(modifier = Modifier.graphicsLayer { rotationY = 180f }) {
-                CardBack(vocabulary = vocabulary, onPlayAudio = onPlayAudio)
+                CardBack(vocabulary = vocabulary, onPlayAudio = onPlayAudio, wordLookup = wordLookup)
             }
         }
     }
@@ -99,7 +105,13 @@ private fun CardFront(vocabulary: Vocabulary) {
 }
 
 @Composable
-private fun CardBack(vocabulary: Vocabulary, onPlayAudio: () -> Unit) {
+private fun CardBack(
+    vocabulary: Vocabulary,
+    onPlayAudio: () -> Unit,
+    wordLookup: Map<String, String>
+) {
+    var wordPopup by remember { mutableStateOf<Pair<String, String>?>(null) }
+
     Card(
         modifier = Modifier.fillMaxSize(),
         shape = RoundedCornerShape(28.dp),
@@ -130,12 +142,10 @@ private fun CardBack(vocabulary: Vocabulary, onPlayAudio: () -> Unit) {
                     lineHeight = 48.sp
                 )
                 Spacer(modifier = Modifier.height(8.dp))
-                Text(
-                    text = vocabulary.wordRomanized,
-                    style = MaterialTheme.typography.titleLarge,
-                    textAlign = TextAlign.Center,
-                    fontWeight = FontWeight.Medium,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                ClickableWordText(
+                    romanized = vocabulary.wordRomanized,
+                    wordLookup = wordLookup,
+                    onWordTapped = { word, meaning -> wordPopup = word to meaning }
                 )
                 Spacer(modifier = Modifier.height(20.dp))
                 Surface(
@@ -182,6 +192,85 @@ private fun CardBack(vocabulary: Vocabulary, onPlayAudio: () -> Unit) {
                     )
                 }
             }
+        }
+    }
+
+    wordPopup?.let { (word, meaning) ->
+        AlertDialog(
+            onDismissRequest = { wordPopup = null },
+            title = {
+                Text(word, fontWeight = FontWeight.Bold)
+            },
+            text = {
+                Text(meaning, style = MaterialTheme.typography.bodyLarge)
+            },
+            confirmButton = {
+                TextButton(onClick = { wordPopup = null }) {
+                    Text("Got it")
+                }
+            }
+        )
+    }
+}
+
+@Composable
+private fun ClickableWordText(
+    romanized: String,
+    wordLookup: Map<String, String>,
+    onWordTapped: (word: String, meaning: String) -> Unit,
+) {
+    val colorScheme = MaterialTheme.colorScheme
+    val tokens = romanized.split(" ")
+    val hasAnyKnownWord = tokens.any { token ->
+        val clean = token.trimEnd('?', '!', ',', '.', '\'', '"').lowercase()
+        wordLookup.containsKey(clean)
+    }
+
+    val annotatedString = buildAnnotatedString {
+        tokens.forEachIndexed { index, token ->
+            val cleanToken = token.trimEnd('?', '!', ',', '.', '\'', '"')
+            val meaning = wordLookup[cleanToken.lowercase()]
+            if (meaning != null) {
+                pushStringAnnotation("WORD", "$cleanToken|||$meaning")
+                withStyle(
+                    SpanStyle(
+                        color = colorScheme.primary,
+                        textDecoration = TextDecoration.Underline,
+                        fontWeight = FontWeight.Medium
+                    )
+                ) { append(token) }
+                pop()
+            } else {
+                withStyle(
+                    SpanStyle(
+                        color = colorScheme.onSurfaceVariant,
+                        fontWeight = FontWeight.Medium
+                    )
+                ) { append(token) }
+            }
+            if (index < tokens.size - 1) append(" ")
+        }
+    }
+
+    Column(horizontalAlignment = Alignment.CenterHorizontally) {
+        ClickableText(
+            text = annotatedString,
+            style = MaterialTheme.typography.titleLarge.copy(textAlign = TextAlign.Center),
+            onClick = { offset ->
+                annotatedString.getStringAnnotations("WORD", offset, offset)
+                    .firstOrNull()?.let { annotation ->
+                        val parts = annotation.item.split("|||", limit = 2)
+                        if (parts.size == 2) onWordTapped(parts[0], parts[1])
+                    }
+            }
+        )
+        if (hasAnyKnownWord) {
+            Spacer(modifier = Modifier.height(4.dp))
+            Text(
+                text = "Tap a word for its meaning",
+                style = MaterialTheme.typography.labelSmall,
+                color = colorScheme.onSurfaceVariant.copy(alpha = 0.6f)
+            )
         }
     }
 }

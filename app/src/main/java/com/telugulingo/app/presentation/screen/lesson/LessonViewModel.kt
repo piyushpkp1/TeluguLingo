@@ -23,7 +23,8 @@ data class LessonUiState(
     val isLoading: Boolean = true,
     val isSpeaking: Boolean = false,
     val allCardsViewed: Boolean = false,
-    val isAlreadyCompleted: Boolean = false
+    val isAlreadyCompleted: Boolean = false,
+    val wordLookup: Map<String, String> = emptyMap()
 )
 
 @HiltViewModel
@@ -51,13 +52,18 @@ class LessonViewModel @Inject constructor(
             val lesson = lessonRepository.getLessonById(lessonId)
             val vocabulary = vocabularyRepository.getVocabularyForLessonOnce(lessonId)
             val progress = progressDao.getProgressForLesson(lessonId)
+            val allVocabulary = vocabularyRepository.getAllVocabularyOnce()
+            val wordLookup = allVocabulary
+                .filter { it.wordRomanized.isNotBlank() }
+                .associate { it.wordRomanized.trim().lowercase() to it.wordEnglish }
 
             _uiState.update {
                 it.copy(
                     lesson = lesson,
                     vocabulary = vocabulary,
                     isAlreadyCompleted = progress?.isCompleted == true,
-                    isLoading = false
+                    isLoading = false,
+                    wordLookup = wordLookup
                 )
             }
         }

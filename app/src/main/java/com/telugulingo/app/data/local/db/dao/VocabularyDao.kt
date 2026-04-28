@@ -15,6 +15,9 @@ interface VocabularyDao {
     @Query("SELECT * FROM vocabulary")
     fun getAllVocabulary(): Flow<List<VocabularyEntity>>
 
+    @Query("SELECT * FROM vocabulary")
+    suspend fun getAllVocabularyOnce(): List<VocabularyEntity>
+
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertVocabulary(vocabulary: VocabularyEntity)
 

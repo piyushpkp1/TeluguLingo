@@ -92,6 +92,7 @@ fun LessonScreen(
                         VocabularyCard(
                             vocabulary = vocab,
                             onPlayAudio = { viewModel.playAudio() },
+                            wordLookup = uiState.wordLookup,
                             modifier = Modifier.fillMaxSize()
                         )
                     }
