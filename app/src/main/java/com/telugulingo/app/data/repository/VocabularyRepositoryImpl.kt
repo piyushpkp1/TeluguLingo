@@ -28,6 +28,17 @@ class VocabularyRepositoryImpl @Inject constructor(
     override suspend fun getAllVocabularyOnce(): List<Vocabulary> =
         vocabularyDao.getAllVocabularyOnce().map { it.toDomain() }
 
+    override suspend fun getWordDictionary(): Map<String, String> {
+        return try {
+            val inputStream = context.assets.open("word_dictionary.json")
+            val json = org.json.JSONObject(inputStream.bufferedReader().readText())
+            inputStream.close()
+            json.keys().asSequence().associate { key -> key to json.getString(key) }
+        } catch (e: Exception) {
+            emptyMap()
+        }
+    }
+
     override suspend fun initializeVocabulary() {
         val existing = vocabularyDao.getVocabularyForLessonOnce(1)
         if (existing.isNotEmpty()) return

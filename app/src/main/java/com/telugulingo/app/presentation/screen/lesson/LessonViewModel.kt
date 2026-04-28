@@ -53,9 +53,11 @@ class LessonViewModel @Inject constructor(
             val vocabulary = vocabularyRepository.getVocabularyForLessonOnce(lessonId)
             val progress = progressDao.getProgressForLesson(lessonId)
             val allVocabulary = vocabularyRepository.getAllVocabularyOnce()
-            val wordLookup = allVocabulary
+            val vocabLookup = allVocabulary
                 .filter { it.wordRomanized.isNotBlank() }
                 .associate { it.wordRomanized.trim().lowercase() to it.wordEnglish }
+            val wordDictionary = vocabularyRepository.getWordDictionary()
+            val wordLookup = vocabLookup + wordDictionary
 
             _uiState.update {
                 it.copy(

@@ -7,5 +7,6 @@ interface VocabularyRepository {
     fun getVocabularyForLesson(lessonId: Long): Flow<List<Vocabulary>>
     suspend fun getVocabularyForLessonOnce(lessonId: Long): List<Vocabulary>
     suspend fun getAllVocabularyOnce(): List<Vocabulary>
+    suspend fun getWordDictionary(): Map<String, String>
     suspend fun initializeVocabulary()
 }
